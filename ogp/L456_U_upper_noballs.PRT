@@ -1,0 +1,500 @@
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L456_Uupper_noballs.RTN                              1 Thu Oct 30 12:23:26 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - L5 plane, touch
+X Location    mm            +0172.8863                                          
+Y Location    mm            +0221.8944                                          
+Z Location    mm            -0061.3677                                          
+Flatness      mm            +0000.0542                                          
+XY Angle      dd            -0022.2517                                          
+Elevation     dd            +0089.9823                                          
+ 
+Step 3 - L5 hole pin
+Diameter      mm +0003.1750 +0003.1730                     -0000.0020           
+X Location    mm +0022.1053 +0022.1052                     -0000.0001           
+Y Location    mm +0212.7247 +0212.7246                     -0000.0001           
+Z Location    mm +0000.8500 +0000.8500                     +0000.0000           
+Cylindricity  mm            +0000.0095                     +0000.0095           
+XY Angle      dd +0033.1209 -0030.6665                     -0063.7874           
+Elevation     dd +0090.0000 +0089.9609                     -0000.0391           
+ 
+Step 4 - L5 slot pin
+Diameter      mm +0003.1750 +0003.1755                     +0000.0005           
+X Location    mm +0320.5107 +0320.5100                     -0000.0007           
+Y Location    mm +0212.6519 +0212.6513                     -0000.0006           
+Z Location    mm +0000.8500 +0000.8507                     +0000.0007           
+Cylindricity  mm            +0000.0035                     +0000.0035           
+XY Angle      dd +0010.8834 +0035.1328                     +0024.2494           
+Elevation     dd +0090.0000 +0089.8124                     -0000.1876           
+ 
+Step 5 - L5 hole pin intersection
+X Location    mm            +0022.1047                                          
+Y Location    mm            +0212.7249                                          
+Z Location    mm            -0000.0000                                          
+ 
+Step 6 - L5 slot pin intersection
+X Location    mm            +0320.5077                                          
+Y Location    mm            +0212.6497                                          
+Z Location    mm            -0000.0000                                          
+ 
+Step 9 - L4 plane, touch
+X Location    mm            +0151.0503                                          
+Y Location    mm            -0190.7312                                          
+Z Location    mm            +0003.0395                                          
+Flatness      mm            +0000.0106                                          
+XY Angle      dd            +0096.6791                                          
+Elevation     dd            +0089.9639                                          
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 10 - L4 hole pin
+Diameter      mm +0003.1750 +0003.1729                     -0000.0021           
+X Location    mm +0000.0000 +0000.0185                     +0000.0185           
+Y Location    mm -0200.0000 -0200.0383                     +0000.0383           
+Z Location    mm +0003.8500 +0003.8497                     -0000.0003           
+Cylindricity  mm            +0000.0019                     +0000.0019           
+XY Angle      dd +0000.0000 -0045.5430                     -0045.5430           
+Elevation     dd +0090.0000 +0089.9385                     -0000.0615           
+ 
+Step 11 - L4 slot pin
+Diameter      mm +0003.1750 +0003.1750                     -0000.0000           
+X Location    mm +0298.4500 +0298.4487                     -0000.0013           
+Y Location    mm -0200.0000 -0200.0123                     +0000.0123           
+Z Location    mm +0003.8500 +0003.8498                     -0000.0002           
+Cylindricity  mm            +0000.0021                     +0000.0021           
+XY Angle      dd -0160.6560 +0007.6125                     +0168.2685           
+Elevation     dd +0090.0000 +0089.8588                     -0000.1412           
+ 
+Step 12 - L4 hole pin intersection
+X Location    mm            +0000.0179                                          
+Y Location    mm            -0200.0376                                          
+Z Location    mm            +0003.0342                                          
+ 
+Step 13 - L4 slot pin intersection
+X Location    mm            +0298.4467                                          
+Y Location    mm            -0200.0126                                          
+Z Location    mm            +0003.0561                                          
+ 
+Step 14 - L6 plane, touch
+X Location    mm +0151.1885 +0151.1887                     +0000.0002           
+Y Location    mm +0209.1237 +0209.1228                     -0000.0009           
+Z Location    mm +0000.0000 -0002.9246                     -0002.9246           
+Flatness      mm            +0000.0280                     +0000.0280           
+XY Angle      dd -0106.3626 -0105.6183                     +0000.7443           
+Elevation     dd +0090.0000 +0089.9685                     -0000.0315           
+ 
+Step 15 - L6 hole pin
+Diameter      mm +0003.1750 +0003.1735                     -0000.0015           
+X Location    mm +0000.0000 -0000.0347                     -0000.0347           
+Y Location    mm +0200.0000 +0199.9629                     -0000.0371           
+Z Location    mm -0002.1500 -0002.1536                     +0000.0036           
+Cylindricity  mm            +0000.0068                     +0000.0068           
+XY Angle      dd -0079.6052 -0080.1364                     -0000.5312           
+Elevation     dd +0090.0000 +0089.4321                     -0000.5679           
+Machine Serial Number: SVW5001902                                     Page:    3
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 16 - L6 slot pin
+Diameter      mm +0003.1750 +0003.1753                     +0000.0003           
+X Location    mm +0298.4500 +0298.3657                     -0000.0843           
+Y Location    mm +0200.0000 +0200.0032                     +0000.0032           
+Z Location    mm -0002.1500 -0002.1502                     +0000.0002           
+Cylindricity  mm            +0000.0023                     +0000.0023           
+XY Angle      dd +0091.2524 +0053.1070                     -0038.1454           
+Elevation     dd +0090.0000 +0089.9861                     -0000.0139           
+ 
+Step 17 - L6 hole pin intersection
+X Location    mm            -0000.0360                                          
+Y Location    mm            +0199.9707                                          
+Z Location    mm            -0002.9518                                          
+ 
+Step 18 - L6 slot pin intersection
+X Location    mm            +0298.3656                                          
+Y Location    mm            +0200.0031                                          
+Z Location    mm            -0002.9076                                          
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L456_Uupper_noballs.RTN                              2 Thu Oct 30 14:49:05 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - L5 plane, touch
+X Location    mm            +0172.8861                                          
+Y Location    mm            +0221.8945                                          
+Z Location    mm            -0061.3671                                          
+Flatness      mm            +0000.0534                                          
+XY Angle      dd            -0022.1895                                          
+Elevation     dd            +0089.9824                                          
+ 
+Step 3 - L5 hole pin
+Diameter      mm +0003.1750 +0003.1732                     -0000.0018           
+X Location    mm +0022.1053 +0022.1037                     -0000.0016           
+Y Location    mm +0212.7247 +0212.7254                     +0000.0007           
+Z Location    mm +0000.8500 +0000.8492                     -0000.0008           
+Cylindricity  mm            +0000.0092                     +0000.0092           
+XY Angle      dd +0033.1209 -0031.2207                     -0064.3416           
+Elevation     dd +0090.0000 +0089.9038                     -0000.0962           
+ 
+Step 4 - L5 slot pin
+Diameter      mm +0003.1750 +0003.1749                     -0000.0001           
+X Location    mm +0320.5107 +0320.5079                     -0000.0028           
+Y Location    mm +0212.6519 +0212.6525                     +0000.0006           
+Z Location    mm +0000.8500 +0000.8495                     -0000.0005           
+Cylindricity  mm            +0000.0041                     +0000.0041           
+XY Angle      dd +0010.8834 +0015.8386                     +0004.9552           
+Elevation     dd +0090.0000 +0089.6732                     -0000.3268           
+ 
+Step 5 - L5 hole pin intersection
+X Location    mm            +0022.1025                                          
+Y Location    mm            +0212.7262                                          
+Z Location    mm            +0000.0000                                          
+ 
+Step 6 - L5 slot pin intersection
+X Location    mm            +0320.5033                                          
+Y Location    mm            +0212.6512                                          
+Z Location    mm            +0000.0000                                          
+ 
+Step 9 - L4 plane, touch
+X Location    mm            +0151.0507                                          
+Y Location    mm            -0190.7309                                          
+Z Location    mm            +0003.0392                                          
+Flatness      mm            +0000.0112                                          
+XY Angle      dd            +0096.1734                                          
+Elevation     dd            +0089.9633                                          
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 10 - L4 hole pin
+Diameter      mm +0003.1750 +0003.1737                     -0000.0013           
+X Location    mm +0000.0000 +0000.0196                     +0000.0196           
+Y Location    mm -0200.0000 -0200.0391                     +0000.0391           
+Z Location    mm +0003.8500 +0003.8499                     -0000.0001           
+Cylindricity  mm            +0000.0016                     +0000.0016           
+XY Angle      dd +0000.0000 +0052.4914                     +0052.4914           
+Elevation     dd +0090.0000 +0089.9021                     -0000.0979           
+ 
+Step 11 - L4 slot pin
+Diameter      mm +0003.1750 +0003.1747                     -0000.0003           
+X Location    mm +0298.4500 +0298.4497                     -0000.0003           
+Y Location    mm -0200.0000 -0200.0122                     +0000.0122           
+Z Location    mm +0003.8500 +0003.8488                     -0000.0012           
+Cylindricity  mm            +0000.0024                     +0000.0024           
+XY Angle      dd -0160.6560 -0110.1073                     +0050.5487           
+Elevation     dd +0090.0000 +0089.8545                     -0000.1455           
+ 
+Step 12 - L4 hole pin intersection
+X Location    mm            +0000.0187                                          
+Y Location    mm            -0200.0402                                          
+Z Location    mm            +0003.0347                                          
+ 
+Step 13 - L4 slot pin intersection
+X Location    mm            +0298.4504                                          
+Y Location    mm            -0200.0103                                          
+Z Location    mm            +0003.0552                                          
+ 
+Step 14 - L6 plane, touch
+X Location    mm +0151.1885 +0151.1887                     +0000.0002           
+Y Location    mm +0209.1237 +0209.1225                     -0000.0012           
+Z Location    mm +0000.0000 -0002.9248                     -0002.9248           
+Flatness      mm            +0000.0290                     +0000.0290           
+XY Angle      dd -0106.3626 -0104.5896                     +0001.7730           
+Elevation     dd +0090.0000 +0089.9669                     -0000.0331           
+ 
+Step 15 - L6 hole pin
+Diameter      mm +0003.1750 +0003.1733                     -0000.0017           
+X Location    mm +0000.0000 -0000.0339                     -0000.0339           
+Y Location    mm +0200.0000 +0199.9620                     -0000.0380           
+Z Location    mm -0002.1500 -0002.1564                     +0000.0064           
+Cylindricity  mm            +0000.0072                     +0000.0072           
+XY Angle      dd -0079.6052 -0070.1516                     +0009.4536           
+Elevation     dd +0090.0000 +0089.2299                     -0000.7701           
+Machine Serial Number: SVW5001902                                     Page:    3
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 16 - L6 slot pin
+Diameter      mm +0003.1750 +0003.1746                     -0000.0004           
+X Location    mm +0298.4500 +0298.3664                     -0000.0836           
+Y Location    mm +0200.0000 +0200.0024                     +0000.0024           
+Z Location    mm -0002.1500 -0002.1492                     -0000.0008           
+Cylindricity  mm            +0000.0025                     +0000.0025           
+XY Angle      dd +0091.2524 +0045.9369                     -0045.3155           
+Elevation     dd +0090.0000 +0089.8014                     -0000.1986           
+ 
+Step 17 - L6 hole pin intersection
+X Location    mm            -0000.0375                                          
+Y Location    mm            +0199.9720                                          
+Z Location    mm            -0002.9520                                          
+ 
+Step 18 - L6 slot pin intersection
+X Location    mm            +0298.3646                                          
+Y Location    mm            +0200.0005                                          
+Z Location    mm            -0002.9085                                          
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L456_Uupper_noballs.RTN                              3 Thu Oct 30 14:54:15 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - L5 plane, touch
+X Location    mm            +0172.8863                                          
+Y Location    mm            +0221.8945                                          
+Z Location    mm            -0061.3680                                          
+Flatness      mm            +0000.0542                                          
+XY Angle      dd            -0022.3946                                          
+Elevation     dd            +0089.9822                                          
+ 
+Step 3 - L5 hole pin
+Diameter      mm +0003.1750 +0003.1727                     -0000.0023           
+X Location    mm +0022.1053 +0022.1045                     -0000.0008           
+Y Location    mm +0212.7247 +0212.7245                     -0000.0002           
+Z Location    mm +0000.8500 +0000.8506                     +0000.0006           
+Cylindricity  mm            +0000.0094                     +0000.0094           
+XY Angle      dd +0033.1209 -0012.7762                     -0045.8971           
+Elevation     dd +0090.0000 +0089.8898                     -0000.1102           
+ 
+Step 4 - L5 slot pin
+Diameter      mm +0003.1750 +0003.1756                     +0000.0006           
+X Location    mm +0320.5107 +0320.5088                     -0000.0019           
+Y Location    mm +0212.6519 +0212.6516                     -0000.0003           
+Z Location    mm +0000.8500 +0000.8506                     +0000.0006           
+Cylindricity  mm            +0000.0041                     +0000.0041           
+XY Angle      dd +0010.8834 +0019.7354                     +0008.8520           
+Elevation     dd +0090.0000 +0089.8575                     -0000.1425           
+ 
+Step 5 - L5 hole pin intersection
+X Location    mm            +0022.1029                                          
+Y Location    mm            +0212.7249                                          
+Z Location    mm            +0000.0000                                          
+ 
+Step 6 - L5 slot pin intersection
+X Location    mm            +0320.5068                                          
+Y Location    mm            +0212.6509                                          
+Z Location    mm            -0000.0000                                          
+ 
+Step 9 - L4 plane, touch
+X Location    mm            +0151.0502                                          
+Y Location    mm            -0190.7311                                          
+Z Location    mm            +0003.0394                                          
+Flatness      mm            +0000.0112                                          
+XY Angle      dd            +0096.6035                                          
+Elevation     dd            +0089.9643                                          
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 10 - L4 hole pin
+Diameter      mm +0003.1750 +0003.1747                     -0000.0003           
+X Location    mm +0000.0000 +0000.0194                     +0000.0194           
+Y Location    mm -0200.0000 -0200.0391                     +0000.0391           
+Z Location    mm +0003.8500 +0003.8496                     -0000.0004           
+Cylindricity  mm            +0000.0014                     +0000.0014           
+XY Angle      dd +0000.0000 +0115.9596                     +0115.9596           
+Elevation     dd +0090.0000 +0089.9756                     -0000.0244           
+ 
+Step 11 - L4 slot pin
+Diameter      mm +0003.1750 +0003.1748                     -0000.0002           
+X Location    mm +0298.4500 +0298.4482                     -0000.0018           
+Y Location    mm -0200.0000 -0200.0127                     +0000.0127           
+Z Location    mm +0003.8500 +0003.8505                     +0000.0005           
+Cylindricity  mm            +0000.0020                     +0000.0020           
+XY Angle      dd -0160.6560 -0109.1580                     +0051.4980           
+Elevation     dd +0090.0000 +0089.9338                     -0000.0662           
+ 
+Step 12 - L4 hole pin intersection
+X Location    mm            +0000.0195                                          
+Y Location    mm            -0200.0394                                          
+Z Location    mm            +0003.0343                                          
+ 
+Step 13 - L4 slot pin intersection
+X Location    mm            +0298.4485                                          
+Y Location    mm            -0200.0118                                          
+Z Location    mm            +0003.0557                                          
+ 
+Step 14 - L6 plane, touch
+X Location    mm +0151.1885 +0151.1888                     +0000.0003           
+Y Location    mm +0209.1237 +0209.1230                     -0000.0007           
+Z Location    mm +0000.0000 -0002.9250                     -0002.9250           
+Flatness      mm            +0000.0281                     +0000.0281           
+XY Angle      dd -0106.3626 -0105.1230                     +0001.2396           
+Elevation     dd +0090.0000 +0089.9677                     -0000.0323           
+ 
+Step 15 - L6 hole pin
+Diameter      mm +0003.1750 +0003.1733                     -0000.0017           
+X Location    mm +0000.0000 -0000.0332                     -0000.0332           
+Y Location    mm +0200.0000 +0199.9628                     -0000.0372           
+Z Location    mm -0002.1500 -0002.1547                     +0000.0047           
+Cylindricity  mm            +0000.0069                     +0000.0069           
+XY Angle      dd -0079.6052 -0072.0821                     +0007.5231           
+Elevation     dd +0090.0000 +0089.3963                     -0000.6037           
+Machine Serial Number: SVW5001902                                     Page:    3
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 16 - L6 slot pin
+Diameter      mm +0003.1750 +0003.1747                     -0000.0003           
+X Location    mm +0298.4500 +0298.3666                     -0000.0834           
+Y Location    mm +0200.0000 +0200.0014                     +0000.0014           
+Z Location    mm -0002.1500 -0002.1495                     -0000.0005           
+Cylindricity  mm            +0000.0021                     +0000.0021           
+XY Angle      dd +0091.2524 +0049.7914                     -0041.4610           
+Elevation     dd +0090.0000 +0089.8500                     -0000.1500           
+ 
+Step 17 - L6 hole pin intersection
+X Location    mm            -0000.0358                                          
+Y Location    mm            +0199.9708                                          
+Z Location    mm            -0002.9522                                          
+ 
+Step 18 - L6 slot pin intersection
+X Location    mm            +0298.3653                                          
+Y Location    mm            +0199.9999                                          
+Z Location    mm            -0002.9083                                          
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L456_Uupper_noballs.RTN                              4 Thu Oct 30 15:00:21 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - L5 plane, touch
+X Location    mm            +0172.8863                                          
+Y Location    mm            +0221.8945                                          
+Z Location    mm            -0061.3692                                          
+Flatness      mm            +0000.0543                                          
+XY Angle      dd            -0019.7158                                          
+Elevation     dd            +0089.9825                                          
+ 
+Step 3 - L5 hole pin
+Diameter      mm +0003.1750 +0003.1733                     -0000.0017           
+X Location    mm +0022.1053 +0022.1050                     -0000.0003           
+Y Location    mm +0212.7247 +0212.7243                     -0000.0004           
+Z Location    mm +0000.8500 +0000.8498                     -0000.0002           
+Cylindricity  mm            +0000.0090                     +0000.0090           
+XY Angle      dd +0033.1209 -0038.9938                     -0072.1147           
+Elevation     dd +0090.0000 +0089.9343                     -0000.0657           
+ 
+Step 4 - L5 slot pin
+Diameter      mm +0003.1750 +0003.1750                     +0000.0000           
+X Location    mm +0320.5107 +0320.5092                     -0000.0015           
+Y Location    mm +0212.6519 +0212.6519                     +0000.0000           
+Z Location    mm +0000.8500 +0000.8497                     -0000.0003           
+Cylindricity  mm            +0000.0041                     +0000.0041           
+XY Angle      dd +0010.8834 +0012.0657                     +0001.1823           
+Elevation     dd +0090.0000 +0089.6068                     -0000.3932           
+ 
+Step 5 - L5 hole pin intersection
+X Location    mm            +0022.1042                                          
+Y Location    mm            +0212.7249                                          
+Z Location    mm            +0000.0000                                          
+ 
+Step 6 - L5 slot pin intersection
+X Location    mm            +0320.5035                                          
+Y Location    mm            +0212.6507                                          
+Z Location    mm            -0000.0000                                          
+ 
+Step 9 - L4 plane, touch
+X Location    mm            +0151.0504                                          
+Y Location    mm            -0190.7310                                          
+Z Location    mm            +0003.0369                                          
+Flatness      mm            +0000.0109                                          
+XY Angle      dd            +0096.8951                                          
+Elevation     dd            +0089.9650                                          
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 10 - L4 hole pin
+Diameter      mm +0003.1750 +0003.1735                     -0000.0015           
+X Location    mm +0000.0000 +0000.0187                     +0000.0187           
+Y Location    mm -0200.0000 -0200.0382                     +0000.0382           
+Z Location    mm +0003.8500 +0003.8504                     +0000.0004           
+Cylindricity  mm            +0000.0014                     +0000.0014           
+XY Angle      dd +0000.0000 +0156.1772                     +0156.1772           
+Elevation     dd +0090.0000 +0089.8425                     -0000.1575           
+ 
+Step 11 - L4 slot pin
+Diameter      mm +0003.1750 +0003.1745                     -0000.0005           
+X Location    mm +0298.4500 +0298.4478                     -0000.0022           
+Y Location    mm -0200.0000 -0200.0116                     +0000.0116           
+Z Location    mm +0003.8500 +0003.8500                     +0000.0000           
+Cylindricity  mm            +0000.0025                     +0000.0025           
+XY Angle      dd -0160.6560 -0124.0018                     +0036.6542           
+Elevation     dd +0090.0000 +0089.9615                     -0000.0385           
+ 
+Step 12 - L4 hole pin intersection
+X Location    mm            +0000.0208                                          
+Y Location    mm            -0200.0391                                          
+Z Location    mm            +0003.0314                                          
+ 
+Step 13 - L4 slot pin intersection
+X Location    mm            +0298.4481                                          
+Y Location    mm            -0200.0112                                          
+Z Location    mm            +0003.0533                                          
+ 
+Step 14 - L6 plane, touch
+X Location    mm +0151.1885 +0151.1886                     +0000.0001           
+Y Location    mm +0209.1237 +0209.1230                     -0000.0007           
+Z Location    mm +0000.0000 -0002.9214                     -0002.9214           
+Flatness      mm            +0000.0291                     +0000.0291           
+XY Angle      dd -0106.3626 -0104.8663                     +0001.4963           
+Elevation     dd +0090.0000 +0089.9668                     -0000.0332           
+ 
+Step 15 - L6 hole pin
+Diameter      mm +0003.1750 +0003.1730                     -0000.0020           
+X Location    mm +0000.0000 -0000.0341                     -0000.0341           
+Y Location    mm +0200.0000 +0199.9632                     -0000.0368           
+Z Location    mm -0002.1500 -0002.1553                     +0000.0053           
+Cylindricity  mm            +0000.0071                     +0000.0071           
+XY Angle      dd -0079.6052 -0080.3055                     -0000.7003           
+Elevation     dd +0090.0000 +0089.1759                     -0000.8241           
+Machine Serial Number: SVW5001902                                     Page:    3
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 16 - L6 slot pin
+Diameter      mm +0003.1750 +0003.1748                     -0000.0002           
+X Location    mm +0298.4500 +0298.3654                     -0000.0846           
+Y Location    mm +0200.0000 +0200.0022                     +0000.0022           
+Z Location    mm -0002.1500 -0002.1497                     -0000.0003           
+Cylindricity  mm            +0000.0027                     +0000.0027           
+XY Angle      dd +0091.2524 +0080.5814                     -0010.6710           
+Elevation     dd +0090.0000 +0089.8819                     -0000.1181           
+ 
+Step 17 - L6 hole pin intersection
+X Location    mm            -0000.0360                                          
+Y Location    mm            +0199.9744                                          
+Z Location    mm            -0002.9490                                          
+ 
+Step 18 - L6 slot pin intersection
+X Location    mm            +0298.3652                                          
+Y Location    mm            +0200.0007                                          
+Z Location    mm            -0002.9046                                          

@@ -1,0 +1,67 @@
+L123_front_5.PRT contains 4 runs
+Run 3, Wed Oct 29 16:30:56 2014
+L123_back_5.PRT contains 4 runs
+Run 3, Wed Oct 29 16:44:29 2014
+L123_front_1.PRT contains 7 runs
+Run 4, Tue Oct 28 18:06:36 2014
+L123_back_1.PRT contains 9 runs
+Run 3, Tue Oct 28 18:19:32 2014
+L123_front_2.PRT contains 4 runs
+Run 3, Wed Oct 29 13:42:34 2014
+L123_back_2.PRT contains 5 runs
+Run 5, Wed Oct 29 13:57:57 2014
+L123_U_lower_noballs.PRT contains 2 runs
+Run 5, Fri Oct 17 17:42:18 2014
+L123_U_lower_balls.PRT contains 3 runs
+Run 3, Mon Oct 20 16:44:30 2014
+L123_U_lower_modules.PRT contains 3 runs
+Run 17, Thu Nov 06 18:09:33 2014
+residuals between survey of mounted modules, and where we expect sensors to be from individual surveys of modules and U-channel:
+[[ 0.1011 -0.0552 -0.1588]
+ [ 0.035   0.0262  0.0281]]
+[[-0.0728  0.0777  0.1693]
+ [ 0.0499  0.0489  0.045 ]]
+[[-0.0131 -0.0841 -0.1456]
+ [ 0.0324  0.0428  0.0405]]
+[[-0.2639 -0.1344 -0.0507]
+ [ 0.0665  0.0768  0.0814]]
+[[ 0.0156 -0.0784 -0.1008]
+ [ 0.0323  0.0293  0.022 ]]
+[[-0.0932 -0.0397 -0.0468]
+ [ 0.0554  0.0547  0.05  ]]
+L1 pin basis in U-channel fiducial frame:
+[array([-95.2795, -51.4573,   9.5403]), array([[  1.0000e+00,   3.2596e-05,   2.4535e-04],
+       [ -3.2739e-05,   1.0000e+00,   5.8134e-04],
+       [ -2.4534e-04,  -5.8134e-04,   1.0000e+00]])]
+L2 pin basis in U-channel fiducial frame:
+[array([ -95.2388,  -52.9364,  109.5866]), array([[  1.0000e+00,  -1.5849e-04,  -8.6463e-05],
+       [  1.5849e-04,   1.0000e+00,   6.4005e-05],
+       [  8.6453e-05,  -6.4019e-05,   1.0000e+00]])]
+L3 pin basis in U-channel fiducial frame:
+[array([ -95.2926,  -54.4158,  209.5887]), array([[  1.0000e+00,  -1.0547e-04,  -2.6089e-05],
+       [  1.0546e-04,   1.0000e+00,  -4.2007e-04],
+       [  2.6133e-05,   4.2007e-04,   1.0000e+00]])]
+L1S sensor basis in pin frame:
+[array([ 124.1617,   39.2506,  -13.8204]), array([[  9.9501e-01,   9.9742e-02,  -9.3294e-04],
+       [  9.9743e-02,  -9.9501e-01,   1.0489e-03],
+       [ -8.2366e-04,  -1.1367e-03,  -1.0000e+00]])]
+L1A sensor basis in pin frame:
+[array([ 124.214 ,   39.2042,   -5.4344]), array([[  1.0000e+00,   1.3640e-04,   1.0139e-03],
+       [ -1.3901e-04,   1.0000e+00,   2.5740e-03],
+       [ -1.0135e-03,  -2.5741e-03,   1.0000e+00]])]
+L2S sensor basis in pin frame:
+[array([ 124.2553,   39.2506,  -13.6328]), array([[  9.9502e-01,   9.9709e-02,   1.7627e-05],
+       [  9.9707e-02,  -9.9500e-01,   5.4528e-03],
+       [  5.6123e-04,  -5.4239e-03,  -9.9999e-01]])]
+L2A sensor basis in pin frame:
+[array([ 124.1183,   39.2044,   -5.2589]), array([[  1.0000e+00,   1.6920e-04,   1.4976e-03],
+       [ -1.7331e-04,   1.0000e+00,   2.7428e-03],
+       [ -1.4971e-03,  -2.7430e-03,   1.0000e+00]])]
+L3S sensor basis in pin frame:
+[array([ 124.0978,   39.2465,  -13.6345]), array([[  9.9501e-01,   9.9818e-02,   4.5773e-04],
+       [  9.9814e-02,  -9.9500e-01,   4.5062e-03],
+       [  9.0524e-04,  -4.4380e-03,  -9.9999e-01]])]
+L3A sensor basis in pin frame:
+[array([ 124.0904,   39.2004,   -5.4442]), array([[  1.0000e+00,   7.6413e-05,   2.5014e-03],
+       [ -7.0712e-05,   1.0000e+00,  -2.2793e-03],
+       [ -2.5016e-03,   2.2791e-03,   9.9999e-01]])]

@@ -1,0 +1,379 @@
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L456_back_7.RTN                                      1 Mon Nov 03 17:51:06 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Cold block face, focus
+X Location    mm +0087.2399 +0083.0337                     -0004.2063           
+Y Location    mm -0025.3577 -0022.4552                     -0002.9025           
+Z Location    mm -0015.7470 -0015.9707                     +0000.2236           
+Flatness      mm            +0000.0130 +000.1000           +0000.0130    +      
+XY Angle      dd -0102.8837 -0093.8235                     +0009.0602           
+Elevation     dd +0090.0000 +0089.9299 +000.0000 -001.0000 -0000.0701    -      
+ 
+Step 3 - Cold block face, touch
+X Location    mm            +0059.7353                                          
+Y Location    mm            +0000.8290                                          
+Z Location    mm            -0000.0324                                          
+ 
+Step 4 - Axis ball, touch
+Sphere Diame  mm +0006.3500 +0006.3533 +000.0100 -000.0100 +0000.0033    ++     
+X Location    mm -0005.0683 -0005.0507                     -0000.0176           
+Y Location    mm -0005.8753 -0005.8890                     +0000.0137           
+Z Location    mm -0015.1695 -0015.1590                     -0000.0105           
+Sphericity    mm            +0000.0062 +000.0100           +0000.0062    +++    
+ 
+Step 5 - Origin ball, touch
+Sphere Diame  mm +0006.3500 +0006.3497 +000.0100 -000.0100 -0000.0003    -      
+X Location    mm +0417.7989 +0417.8087                     +0000.0098           
+Y Location    mm -0006.0058 -0006.0157                     +0000.0099           
+Z Location    mm -0015.4691 -0015.3851                     -0000.0839           
+Sphericity    mm            +0000.0039 +000.0100           +0000.0039    ++     
+ 
+Step 6 - Diagonal ball, touch
+Sphere Diame  mm +0006.3500 +0006.3556 +000.0100 -000.0100 +0000.0056    +++    
+X Location    mm +0417.8562 +0417.8650                     +0000.0087           
+Y Location    mm -0031.4076 -0031.4110                     +0000.0034           
+Z Location    mm +0009.7884 +0009.8773                     +0000.0889           
+Sphericity    mm            +0000.0028 +000.0100           +0000.0028    ++     
+ 
+Step 9 - Axial lever fiducial 1, Z
+Z Location    mm +0001.4903 +0001.5715                     +0000.0812           
+ 
+Step 11 - Axial lever fiducial 1, XY
+Diameter      mm +0000.1900 +0000.1898 +000.0100 -000.0200 -0000.0002           
+X Location    mm +0206.1952 +0206.1796                     -0000.0156           
+Y Location    mm +0054.6678 +0054.7593                     +0000.0915           
+2D Circulari  mm            +0000.0011 +000.0100           +0000.0011    +      
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 13 - Axial lever fiducial 2, Z
+Z Location    mm +0001.5219 +0001.5751                     +0000.0532           
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L456_back_7.RTN                                      3 Mon Nov 03 17:56:24 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Cold block face, focus
+X Location    mm +0087.2399 +0083.0335                     -0004.2064           
+Y Location    mm -0025.3577 -0022.4552                     -0002.9025           
+Z Location    mm -0015.7470 -0015.9706                     +0000.2236           
+Flatness      mm            +0000.0125 +000.1000           +0000.0125    +      
+XY Angle      dd -0102.8837 -0093.2939                     +0009.5899           
+Elevation     dd +0090.0000 +0089.9293 +000.0000 -001.0000 -0000.0707    -      
+ 
+Step 3 - Cold block face, touch
+X Location    mm            +0059.7365                                          
+Y Location    mm            +0000.8280                                          
+Z Location    mm            -0000.0349                                          
+ 
+Step 4 - Axis ball, touch
+Sphere Diame  mm +0006.3500 +0006.3529 +000.0100 -000.0100 +0000.0029    ++     
+X Location    mm -0005.0683 -0005.0501                     -0000.0182           
+Y Location    mm -0005.8753 -0005.8891                     +0000.0138           
+Z Location    mm -0015.1695 -0015.1594                     -0000.0101           
+Sphericity    mm            +0000.0064 +000.0100           +0000.0064    +++    
+ 
+Step 5 - Origin ball, touch
+Sphere Diame  mm +0006.3500 +0006.3499 +000.0100 -000.0100 -0000.0001           
+X Location    mm +0417.7989 +0417.8092                     +0000.0102           
+Y Location    mm -0006.0058 -0006.0162                     +0000.0104           
+Z Location    mm -0015.4691 -0015.3814                     -0000.0877           
+Sphericity    mm            +0000.0044 +000.0100           +0000.0044    ++     
+ 
+Step 6 - Diagonal ball, touch
+Sphere Diame  mm +0006.3500 +0006.3564 +000.0100 -000.0100 +0000.0064    +++    
+X Location    mm +0417.8562 +0417.8649                     +0000.0086           
+Y Location    mm -0031.4076 -0031.4108                     +0000.0032           
+Z Location    mm +0009.7884 +0009.8807                     +0000.0923           
+Sphericity    mm            +0000.0035 +000.0100           +0000.0035    ++     
+ 
+Step 9 - Axial lever fiducial 1, Z
+Z Location    mm +0001.4903 +0001.5719                     +0000.0816           
+ 
+Step 11 - Axial lever fiducial 1, XY
+Diameter      mm +0000.1900 +0000.1833 +000.0100 -000.0200 -0000.0067    --     
+X Location    mm +0206.1952 +0206.2765                     +0000.0813           
+Y Location    mm +0054.6678 +0054.6936                     +0000.0258           
+2D Circulari  mm            +0000.0008 +000.0100           +0000.0008    +      
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 13 - Axial lever fiducial 2, Z
+Z Location    mm +0001.5219 +0001.5774                     +0000.0556           
+ 
+Step 15 - Axial lever fiducial 2, XY
+Diameter      mm +0000.1900 +0000.1835 +000.0100 -000.0200 -0000.0065    --     
+X Location    mm +0183.8218 +0183.9562                     +0000.1344           
+Y Location    mm +0054.7234 +0054.7218                     -0000.0016           
+2D Circulari  mm            +0000.0007 +000.0100           +0000.0007    +      
+ 
+Step 17 - Axial block fiducial 1, Z
+Z Location    mm +0001.5160 +0001.5745                     +0000.0584           
+ 
+Step 19 - Axial block fiducial 1, XY
+Diameter      mm +0000.1900 +0000.1839 +000.0100 -000.0200 -0000.0061    --     
+X Location    mm +0127.4262 +0127.5781                     +0000.1519           
+Y Location    mm +0054.7748 +0054.7751                     +0000.0003           
+2D Circulari  mm            +0000.0009 +000.0100           +0000.0009    +      
+ 
+Step 21 - Axial block fiducial 2, Z
+Z Location    mm +0001.6582 +0001.5647                     -0000.0935           
+ 
+Step 23 - Axial block fiducial 2, XY
+Diameter      mm +0000.1900 +0000.1837 +000.0100 -000.0200 -0000.0063    --     
+X Location    mm +0105.1070 +0105.2581                     +0000.1511           
+Y Location    mm +0054.8080 +0054.8056                     -0000.0024           
+2D Circulari  mm            +0000.0013 +000.0100           +0000.0013    +      
+ 
+Step 25 - Axial block fiducial 3, Z
+Z Location    mm +0001.6301 +0001.5435                     -0000.0865           
+ 
+Step 27 - Axial block fiducial 3, XY
+Diameter      mm +0000.1900 +0000.1835 +000.0100 -000.0200 -0000.0065    --     
+X Location    mm +0105.0490 +0105.2044                     +0000.1554           
+Y Location    mm +0014.8679 +0014.8676                     -0000.0003           
+2D Circulari  mm            +0000.0011 +000.0100           +0000.0011    +      
+ 
+Step 29 - Axial block fiducial 4, Z
+Z Location    mm +0001.6560 +0001.5534                     -0000.1026           
+ 
+Step 31 - Axial block fiducial 4, XY
+Diameter      mm +0000.1900 +0000.1834 +000.0100 -000.0200 -0000.0066    --     
+X Location    mm +0127.3681 +0127.5237                     +0000.1556           
+Y Location    mm +0014.8352 +0014.8355                     +0000.0003           
+2D Circulari  mm            +0000.0009 +000.0100           +0000.0009    +      
+ 
+Step 33 - Axial lever fiducial 3, Z
+Z Location    mm +0001.6524 +0001.5650                     -0000.0874           
+Machine Serial Number: SVW5001902                                     Page:    3
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 35 - Axial lever fiducial 3, XY
+Diameter      mm +0000.1843 +0000.1834 +000.0100 -000.0200 -0000.0010    -      
+X Location    mm +0183.7682 +0183.9042                     +0000.1360           
+Y Location    mm +0014.7836 +0014.7824                     -0000.0012           
+2D Circulari  mm            +0000.0014 +000.0100           +0000.0014    +      
+ 
+Step 37 - Axial lever fiducial 4, Z
+Z Location    mm +0001.6226 +0001.5662                     -0000.0564           
+ 
+Step 39 - Axial lever fiducial 4, XY
+Diameter      mm +0000.1900 +0000.1836 +000.0100 -000.0200 -0000.0064    --     
+X Location    mm +0206.0888 +0206.2246                     +0000.1358           
+Y Location    mm +0014.7552 +0014.7543                     -0000.0009           
+2D Circulari  mm            +0000.0021 +000.0100           +0000.0021    +      
+ 
+Step 41 - Axial lever focus 1
+X Location    mm            +0249.2837                                          
+Y Location    mm            +0015.7922                                          
+Z Location    mm            +0001.5316                                          
+ 
+Step 42 - Axial lever focus 2
+X Location    mm            +0249.2310                                          
+Y Location    mm            +0053.3199                                          
+Z Location    mm            +0001.5215                                          
+ 
+Step 43 - Axial lever focus 3
+X Location    mm            +0249.2511                                          
+Y Location    mm            +0034.3629                                          
+Z Location    mm            +0001.5190                                          
+ 
+Step 44 - Axial lever focus 4
+X Location    mm            +0203.7167                                          
+Y Location    mm            +0034.3306                                          
+Z Location    mm            +0001.5896                                          
+ 
+Step 45 - Axial lever focus 5
+X Location    mm            +0160.0160                                          
+Y Location    mm            +0034.2979                                          
+Z Location    mm            +0001.5731                                          
+ 
+Step 46 - Axial lever focus 6
+X Location    mm            +0160.0361                                          
+Y Location    mm            +0016.0723                                          
+Z Location    mm            +0001.5456                                          
+Machine Serial Number: SVW5001902                                     Page:    4
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 47 - Axial lever focus 7
+X Location    mm            +0160.0008                                          
+Y Location    mm            +0053.5319                                          
+Z Location    mm            +0001.5699                                          
+ 
+Step 48 - Axial block focus 1
+X Location    mm            +0149.2205                                          
+Y Location    mm            +0053.5231                                          
+Z Location    mm            +0001.5743                                          
+ 
+Step 49 - Axial block focus 2
+X Location    mm            +0149.2536                                          
+Y Location    mm            +0015.9045                                          
+Z Location    mm            +0001.5607                                          
+ 
+Step 50 - Axial block focus 3
+X Location    mm            +0149.2341                                          
+Y Location    mm            +0034.5965                                          
+Z Location    mm            +0001.5779                                          
+ 
+Step 51 - Axial block focus 4
+X Location    mm            +0105.6176                                          
+Y Location    mm            +0034.5626                                          
+Z Location    mm            +0001.5736                                          
+ 
+Step 52 - Axial block focus 5
+X Location    mm            +0061.0262                                          
+Y Location    mm            +0034.5269                                          
+Z Location    mm            +0001.4998                                          
+ 
+Step 53 - Axial block focus 6
+X Location    mm            +0061.0109                                          
+Y Location    mm            +0053.5699                                          
+Z Location    mm            +0001.5216                                          
+ 
+Step 54 - Axial block focus 7
+X Location    mm            +0061.0460                                          
+Y Location    mm            +0016.2003                                          
+Z Location    mm            +0001.5006                                          
+ 
+Step 55 - Stereo block edge 1, Z
+Z Location    mm            -0005.9575                                          
+ 
+Step 57 - Stereo block edge 1, XY
+X Location    mm +0069.4003 +0069.3791                     -0000.0213           
+Y Location    mm +0010.4106 +0010.4231                     +0000.0126           
+2D Straightn  mm            +0000.0022 +000.0100           +0000.0022    +      
+XY Angle      dd +0002.8600 +0003.0429 +001.0000 -001.0000 +0000.1829    +      
+Machine Serial Number: SVW5001902                                     Page:    5
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 59 - Stereo block edge 2, Z
+Z Location    mm            -0005.8417                                          
+ 
+Step 61 - Stereo block edge 2, XY
+X Location    mm +0148.6346 +0148.6344                     -0000.0002           
+Y Location    mm +0014.2439 +0014.2496                     +0000.0057           
+2D Straightn  mm            +0000.0017 +000.0100           +0000.0017    +      
+XY Angle      dd +0002.8600 +0002.7134 +001.0000 -001.0000 -0000.1466    -      
+ 
+Step 63 - Stereo lever edge 1, Z
+Z Location    mm            -0005.8508                                          
+ 
+Step 65 - Stereo lever edge 1, XY
+X Location    mm +0164.0610 +0164.0612                     +0000.0001           
+Y Location    mm +0055.3800 +0055.4107                     +0000.0307           
+2D Straightn  mm            +0000.0007 +000.0100           +0000.0007    +      
+XY Angle      dd -0177.1400 -0177.2989 +001.0000 -001.0000 -0000.1589    -      
+ 
+Step 67 - Stereo lever edge 2, Z
+Z Location    mm            -0005.8590                                          
+ 
+Step 69 - Stereo lever edge 2, XY
+X Location    mm +0240.7117 +0240.7121                     +0000.0004           
+Y Location    mm +0059.0755 +0059.1116                     +0000.0361           
+2D Straightn  mm            +0000.0018 +000.0100           +0000.0018    +      
+XY Angle      dd -0177.1400 -0177.0108 +001.0000 -001.0000 +0000.1292    +      
+ 
+Step 71 - Axial lever upper fiducial line
+X Location    mm +0194.6818 +0195.1164                     +0000.4346           
+Y Location    mm +0054.7084 +0054.7077                     -0000.0007           
+Z Location    mm +0001.5435 +0001.5739                     +0000.0304           
+XY Angle      dd +0180.0000 +0179.9277                     -0000.0723           
+Elevation     dd +0000.0000 +0000.0066                     +0000.0066           
+ 
+Step 72 - Axial lever lower fiducial line
+X Location    mm            +0195.0644                                          
+Y Location    mm            +0014.7684                                          
+Z Location    mm            +0001.5676                                          
+XY Angle      dd            +0179.9279                                          
+Elevation     dd            -0000.0113                                          
+ 
+Step 73 - Axial block upper fiducial line
+X Location    mm            +0116.4181                                          
+Y Location    mm            +0054.7903                                          
+Z Location    mm            +0001.5683                                          
+XY Angle      dd            +0179.9217                                          
+Elevation     dd            -0000.0357                                          
+Machine Serial Number: SVW5001902                                     Page:    6
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 74 - Axial block lower fiducial line
+X Location    mm            +0116.3641                                          
+Y Location    mm            +0014.8516                                          
+Z Location    mm            +0001.5485                                          
+XY Angle      dd            +0179.9177                                          
+Elevation     dd            -0000.0280                                          
+ 
+Step 75 - Axial lever sensor plane
+X Location    mm +0200.9220 +0201.0815                     +0000.1596           
+Y Location    mm +0034.6055 +0034.6054                     -0000.0001           
+Z Location    mm +0001.5122 +0001.5576                     +0000.0454           
+Flatness      mm            +0000.0606 +000.2000           +0000.0606    ++     
+XY Angle      dd +0118.6178 +0159.3094                     +0040.6916           
+Elevation     dd -0089.8733 -0089.9724                     -0000.0991           
+ 
+Step 76 - Axial block sensor plane
+X Location    mm +0109.1061 +0109.2703                     +0000.1642           
+Y Location    mm +0034.7428 +0034.7425                     -0000.0003           
+Z Location    mm +0001.5072 +0001.5493                     +0000.0421           
+Flatness      mm            +0000.0412 +000.2000           +0000.0412    +      
+XY Angle      dd +0030.5445 +0033.2489                     +0002.7044           
+Elevation     dd -0089.9339 -0089.9500                     -0000.0161           
+ 
+Step 77 - Stereo block lower edge
+X Location    mm            +0109.0110                                          
+Y Location    mm            +0012.3366                                          
+Z Location    mm            -0005.8992                                          
+3D Straightn  mm            +0000.0043                                          
+XY Angle      dd            +0002.7641                                          
+Elevation     dd            +0000.0834                                          
+ 
+Step 78 - Stereo lever upper edge
+X Location    mm            +0202.3895                                          
+Y Location    mm            +0057.2613                                          
+Z Location    mm            -0005.8541                                          
+3D Straightn  mm            +0000.0038                                          
+XY Angle      dd            +0002.7643                                          
+Elevation     dd            -0000.0057                                          
+ 
+Step 79 - Origin ball reference
+X Location    mm            +0367.1125                                          
+Y Location    mm            +0048.6779                                          
+Z Location    mm            -0015.3814                                          
+ 
+Step 80 - Axis ball reference
+X Location    mm            -0055.7462                                          
+Y Location    mm            +0049.3530                                          
+Z Location    mm            -0015.1594                                          
+Machine Serial Number: SVW5001902                                     Page:    7
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 81 - Diagonal ball reference
+X Location    mm            +0367.1353                                          
+Y Location    mm            +0023.2833                                          
+Z Location    mm            +0009.8807                                          

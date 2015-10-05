@@ -1,0 +1,2201 @@
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L456_Uupper_modules.RTN                              1 Thu Oct 30 18:19:36 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - L6 hole ball
+Sphere Diame  mm +0005.9984 +0006.0012                     +0000.0028           
+X Location    mm +0344.5926 +0344.6811                     +0000.0885           
+Y Location    mm +0400.0504 +0400.0669                     +0000.0165           
+Z Location    mm -0000.2391 -0000.2058                     -0000.0333           
+Sphericity    mm            +0000.0014                     +0000.0014           
+ 
+Step 2 - L4 hole ball
+Sphere Diame  mm +0006.0110 +0005.9979                     -0000.0131           
+X Location    mm +0344.6068 +0344.6831                     +0000.0763           
+Y Location    mm -0000.0124 -0000.0029                     -0000.0095           
+Z Location    mm -0000.3139 -0000.2747                     -0000.0392           
+Sphericity    mm            +0000.0008                     +0000.0008           
+ 
+Step 3 - L4 slot ball
+Sphere Diame  mm +0005.9993 +0006.0003                     +0000.0010           
+X Location    mm +0000.0144 +0000.0120                     -0000.0024           
+Y Location    mm -0000.0240 -0000.0202                     -0000.0038           
+Z Location    mm -0000.2381 -0000.2434                     +0000.0053           
+Sphericity    mm            +0000.0013                     +0000.0013           
+ 
+Step 4 - L6 slot ball
+Sphere Diame  mm +0006.0013 +0006.0004                     -0000.0009           
+X Location    mm -0000.0862 -0000.1037                     +0000.0175           
+Y Location    mm +0400.0811 +0400.0790                     -0000.0021           
+Z Location    mm -0000.2312 -0000.1576                     -0000.0736           
+Sphericity    mm            +0000.0013                     +0000.0013           
+ 
+Step 5 - Ball plane
+X Location    mm            +0172.3181                                          
+Y Location    mm            +0200.0307                                          
+Z Location    mm            -0000.2204                                          
+Flatness      mm            +0000.0085                                          
+XY Angle      dd            +0120.8086                                          
+Elevation     dd            -0089.9871                                          
+ 
+Step 6 - L4 ball midpoint
+3-D Distance  mm            +0344.6712                                          
+X Location    mm            +0172.3475                                          
+Y Location    mm            -0000.0115                                          
+Z Location    mm            -0000.2590                                          
+ 
+Step 7 - L6 ball midpoint
+3-D Distance  mm            +0344.7849                                          
+X Location    mm            +0172.2887                                          
+Y Location    mm            +0400.0729                                          
+Z Location    mm            -0000.1817                                          
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L456_Uupper_modules.RTN                              5 Thu Oct 30 18:57:37 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - L6 slot ball
+Sphere Diame  mm +0006.0025 +0006.0003                     -0000.0022           
+X Location    mm +0344.6803 +0344.6812                     +0000.0009           
+Y Location    mm +0400.0681 +0400.0673                     -0000.0008           
+Z Location    mm -0000.2044 -0000.2038                     -0000.0006           
+Sphericity    mm            +0000.0006                     +0000.0006           
+ 
+Step 2 - L4 slot ball
+Sphere Diame  mm +0005.9979 +0005.9977                     -0000.0002           
+X Location    mm +0344.6831 +0344.6828                     -0000.0003           
+Y Location    mm -0000.0029 -0000.0026                     -0000.0003           
+Z Location    mm -0000.2747 -0000.2733                     -0000.0014           
+Sphericity    mm            +0000.0019                     +0000.0019           
+ 
+Step 3 - L4 hole ball
+Sphere Diame  mm +0006.0003 +0006.0022                     +0000.0019           
+X Location    mm +0000.0120 +0000.0121                     +0000.0001           
+Y Location    mm -0000.0202 -0000.0189                     -0000.0013           
+Z Location    mm -0000.2434 -0000.2433                     -0000.0001           
+Sphericity    mm            +0000.0014                     +0000.0014           
+ 
+Step 4 - L6 hole ball
+Sphere Diame  mm +0006.0004 +0005.9995                     -0000.0009           
+X Location    mm -0000.1037 -0000.1043                     +0000.0006           
+Y Location    mm +0400.0790 +0400.0802                     +0000.0012           
+Z Location    mm -0000.1576 -0000.1561                     -0000.0015           
+Sphericity    mm            +0000.0014                     +0000.0014           
+ 
+Step 5 - Ball plane
+X Location    mm            +0172.3179                                          
+Y Location    mm            +0200.0315                                          
+Z Location    mm            -0000.2191                                          
+Flatness      mm            +0000.0088                                          
+XY Angle      dd            +0119.9384                                          
+Elevation     dd            -0089.9870                                          
+ 
+Step 6 - L4 ball midpoint
+3-D Distance  mm            +0344.6706                                          
+X Location    mm            +0172.3474                                          
+Y Location    mm            -0000.0108                                          
+Z Location    mm            -0000.2583                                          
+ 
+Step 7 - L6 ball midpoint
+3-D Distance  mm            +0344.7856                                          
+X Location    mm            +0172.2885                                          
+Y Location    mm            +0400.0738                                          
+Z Location    mm            -0000.1799                                          
+ 
+Step 11 - L4 axial lever 1, Z
+Z Location    mm            +0001.9738                                          
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 13 - L4 axial lever 1, XY
+X Location    mm            +0094.9916                                          
+Y Location    mm            -0003.9961                                          
+2D Straightn  mm            +0000.0022                                          
+XY Angle      dd            +0000.0849                                          
+ 
+Step 15 - L4 stereo lever 1, Z
+Z Location    mm            +0006.7395                                          
+ 
+Step 17 - L4 stereo lever 1, XY
+X Location    mm            +0095.0012                                          
+Y Location    mm            +0003.6969                                          
+2D Straightn  mm            +0000.0020                                          
+XY Angle      dd            -0179.8608                                          
+ 
+Step 19 - L5 axial lever 1, Z
+Z Location    mm            -0001.0826                                          
+ 
+Step 21 - L5 axial lever 1, XY
+X Location    mm            +0095.0236                                          
+Y Location    mm            +0195.9731                                          
+2D Straightn  mm            +0000.0010                                          
+XY Angle      dd            -0000.0317                                          
+ 
+Step 23 - L5 stereo lever 1, Z
+Z Location    mm            +0003.6806                                          
+ 
+Step 25 - L5 stereo lever 1, XY
+X Location    mm            +0095.0434                                          
+Y Location    mm            +0203.7831                                          
+2D Straightn  mm            +0000.0015                                          
+XY Angle      dd            -0179.8013                                          
+ 
+Step 27 - L6 axial lever 1, Z
+Z Location    mm            -0004.0188                                          
+ 
+Step 29 - L6 axial lever 1, XY
+X Location    mm            +0095.0872                                          
+Y Location    mm            +0396.1584                                          
+2D Straightn  mm            +0000.0067                                          
+XY Angle      dd            +0000.1015                                          
+ 
+Step 31 - L6 stereo lever 1, Z
+Z Location    mm            +0000.7044                                          
+ 
+Step 33 - L6 stereo lever 1, XY
+X Location    mm            +0095.0851                                          
+Y Location    mm            +0403.9355                                          
+2D Straightn  mm            +0000.0020                                          
+XY Angle      dd            -0179.8115                                          
+ 
+Step 35 - L6 stereo lever 2, Z
+Z Location    mm            -0001.5261                                          
+Machine Serial Number: SVW5001902                                     Page:    3
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 37 - L6 stereo lever 2, XY
+X Location    mm            +0049.9815                                          
+Y Location    mm            +0403.8203                                          
+2D Straightn  mm            +0000.0015                                          
+XY Angle      dd            -0179.9211                                          
+ 
+Step 39 - L6 axial lever 2, Z
+Z Location    mm            -0004.0220                                          
+ 
+Step 41 - L6 axial lever 2, XY
+X Location    mm            +0049.9850                                          
+Y Location    mm            +0396.1340                                          
+2D Straightn  mm            +0000.0030                                          
+XY Angle      dd            +0000.1949                                          
+ 
+Step 43 - L5 stereo lever 2, Z
+Z Location    mm            +0001.4472                                          
+ 
+Step 45 - L5 stereo lever 2, XY
+X Location    mm            +0049.9677                                          
+Y Location    mm            +0203.7634                                          
+2D Straightn  mm            +0000.0022                                          
+XY Angle      dd            -0179.9564                                          
+ 
+Step 47 - L5 axial lever 2, Z
+Z Location    mm            -0001.0745                                          
+ 
+Step 49 - L5 axial lever 2, XY
+X Location    mm            +0049.9892                                          
+Y Location    mm            +0195.9544                                          
+2D Straightn  mm            +0000.0038                                          
+XY Angle      dd            +0000.2925                                          
+ 
+Step 51 - L4 stereo lever 2, Z
+Z Location    mm            +0004.4793                                          
+ 
+Step 53 - L4 stereo lever 2, XY
+X Location    mm            +0049.9299                                          
+Y Location    mm            +0003.7246                                          
+2D Straightn  mm            +0000.0017                                          
+XY Angle      dd            +0179.9219                                          
+ 
+Step 55 - L4 axial lever 2, Z
+Z Location    mm            +0001.9746                                          
+ 
+Step 57 - L4 axial lever 2, XY
+X Location    mm            +0049.9125                                          
+Y Location    mm            -0003.9791                                          
+2D Straightn  mm            +0000.0022                                          
+XY Angle      dd            -0000.1746                                          
+ 
+Step 59 - L4 axial lever 3, Z
+Z Location    mm            +0001.9815                                          
+Machine Serial Number: SVW5001902                                     Page:    4
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 61 - L4 axial lever 3, XY
+X Location    mm            +0004.9849                                          
+Y Location    mm            -0003.9405                                          
+2D Straightn  mm            +0000.0026                                          
+XY Angle      dd            -0000.0283                                          
+ 
+Step 63 - L4 stereo lever 3, Z
+Z Location    mm            +0002.2265                                          
+ 
+Step 65 - L4 stereo lever 3, XY
+X Location    mm            +0005.0089                                          
+Y Location    mm            +0003.8090                                          
+2D Straightn  mm            +0000.0014                                          
+XY Angle      dd            +0179.9243                                          
+ 
+Step 67 - L5 axial lever 3, Z
+Z Location    mm            -0001.0670                                          
+ 
+Step 69 - L5 axial lever 3, XY
+X Location    mm            +0005.0466                                          
+Y Location    mm            +0195.9199                                          
+2D Straightn  mm            +0000.0016                                          
+XY Angle      dd            -0000.0567                                          
+ 
+Step 71 - L5 stereo lever 3, Z
+Z Location    mm            -0000.7827                                          
+ 
+Step 73 - L5 stereo lever 3, XY
+X Location    mm            +0005.0522                                          
+Y Location    mm            +0203.8403                                          
+2D Straightn  mm            +0000.0017                                          
+XY Angle      dd            +0179.9468                                          
+ 
+Step 75 - L6 axial lever 3, Z
+Z Location    mm            -0004.0279                                          
+ 
+Step 77 - L6 axial lever 3, XY
+X Location    mm            +0005.1085                                          
+Y Location    mm            +0396.0939                                          
+2D Straightn  mm            +0000.0045                                          
+XY Angle      dd            +0000.2154                                          
+ 
+Step 79 - L6 stereo lever 3, Z
+Z Location    mm            -0003.7514                                          
+ 
+Step 81 - L6 stereo lever 3, XY
+X Location    mm            +0005.1017                                          
+Y Location    mm            +0403.7528                                          
+2D Straightn  mm            +0000.0017                                          
+XY Angle      dd            -0179.8966                                          
+ 
+Step 83 - L6 stereo block 1, Z
+Z Location    mm            -0004.2666                                          
+Machine Serial Number: SVW5001902                                     Page:    5
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 85 - L6 stereo block 1, XY
+X Location    mm            -0004.9812                                          
+Y Location    mm            +0403.7474                                          
+2D Straightn  mm            +0000.0071                                          
+XY Angle      dd            -0179.9233                                          
+ 
+Step 87 - L6 axial block 1, Z
+Z Location    mm            -0004.0478                                          
+ 
+Step 89 - L6 axial block 1, XY
+X Location    mm            -0005.0290                                          
+Y Location    mm            +0396.0909                                          
+2D Straightn  mm            +0000.0025                                          
+XY Angle      dd            -0000.0523                                          
+ 
+Step 91 - L5 stereo block 1, Z
+Z Location    mm            -0001.3017                                          
+ 
+Step 93 - L5 stereo block 1, XY
+X Location    mm            -0005.0413                                          
+Y Location    mm            +0203.8557                                          
+2D Straightn  mm            +0000.0057                                          
+XY Angle      dd            -0179.8074                                          
+ 
+Step 95 - L5 axial block 1, Z
+Z Location    mm            -0001.0905                                          
+ 
+Step 97 - L5 axial block 1, XY
+X Location    mm            -0005.0514                                          
+Y Location    mm            +0195.9297                                          
+2D Straightn  mm            +0000.0011                                          
+XY Angle      dd            -0000.1470                                          
+ 
+Step 99 - L4 stereo block 1, Z
+Z Location    mm            +0001.7405                                          
+ 
+Step 101 - L4 stereo block 1, XY
+X Location    mm            -0005.1033                                          
+Y Location    mm            +0003.8229                                          
+2D Straightn  mm            +0000.0074                                          
+XY Angle      dd            -0179.9292                                          
+ 
+Step 103 - L4 axial block 1, Z
+Z Location    mm            +0001.9562                                          
+ 
+Step 105 - L4 axial block 1, XY
+X Location    mm            -0005.1043                                          
+Y Location    mm            -0003.9237                                          
+2D Straightn  mm            +0000.0023                                          
+XY Angle      dd            -0000.0992                                          
+ 
+Step 107 - L4 axial block 2, Z
+Z Location    mm            +0001.9644                                          
+Machine Serial Number: SVW5001902                                     Page:    6
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 109 - L4 axial block 2, XY
+X Location    mm            -0050.0176                                          
+Y Location    mm            -0003.8216                                          
+2D Straightn  mm            +0000.0018                                          
+XY Angle      dd            -0000.0926                                          
+ 
+Step 111 - L4 stereo block 2, Z
+Z Location    mm            -0000.4902                                          
+ 
+Step 113 - L4 stereo block 2, XY
+X Location    mm            -0050.0183                                          
+Y Location    mm            +0003.8685                                          
+2D Straightn  mm            +0000.0061                                          
+XY Angle      dd            +0179.8874                                          
+ 
+Step 115 - L5 axial block 2, Z
+Z Location    mm            -0001.0812                                          
+ 
+Step 117 - L5 axial block 2, XY
+X Location    mm            -0049.9652                                          
+Y Location    mm            +0196.0605                                          
+2D Straightn  mm            +0000.0014                                          
+XY Angle      dd            -0000.1963                                          
+ 
+Step 119 - L5 stereo block 2, Z
+Z Location    mm            -0003.5318                                          
+ 
+Step 121 - L5 stereo block 2, XY
+X Location    mm            -0049.9682                                          
+Y Location    mm            +0203.9272                                          
+2D Straightn  mm            +0000.0037                                          
+XY Angle      dd            +0179.7954                                          
+ 
+Step 123 - L6 axial block 2, Z
+Z Location    mm            -0004.0459                                          
+ 
+Step 125 - L6 axial block 2, XY
+X Location    mm            -0049.9334                                          
+Y Location    mm            +0396.1160                                          
+2D Straightn  mm            +0000.0028                                          
+XY Angle      dd            -0000.0987                                          
+ 
+Step 127 - L6 stereo block 2, Z
+Z Location    mm            -0006.4906                                          
+ 
+Step 129 - L6 stereo block 2, XY
+X Location    mm            -0049.9643                                          
+Y Location    mm            +0403.8201                                          
+2D Straightn  mm            +0000.0035                                          
+XY Angle      dd            -0179.8728                                          
+ 
+Step 131 - L6 stereo block 3, Z
+Z Location    mm            -0008.7181                                          
+Machine Serial Number: SVW5001902                                     Page:    7
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 133 - L6 stereo block 3, XY
+X Location    mm            -0095.0228                                          
+Y Location    mm            +0403.8707                                          
+2D Straightn  mm            +0000.0018                                          
+XY Angle      dd            +0179.9630                                          
+ 
+Step 135 - L6 axial block 3, Z
+Z Location    mm            -0004.0486                                          
+ 
+Step 137 - L6 axial block 3, XY
+X Location    mm            -0095.0019                                          
+Y Location    mm            +0396.1418                                          
+2D Straightn  mm            +0000.0009                                          
+XY Angle      dd            -0000.0797                                          
+ 
+Step 139 - L5 stereo block 3, Z
+Z Location    mm            -0005.7639                                          
+ 
+Step 141 - L5 stereo block 3, XY
+X Location    mm            -0095.0437                                          
+Y Location    mm            +0203.9644                                          
+2D Straightn  mm            +0000.0014                                          
+XY Angle      dd            +0179.9836                                          
+ 
+Step 143 - L5 axial block 3, Z
+Z Location    mm            -0001.0684                                          
+ 
+Step 145 - L5 axial block 3, XY
+X Location    mm            -0095.0437                                          
+Y Location    mm            +0196.2079                                          
+2D Straightn  mm            +0000.0008                                          
+XY Angle      dd            -0000.1819                                          
+ 
+Step 147 - L4 stereo block 3, Z
+Z Location    mm            -0002.7287                                          
+ 
+Step 149 - L4 stereo block 3, XY
+X Location    mm            -0095.0841                                          
+Y Location    mm            +0003.9120                                          
+2D Straightn  mm            +0000.0019                                          
+XY Angle      dd            -0179.8681                                          
+ 
+Step 151 - L4 axial block 3, Z
+Z Location    mm            +0001.9725                                          
+ 
+Step 153 - L4 axial block 3, XY
+X Location    mm            -0095.0948                                          
+Y Location    mm            -0003.7703                                          
+2D Straightn  mm            +0000.0011                                          
+XY Angle      dd            -0000.0977                                          
+Machine Serial Number: SVW5001902                                     Page:    8
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 155 - L4 axial lever
+X Location    mm            +0049.9946                                          
+Y Location    mm            -0003.9718                                          
+Z Location    mm            +0001.9778                                          
+2D Straightn  mm            +0000.0145                                          
+XY Angle      dd            +0179.9646                                          
+Elevation     dd            +0000.0000                                          
+ 
+Step 156 - L4 axial block
+X Location    mm            -0050.0978                                          
+Y Location    mm            -0003.8381                                          
+Z Location    mm            +0001.9654                                          
+3D Straightn  mm            +0000.0275                                          
+XY Angle      dd            +0179.9024                                          
+Elevation     dd            +0000.0107                                          
+ 
+Step 157 - L4 stereo lever
+X Location    mm            +0050.0057                                          
+Y Location    mm            +0003.7433                                          
+Z Location    mm            +0004.4839                                          
+3D Straightn  mm            +0000.0482                                          
+XY Angle      dd            +0179.9284                                          
+Elevation     dd            -0002.8701                                          
+ 
+Step 158 - L4 stereo block
+X Location    mm            -0050.0954                                          
+Y Location    mm            +0003.8678                                          
+Z Location    mm            -0000.4923                                          
+3D Straightn  mm            +0000.0380                                          
+XY Angle      dd            +0179.9433                                          
+Elevation     dd            -0002.8430                                          
+ 
+Step 159 - L5 axial lever
+X Location    mm            +0050.0278                                          
+Y Location    mm            +0195.9491                                          
+Z Location    mm            -0001.0740                                          
+3D Straightn  mm            +0000.0114                                          
+XY Angle      dd            -0179.9662                                          
+Elevation     dd            +0000.0095                                          
+ 
+Step 160 - L5 axial block
+X Location    mm            -0050.0385                                          
+Y Location    mm            +0196.0662                                          
+Z Location    mm            -0001.0796                                          
+3D Straightn  mm            +0000.0096                                          
+XY Angle      dd            +0179.8228                                          
+Elevation     dd            +0000.0142                                          
+ 
+Step 161 - L5 stereo lever
+X Location    mm            +0050.0405                                          
+Y Location    mm            +0203.7962                                          
+Z Location    mm            +0001.4502                                          
+3D Straightn  mm            +0000.0637                                          
+XY Angle      dd            +0179.9636                                          
+Elevation     dd            -0002.8395                                          
+Machine Serial Number: SVW5001902                                     Page:    9
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 162 - L5 stereo block
+X Location    mm            -0050.0584                                          
+Y Location    mm            +0203.9166                                          
+Z Location    mm            -0003.5340                                          
+3D Straightn  mm            +0000.0428                                          
+XY Angle      dd            +0179.9331                                          
+Elevation     dd            -0002.8374                                          
+ 
+Step 163 - L6 axial lever
+X Location    mm            +0050.1087                                          
+Y Location    mm            +0396.1288                                          
+Z Location    mm            -0004.0229                                          
+3D Straightn  mm            +0000.0122                                          
+XY Angle      dd            -0179.9589                                          
+Elevation     dd            -0000.0055                                          
+ 
+Step 164 - L6 axial block
+X Location    mm            -0050.0053                                          
+Y Location    mm            +0396.1162                                          
+Z Location    mm            -0004.0460                                          
+3D Straightn  mm            +0000.0041                                          
+XY Angle      dd            +0179.9676                                          
+Elevation     dd            -0000.0004                                          
+ 
+Step 165 - L6 stereo lever
+X Location    mm            +0050.0913                                          
+Y Location    mm            +0403.8364                                          
+Z Location    mm            -0001.5214                                          
+3D Straightn  mm            +0000.0463                                          
+XY Angle      dd            -0179.8840                                          
+Elevation     dd            -0002.8352                                          
+ 
+Step 166 - L6 stereo block
+X Location    mm            -0050.0011                                          
+Y Location    mm            +0403.8129                                          
+Z Location    mm            -0006.4919                                          
+3D Straightn  mm            +0000.0395                                          
+XY Angle      dd            +0179.9221                                          
+Elevation     dd            -0002.8292                                          
+ 
+Step 167 - L4 slot ball reference
+X Location    mm            +0172.3353                                          
+Y Location    mm            -0000.0172                                          
+Z Location    mm            +0000.0044                                          
+ 
+Step 168 - L4 hole ball reference
+X Location    mm            -0172.3353                                          
+Y Location    mm            +0000.0172                                          
+Z Location    mm            -0000.0044                                          
+ 
+Step 169 - L6 slot ball reference
+X Location    mm            +0172.3928                                          
+Y Location    mm            +0400.0527                                          
+Z Location    mm            -0000.0044                                          
+Machine Serial Number: SVW5001902                                     Page:   10
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 170 - L6 hole ball reference
+X Location    mm            -0172.3928                                          
+Y Location    mm            +0400.1164                                          
+Z Location    mm            +0000.0044                                          
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L456_Uupper_modules.RTN                              1 Fri Nov 07 17:05:53 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - L6 slot ball
+Sphere Diame  mm +0006.0025 +0006.0027                     +0000.0002           
+X Location    mm +0344.6803 +0344.6842                     +0000.0039           
+Y Location    mm +0400.0681 +0400.0585                     -0000.0096           
+Z Location    mm -0000.2044 -0000.2083                     +0000.0039           
+Sphericity    mm            +0000.0006                     +0000.0006           
+ 
+Step 2 - L4 slot ball
+Sphere Diame  mm +0005.9979 +0005.9993                     +0000.0014           
+X Location    mm +0344.6831 +0344.6775                     -0000.0056           
+Y Location    mm -0000.0029 -0000.0172                     +0000.0143           
+Z Location    mm -0000.2747 -0000.2947                     +0000.0200           
+Sphericity    mm            +0000.0016                     +0000.0016           
+ 
+Step 3 - L4 hole ball
+Sphere Diame  mm +0006.0003 +0006.0011                     +0000.0008           
+X Location    mm +0000.0120 +0000.0068                     -0000.0052           
+Y Location    mm -0000.0202 -0000.0216                     +0000.0014           
+Z Location    mm -0000.2434 -0000.2763                     +0000.0329           
+Sphericity    mm            +0000.0005                     +0000.0005           
+ 
+Step 4 - L6 hole ball
+Sphere Diame  mm +0006.0004 +0005.9994                     -0000.0010           
+X Location    mm -0000.1037 -0000.0961                     -0000.0076           
+Y Location    mm +0400.0790 +0400.0803                     +0000.0013           
+Z Location    mm -0000.1576 -0000.1905                     +0000.0329           
+Sphericity    mm            +0000.0013                     +0000.0013           
+ 
+Step 5 - Ball plane
+X Location    mm            +0172.3181                                          
+Y Location    mm            +0200.0250                                          
+Z Location    mm            -0000.2425                                          
+Flatness      mm            +0000.0004                                          
+XY Angle      dd            +0103.7068                                          
+Elevation     dd            -0089.9873                                          
+ 
+Step 6 - L4 ball midpoint
+3-D Distance  mm            +0344.6707                                          
+X Location    mm            +0172.3421                                          
+Y Location    mm            -0000.0194                                          
+Z Location    mm            -0000.2855                                          
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 7 - L6 ball midpoint
+3-D Distance  mm            +0344.7803                                          
+X Location    mm            +0172.2941                                          
+Y Location    mm            +0400.0694                                          
+Z Location    mm            -0000.1994                                          
+ 
+Step 11 - L4 axial lever 1, Z
+Z Location    mm            +0001.9937                                          
+ 
+Step 13 - L4 axial lever 1, XY
+X Location    mm            +0094.9904                                          
+Y Location    mm            -0003.9637                                          
+2D Straightn  mm            +0000.0016                                          
+XY Angle      dd            +0000.0742                                          
+ 
+Step 15 - L4 stereo lever 1, Z
+Z Location    mm            +0006.7542                                          
+ 
+Step 17 - L4 stereo lever 1, XY
+X Location    mm            +0095.0014                                          
+Y Location    mm            +0003.7245                                          
+2D Straightn  mm            +0000.0013                                          
+XY Angle      dd            -0179.8530                                          
+ 
+Step 19 - L5 axial lever 1, Z
+Z Location    mm            -0001.0708                                          
+ 
+Step 21 - L5 axial lever 1, XY
+X Location    mm            +0095.0228                                          
+Y Location    mm            +0195.9991                                          
+2D Straightn  mm            +0000.0010                                          
+XY Angle      dd            -0000.0384                                          
+ 
+Step 23 - L5 stereo lever 1, Z
+Z Location    mm            +0003.6957                                          
+ 
+Step 25 - L5 stereo lever 1, XY
+X Location    mm            +0095.0426                                          
+Y Location    mm            +0203.8009                                          
+2D Straightn  mm            +0000.0015                                          
+XY Angle      dd            -0179.7951                                          
+ 
+Step 27 - L6 axial lever 1, Z
+Z Location    mm            -0004.0163                                          
+Machine Serial Number: SVW5001902                                     Page:    3
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 29 - L6 axial lever 1, XY
+X Location    mm            +0095.1076                                          
+Y Location    mm            +0396.1583                                          
+2D Straightn  mm            +0000.0044                                          
+XY Angle      dd            +0000.0444                                          
+ 
+Step 31 - L6 stereo lever 1, Z
+Z Location    mm            +0000.7093                                          
+ 
+Step 33 - L6 stereo lever 1, XY
+X Location    mm            +0095.0854                                          
+Y Location    mm            +0403.9246                                          
+2D Straightn  mm            +0000.0012                                          
+XY Angle      dd            -0179.7728                                          
+ 
+Step 35 - L6 stereo lever 2, Z
+Z Location    mm            -0001.5194                                          
+ 
+Step 37 - L6 stereo lever 2, XY
+X Location    mm            +0049.9814                                          
+Y Location    mm            +0403.7769                                          
+2D Straightn  mm            +0000.0019                                          
+XY Angle      dd            -0179.8733                                          
+ 
+Step 39 - L6 axial lever 2, Z
+Z Location    mm            -0004.0204                                          
+ 
+Step 41 - L6 axial lever 2, XY
+X Location    mm            +0049.9858                                          
+Y Location    mm            +0396.1337                                          
+2D Straightn  mm            +0000.0026                                          
+XY Angle      dd            +0000.1946                                          
+ 
+Step 43 - L5 stereo lever 2, Z
+Z Location    mm            +0001.4619                                          
+ 
+Step 45 - L5 stereo lever 2, XY
+X Location    mm            +0049.9684                                          
+Y Location    mm            +0203.7602                                          
+2D Straightn  mm            +0000.0025                                          
+XY Angle      dd            -0179.9433                                          
+ 
+Step 47 - L5 axial lever 2, Z
+Z Location    mm            -0001.0614                                          
+Machine Serial Number: SVW5001902                                     Page:    4
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 49 - L5 axial lever 2, XY
+X Location    mm            +0049.9899                                          
+Y Location    mm            +0196.0062                                          
+2D Straightn  mm            +0000.0024                                          
+XY Angle      dd            +0000.3100                                          
+ 
+Step 51 - L4 stereo lever 2, Z
+Z Location    mm            +0004.4963                                          
+ 
+Step 53 - L4 stereo lever 2, XY
+X Location    mm            +0049.9297                                          
+Y Location    mm            +0003.7441                                          
+2D Straightn  mm            +0000.0013                                          
+XY Angle      dd            +0179.9349                                          
+ 
+Step 55 - L4 axial lever 2, Z
+Z Location    mm            +0001.9966                                          
+ 
+Step 57 - L4 axial lever 2, XY
+X Location    mm            +0049.9127                                          
+Y Location    mm            -0003.9449                                          
+2D Straightn  mm            +0000.0023                                          
+XY Angle      dd            -0000.1615                                          
+ 
+Step 59 - L4 axial lever 3, Z
+Z Location    mm            +0001.9989                                          
+ 
+Step 61 - L4 axial lever 3, XY
+X Location    mm            +0004.9850                                          
+Y Location    mm            -0003.9128                                          
+2D Straightn  mm            +0000.0025                                          
+XY Angle      dd            -0000.0172                                          
+ 
+Step 63 - L4 stereo lever 3, Z
+Z Location    mm            +0002.2413                                          
+ 
+Step 65 - L4 stereo lever 3, XY
+X Location    mm            +0005.0086                                          
+Y Location    mm            +0003.8206                                          
+2D Straightn  mm            +0000.0020                                          
+XY Angle      dd            +0179.9345                                          
+ 
+Step 67 - L5 axial lever 3, Z
+Z Location    mm            -0001.0485                                          
+Machine Serial Number: SVW5001902                                     Page:    5
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 69 - L5 axial lever 3, XY
+X Location    mm            +0005.0459                                          
+Y Location    mm            +0195.9926                                          
+2D Straightn  mm            +0000.0016                                          
+XY Angle      dd            -0000.0599                                          
+ 
+Step 71 - L5 stereo lever 3, Z
+Z Location    mm            -0000.7687                                          
+ 
+Step 73 - L5 stereo lever 3, XY
+X Location    mm            +0005.0524                                          
+Y Location    mm            +0203.8123                                          
+2D Straightn  mm            +0000.0018                                          
+XY Angle      dd            +0179.9723                                          
+ 
+Step 75 - L6 axial lever 3, Z
+Z Location    mm            -0004.0214                                          
+ 
+Step 77 - L6 axial lever 3, XY
+X Location    mm            +0005.0871                                          
+Y Location    mm            +0396.0830                                          
+2D Straightn  mm            +0000.0027                                          
+XY Angle      dd            +0000.1243                                          
+ 
+Step 79 - L6 stereo lever 3, Z
+Z Location    mm            -0003.7437                                          
+ 
+Step 81 - L6 stereo lever 3, XY
+X Location    mm            +0005.1014                                          
+Y Location    mm            +0403.6715                                          
+2D Straightn  mm            +0000.0015                                          
+XY Angle      dd            -0179.8458                                          
+ 
+Step 83 - L6 stereo block 1, Z
+Z Location    mm            -0004.2669                                          
+ 
+Step 85 - L6 stereo block 1, XY
+X Location    mm            -0004.9596                                          
+Y Location    mm            +0403.6602                                          
+2D Straightn  mm            +0000.0067                                          
+XY Angle      dd            +0179.9847                                          
+ 
+Step 87 - L6 axial block 1, Z
+Z Location    mm            -0004.0419                                          
+Machine Serial Number: SVW5001902                                     Page:    6
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 89 - L6 axial block 1, XY
+X Location    mm            -0005.0288                                          
+Y Location    mm            +0396.0775                                          
+2D Straightn  mm            +0000.0024                                          
+XY Angle      dd            -0000.0493                                          
+ 
+Step 91 - L5 stereo block 1, Z
+Z Location    mm            -0001.2885                                          
+ 
+Step 93 - L5 stereo block 1, XY
+X Location    mm            -0005.0406                                          
+Y Location    mm            +0203.8254                                          
+2D Straightn  mm            +0000.0057                                          
+XY Angle      dd            -0179.8124                                          
+ 
+Step 95 - L5 axial block 1, Z
+Z Location    mm            -0001.0708                                          
+ 
+Step 97 - L5 axial block 1, XY
+X Location    mm            -0005.0525                                          
+Y Location    mm            +0196.0027                                          
+2D Straightn  mm            +0000.0010                                          
+XY Angle      dd            -0000.1390                                          
+ 
+Step 99 - L4 stereo block 1, Z
+Z Location    mm            +0001.7591                                          
+ 
+Step 101 - L4 stereo block 1, XY
+X Location    mm            -0005.0823                                          
+Y Location    mm            +0003.8307                                          
+2D Straightn  mm            +0000.0055                                          
+XY Angle      dd            -0179.8623                                          
+ 
+Step 103 - L4 axial block 1, Z
+Z Location    mm            +0001.9743                                          
+ 
+Step 105 - L4 axial block 1, XY
+X Location    mm            -0005.1043                                          
+Y Location    mm            -0003.8982                                          
+2D Straightn  mm            +0000.0020                                          
+XY Angle      dd            -0000.0876                                          
+ 
+Step 107 - L4 axial block 2, Z
+Z Location    mm            +0001.9851                                          
+Machine Serial Number: SVW5001902                                     Page:    7
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 109 - L4 axial block 2, XY
+X Location    mm            -0050.0176                                          
+Y Location    mm            -0003.8023                                          
+2D Straightn  mm            +0000.0021                                          
+XY Angle      dd            -0000.0934                                          
+ 
+Step 111 - L4 stereo block 2, Z
+Z Location    mm            -0000.4725                                          
+ 
+Step 113 - L4 stereo block 2, XY
+X Location    mm            -0049.9978                                          
+Y Location    mm            +0003.8681                                          
+2D Straightn  mm            +0000.0051                                          
+XY Angle      dd            +0179.9286                                          
+ 
+Step 115 - L5 axial block 2, Z
+Z Location    mm            -0001.0622                                          
+ 
+Step 117 - L5 axial block 2, XY
+X Location    mm            -0049.9653                                          
+Y Location    mm            +0196.1197                                          
+2D Straightn  mm            +0000.0015                                          
+XY Angle      dd            -0000.1874                                          
+ 
+Step 119 - L5 stereo block 2, Z
+Z Location    mm            -0003.5186                                          
+ 
+Step 121 - L5 stereo block 2, XY
+X Location    mm            -0049.9270                                          
+Y Location    mm            +0203.9151                                          
+2D Straightn  mm            +0000.0033                                          
+XY Angle      dd            +0179.8194                                          
+ 
+Step 123 - L6 axial block 2, Z
+Z Location    mm            -0004.0386                                          
+ 
+Step 125 - L6 axial block 2, XY
+X Location    mm            -0049.9334                                          
+Y Location    mm            +0396.0858                                          
+2D Straightn  mm            +0000.0014                                          
+XY Angle      dd            -0000.0435                                          
+ 
+Step 127 - L6 stereo block 2, Z
+Z Location    mm            -0006.4880                                          
+Machine Serial Number: SVW5001902                                     Page:    8
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 129 - L6 stereo block 2, XY
+X Location    mm            -0049.9435                                          
+Y Location    mm            +0403.7389                                          
+2D Straightn  mm            +0000.0036                                          
+XY Angle      dd            -0179.9303                                          
+ 
+Step 131 - L6 stereo block 3, Z
+Z Location    mm            -0008.7117                                          
+ 
+Step 133 - L6 stereo block 3, XY
+X Location    mm            -0095.0226                                          
+Y Location    mm            +0403.8099                                          
+2D Straightn  mm            +0000.0022                                          
+XY Angle      dd            +0179.9387                                          
+ 
+Step 135 - L6 axial block 3, Z
+Z Location    mm            -0004.0398                                          
+ 
+Step 137 - L6 axial block 3, XY
+X Location    mm            -0095.0019                                          
+Y Location    mm            +0396.0949                                          
+2D Straightn  mm            +0000.0009                                          
+XY Angle      dd            -0000.0716                                          
+ 
+Step 139 - L5 stereo block 3, Z
+Z Location    mm            -0005.7528                                          
+ 
+Step 141 - L5 stereo block 3, XY
+X Location    mm            -0095.0429                                          
+Y Location    mm            +0203.9885                                          
+2D Straightn  mm            +0000.0019                                          
+XY Angle      dd            +0179.9156                                          
+ 
+Step 143 - L5 axial block 3, Z
+Z Location    mm            -0001.0510                                          
+ 
+Step 145 - L5 axial block 3, XY
+X Location    mm            -0095.0425                                          
+Y Location    mm            +0196.2506                                          
+2D Straightn  mm            +0000.0010                                          
+XY Angle      dd            -0000.1983                                          
+ 
+Step 147 - L4 stereo block 3, Z
+Z Location    mm            -0002.7107                                          
+Machine Serial Number: SVW5001902                                     Page:    9
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 149 - L4 stereo block 3, XY
+X Location    mm            -0095.0847                                          
+Y Location    mm            +0003.9116                                          
+2D Straightn  mm            +0000.0064                                          
+XY Angle      dd            -0179.9512                                          
+ 
+Step 151 - L4 axial block 3, Z
+Z Location    mm            +0001.9910                                          
+ 
+Step 153 - L4 axial block 3, XY
+X Location    mm            -0095.0944                                          
+Y Location    mm            -0003.7621                                          
+2D Straightn  mm            +0000.0012                                          
+XY Angle      dd            -0000.0825                                          
+ 
+Step 155 - L4 axial lever
+X Location    mm            +0049.9940                                          
+Y Location    mm            -0003.9405                                          
+Z Location    mm            +0001.9977                                          
+2D Straightn  mm            +0000.0100                                          
+XY Angle      dd            +0179.9675                                          
+Elevation     dd            +0000.0000                                          
+ 
+Step 156 - L4 axial block
+X Location    mm            -0050.0976                                          
+Y Location    mm            -0003.8205                                          
+Z Location    mm            +0001.9848                                          
+3D Straightn  mm            +0000.0299                                          
+XY Angle      dd            +0179.9134                                          
+Elevation     dd            +0000.0107                                          
+ 
+Step 157 - L4 stereo lever
+X Location    mm            +0050.0056                                          
+Y Location    mm            +0003.7625                                          
+Z Location    mm            +0004.4993                                          
+3D Straightn  mm            +0000.0509                                          
+XY Angle      dd            +0179.9378                                          
+Elevation     dd            -0002.8703                                          
+ 
+Step 158 - L4 stereo block
+X Location    mm            -0050.0953                                          
+Y Location    mm            +0003.8701                                          
+Z Location    mm            -0000.4752                                          
+3D Straightn  mm            +0000.0376                                          
+XY Angle      dd            +0179.9483                                          
+Elevation     dd            -0002.8437                                          
+Machine Serial Number: SVW5001902                                     Page:   10
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 159 - L5 axial lever
+X Location    mm            +0050.0270                                          
+Y Location    mm            +0195.9991                                          
+Z Location    mm            -0001.0597                                          
+3D Straightn  mm            +0000.0138                                          
+XY Angle      dd            -0179.9960                                          
+Elevation     dd            +0000.0142                                          
+ 
+Step 160 - L5 axial block
+X Location    mm            -0050.0388                                          
+Y Location    mm            +0196.1245                                          
+Z Location    mm            -0001.0607                                          
+3D Straightn  mm            +0000.0081                                          
+XY Angle      dd            +0179.8422                                          
+Elevation     dd            +0000.0129                                          
+ 
+Step 161 - L5 stereo lever
+X Location    mm            +0050.0401                                          
+Y Location    mm            +0203.7911                                          
+Z Location    mm            +0001.4649                                          
+3D Straightn  mm            +0000.0626                                          
+XY Angle      dd            +0179.9928                                          
+Elevation     dd            -0002.8399                                          
+ 
+Step 162 - L5 stereo block
+X Location    mm            -0050.0577                                          
+Y Location    mm            +0203.9099                                          
+Z Location    mm            -0003.5225                                          
+3D Straightn  mm            +0000.0382                                          
+XY Angle      dd            +0179.8971                                          
+Elevation     dd            -0002.8382                                          
+ 
+Step 163 - L6 axial lever
+X Location    mm            +0050.0872                                          
+Y Location    mm            +0396.1252                                          
+Z Location    mm            -0004.0184                                          
+3D Straightn  mm            +0000.0167                                          
+XY Angle      dd            -0179.9520                                          
+Elevation     dd            -0000.0033                                          
+ 
+Step 164 - L6 axial block
+X Location    mm            -0050.0052                                          
+Y Location    mm            +0396.0860                                          
+Z Location    mm            -0004.0383                                          
+3D Straightn  mm            +0000.0034                                          
+XY Angle      dd            +0179.9889                                          
+Elevation     dd            +0000.0018                                          
+Machine Serial Number: SVW5001902                                     Page:   11
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 165 - L6 stereo lever
+X Location    mm            +0050.0913                                          
+Y Location    mm            +0403.7912                                          
+Z Location    mm            -0001.5148                                          
+3D Straightn  mm            +0000.0453                                          
+XY Angle      dd            -0179.8390                                          
+Elevation     dd            -0002.8336                                          
+ 
+Step 166 - L6 stereo block
+X Location    mm            -0050.0006                                          
+Y Location    mm            +0403.7364                                          
+Z Location    mm            -0006.4888                                          
+3D Straightn  mm            +0000.0380                                          
+XY Angle      dd            +0179.9049                                          
+Elevation     dd            -0002.8252                                          
+ 
+Step 167 - L4 slot ball reference
+X Location    mm            +0172.3353                                          
+Y Location    mm            -0000.0185                                          
+Z Location    mm            -0000.0002                                          
+ 
+Step 168 - L4 hole ball reference
+X Location    mm            -0172.3353                                          
+Y Location    mm            +0000.0185                                          
+Z Location    mm            +0000.0002                                          
+ 
+Step 169 - L6 slot ball reference
+X Location    mm            +0172.3902                                          
+Y Location    mm            +0400.0571                                          
+Z Location    mm            +0000.0002                                          
+ 
+Step 170 - L6 hole ball reference
+X Location    mm            -0172.3902                                          
+Y Location    mm            +0400.1204                                          
+Z Location    mm            -0000.0002                                          
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L456_Uupper_modules.RTN                              2 Fri Nov 07 17:13:34 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - L6 slot ball
+Sphere Diame  mm +0006.0025 +0005.9999                     -0000.0026           
+X Location    mm +0344.6803 +0344.6873                     +0000.0070           
+Y Location    mm +0400.0681 +0400.0556                     -0000.0125           
+Z Location    mm -0000.2044 -0000.2103                     +0000.0059           
+Sphericity    mm            +0000.0015                     +0000.0015           
+ 
+Step 2 - L4 slot ball
+Sphere Diame  mm +0005.9979 +0005.9975                     -0000.0004           
+X Location    mm +0344.6831 +0344.6785                     -0000.0046           
+Y Location    mm -0000.0029 -0000.0180                     +0000.0151           
+Z Location    mm -0000.2747 -0000.2978                     +0000.0231           
+Sphericity    mm            +0000.0017                     +0000.0017           
+ 
+Step 3 - L4 hole ball
+Sphere Diame  mm +0006.0003 +0006.0010                     +0000.0007           
+X Location    mm +0000.0120 +0000.0074                     -0000.0046           
+Y Location    mm -0000.0202 -0000.0207                     +0000.0005           
+Z Location    mm -0000.2434 -0000.2780                     +0000.0346           
+Sphericity    mm            +0000.0007                     +0000.0007           
+ 
+Step 4 - L6 hole ball
+Sphere Diame  mm +0006.0004 +0006.0019                     +0000.0015           
+X Location    mm -0000.1037 -0000.0938                     -0000.0099           
+Y Location    mm +0400.0790 +0400.0795                     +0000.0005           
+Z Location    mm -0000.1576 -0000.1919                     +0000.0343           
+Sphericity    mm            +0000.0012                     +0000.0012           
+ 
+Step 5 - Ball plane
+X Location    mm            +0172.3198                                          
+Y Location    mm            +0200.0241                                          
+Z Location    mm            -0000.2445                                          
+Flatness      mm            +0000.0007                                          
+XY Angle      dd            +0104.3089                                          
+Elevation     dd            -0089.9872                                          
+ 
+Step 6 - L4 ball midpoint
+3-D Distance  mm            +0344.6711                                          
+X Location    mm            +0172.3430                                          
+Y Location    mm            -0000.0194                                          
+Z Location    mm            -0000.2879                                          
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 7 - L6 ball midpoint
+3-D Distance  mm            +0344.7811                                          
+X Location    mm            +0172.2967                                          
+Y Location    mm            +0400.0675                                          
+Z Location    mm            -0000.2011                                          
+ 
+Step 11 - L4 axial lever 1, Z
+Z Location    mm            +0001.9969                                          
+ 
+Step 13 - L4 axial lever 1, XY
+X Location    mm            +0094.9911                                          
+Y Location    mm            -0003.9628                                          
+2D Straightn  mm            +0000.0014                                          
+XY Angle      dd            +0000.0744                                          
+ 
+Step 15 - L4 stereo lever 1, Z
+Z Location    mm            +0006.7583                                          
+ 
+Step 17 - L4 stereo lever 1, XY
+X Location    mm            +0095.0020                                          
+Y Location    mm            +0003.7248                                          
+2D Straightn  mm            +0000.0014                                          
+XY Angle      dd            -0179.8409                                          
+ 
+Step 19 - L5 axial lever 1, Z
+Z Location    mm            -0001.0687                                          
+ 
+Step 21 - L5 axial lever 1, XY
+X Location    mm            +0095.0235                                          
+Y Location    mm            +0195.9988                                          
+2D Straightn  mm            +0000.0009                                          
+XY Angle      dd            -0000.0482                                          
+ 
+Step 23 - L5 stereo lever 1, Z
+Z Location    mm            +0003.6996                                          
+ 
+Step 25 - L5 stereo lever 1, XY
+X Location    mm            +0095.0433                                          
+Y Location    mm            +0203.8008                                          
+2D Straightn  mm            +0000.0017                                          
+XY Angle      dd            -0179.8027                                          
+ 
+Step 27 - L6 axial lever 1, Z
+Z Location    mm            -0004.0131                                          
+Machine Serial Number: SVW5001902                                     Page:    3
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 29 - L6 axial lever 1, XY
+X Location    mm            +0095.1081                                          
+Y Location    mm            +0396.1572                                          
+2D Straightn  mm            +0000.0047                                          
+XY Angle      dd            +0000.0660                                          
+ 
+Step 31 - L6 stereo lever 1, Z
+Z Location    mm            +0000.7118                                          
+ 
+Step 33 - L6 stereo lever 1, XY
+X Location    mm            +0095.0852                                          
+Y Location    mm            +0403.9232                                          
+2D Straightn  mm            +0000.0014                                          
+XY Angle      dd            -0179.7849                                          
+ 
+Step 35 - L6 stereo lever 2, Z
+Z Location    mm            -0001.5165                                          
+ 
+Step 37 - L6 stereo lever 2, XY
+X Location    mm            +0049.9812                                          
+Y Location    mm            +0403.7738                                          
+2D Straightn  mm            +0000.0016                                          
+XY Angle      dd            -0179.8677                                          
+ 
+Step 39 - L6 axial lever 2, Z
+Z Location    mm            -0004.0183                                          
+ 
+Step 41 - L6 axial lever 2, XY
+X Location    mm            +0049.9859                                          
+Y Location    mm            +0396.1332                                          
+2D Straightn  mm            +0000.0025                                          
+XY Angle      dd            +0000.1891                                          
+ 
+Step 43 - L5 stereo lever 2, Z
+Z Location    mm            +0001.4636                                          
+ 
+Step 45 - L5 stereo lever 2, XY
+X Location    mm            +0049.9677                                          
+Y Location    mm            +0203.7588                                          
+2D Straightn  mm            +0000.0024                                          
+XY Angle      dd            -0179.9339                                          
+ 
+Step 47 - L5 axial lever 2, Z
+Z Location    mm            -0001.0587                                          
+Machine Serial Number: SVW5001902                                     Page:    4
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 49 - L5 axial lever 2, XY
+X Location    mm            +0049.9887                                          
+Y Location    mm            +0196.0071                                          
+2D Straightn  mm            +0000.0026                                          
+XY Angle      dd            +0000.3133                                          
+ 
+Step 51 - L4 stereo lever 2, Z
+Z Location    mm            +0004.4983                                          
+ 
+Step 53 - L4 stereo lever 2, XY
+X Location    mm            +0049.9298                                          
+Y Location    mm            +0003.7434                                          
+2D Straightn  mm            +0000.0012                                          
+XY Angle      dd            +0179.9238                                          
+ 
+Step 55 - L4 axial lever 2, Z
+Z Location    mm            +0001.9985                                          
+ 
+Step 57 - L4 axial lever 2, XY
+X Location    mm            +0049.9136                                          
+Y Location    mm            -0003.9433                                          
+2D Straightn  mm            +0000.0029                                          
+XY Angle      dd            -0000.1321                                          
+ 
+Step 59 - L4 axial lever 3, Z
+Z Location    mm            +0002.0020                                          
+ 
+Step 61 - L4 axial lever 3, XY
+X Location    mm            +0004.9847                                          
+Y Location    mm            -0003.9110                                          
+2D Straightn  mm            +0000.0025                                          
+XY Angle      dd            -0000.0088                                          
+ 
+Step 63 - L4 stereo lever 3, Z
+Z Location    mm            +0002.2437                                          
+ 
+Step 65 - L4 stereo lever 3, XY
+X Location    mm            +0005.0088                                          
+Y Location    mm            +0003.8200                                          
+2D Straightn  mm            +0000.0016                                          
+XY Angle      dd            +0179.9305                                          
+ 
+Step 67 - L5 axial lever 3, Z
+Z Location    mm            -0001.0467                                          
+Machine Serial Number: SVW5001902                                     Page:    5
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 69 - L5 axial lever 3, XY
+X Location    mm            +0005.0457                                          
+Y Location    mm            +0195.9938                                          
+2D Straightn  mm            +0000.0022                                          
+XY Angle      dd            -0000.0602                                          
+ 
+Step 71 - L5 stereo lever 3, Z
+Z Location    mm            -0000.7674                                          
+ 
+Step 73 - L5 stereo lever 3, XY
+X Location    mm            +0005.0526                                          
+Y Location    mm            +0203.8111                                          
+2D Straightn  mm            +0000.0019                                          
+XY Angle      dd            +0179.9633                                          
+ 
+Step 75 - L6 axial lever 3, Z
+Z Location    mm            -0004.0197                                          
+ 
+Step 77 - L6 axial lever 3, XY
+X Location    mm            +0005.1079                                          
+Y Location    mm            +0396.0832                                          
+2D Straightn  mm            +0000.0026                                          
+XY Angle      dd            +0000.1617                                          
+ 
+Step 79 - L6 stereo lever 3, Z
+Z Location    mm            -0003.7424                                          
+ 
+Step 81 - L6 stereo lever 3, XY
+X Location    mm            +0005.1017                                          
+Y Location    mm            +0403.6671                                          
+2D Straightn  mm            +0000.0015                                          
+XY Angle      dd            -0179.8471                                          
+ 
+Step 83 - L6 stereo block 1, Z
+Z Location    mm            -0004.2638                                          
+ 
+Step 85 - L6 stereo block 1, XY
+X Location    mm            -0005.0237                                          
+Y Location    mm            +0403.6562                                          
+2D Straightn  mm            +0000.0068                                          
+XY Angle      dd            -0179.8758                                          
+ 
+Step 87 - L6 axial block 1, Z
+Z Location    mm            -0004.0404                                          
+Machine Serial Number: SVW5001902                                     Page:    6
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 89 - L6 axial block 1, XY
+X Location    mm            -0005.0698                                          
+Y Location    mm            +0396.0780                                          
+2D Straightn  mm            +0000.0016                                          
+XY Angle      dd            +0000.0624                                          
+ 
+Step 91 - L5 stereo block 1, Z
+Z Location    mm            -0001.2858                                          
+ 
+Step 93 - L5 stereo block 1, XY
+X Location    mm            -0005.0407                                          
+Y Location    mm            +0203.8246                                          
+2D Straightn  mm            +0000.0062                                          
+XY Angle      dd            -0179.8121                                          
+ 
+Step 95 - L5 axial block 1, Z
+Z Location    mm            -0001.0701                                          
+ 
+Step 97 - L5 axial block 1, XY
+X Location    mm            -0005.0514                                          
+Y Location    mm            +0196.0039                                          
+2D Straightn  mm            +0000.0011                                          
+XY Angle      dd            -0000.1470                                          
+ 
+Step 99 - L4 stereo block 1, Z
+Z Location    mm            +0001.7612                                          
+ 
+Step 101 - L4 stereo block 1, XY
+X Location    mm            -0005.0824                                          
+Y Location    mm            +0003.8300                                          
+2D Straightn  mm            +0000.0068                                          
+XY Angle      dd            -0179.9434                                          
+ 
+Step 103 - L4 axial block 1, Z
+Z Location    mm            +0001.9777                                          
+ 
+Step 105 - L4 axial block 1, XY
+X Location    mm            -0005.1041                                          
+Y Location    mm            -0003.8958                                          
+2D Straightn  mm            +0000.0020                                          
+XY Angle      dd            -0000.0827                                          
+ 
+Step 107 - L4 axial block 2, Z
+Z Location    mm            +0001.9865                                          
+Machine Serial Number: SVW5001902                                     Page:    7
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 109 - L4 axial block 2, XY
+X Location    mm            -0050.0179                                          
+Y Location    mm            -0003.8012                                          
+2D Straightn  mm            +0000.0021                                          
+XY Angle      dd            -0000.0661                                          
+ 
+Step 111 - L4 stereo block 2, Z
+Z Location    mm            -0000.4698                                          
+ 
+Step 113 - L4 stereo block 2, XY
+X Location    mm            -0049.9976                                          
+Y Location    mm            +0003.8673                                          
+2D Straightn  mm            +0000.0053                                          
+XY Angle      dd            +0179.9656                                          
+ 
+Step 115 - L5 axial block 2, Z
+Z Location    mm            -0001.0600                                          
+ 
+Step 117 - L5 axial block 2, XY
+X Location    mm            -0049.9646                                          
+Y Location    mm            +0196.1195                                          
+2D Straightn  mm            +0000.0011                                          
+XY Angle      dd            -0000.1829                                          
+ 
+Step 119 - L5 stereo block 2, Z
+Z Location    mm            -0003.5170                                          
+ 
+Step 121 - L5 stereo block 2, XY
+X Location    mm            -0049.9268                                          
+Y Location    mm            +0203.9126                                          
+2D Straightn  mm            +0000.0055                                          
+XY Angle      dd            -0179.9538                                          
+ 
+Step 123 - L6 axial block 2, Z
+Z Location    mm            -0004.0371                                          
+ 
+Step 125 - L6 axial block 2, XY
+X Location    mm            -0049.9336                                          
+Y Location    mm            +0396.0846                                          
+2D Straightn  mm            +0000.0012                                          
+XY Angle      dd            -0000.0185                                          
+ 
+Step 127 - L6 stereo block 2, Z
+Z Location    mm            -0006.4841                                          
+Machine Serial Number: SVW5001902                                     Page:    8
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 129 - L6 stereo block 2, XY
+X Location    mm            -0049.9646                                          
+Y Location    mm            +0403.7358                                          
+2D Straightn  mm            +0000.0033                                          
+XY Angle      dd            -0179.8982                                          
+ 
+Step 131 - L6 stereo block 3, Z
+Z Location    mm            -0008.7101                                          
+ 
+Step 133 - L6 stereo block 3, XY
+X Location    mm            -0095.0218                                          
+Y Location    mm            +0403.8080                                          
+2D Straightn  mm            +0000.0026                                          
+XY Angle      dd            +0179.9335                                          
+ 
+Step 135 - L6 axial block 3, Z
+Z Location    mm            -0004.0376                                          
+ 
+Step 137 - L6 axial block 3, XY
+X Location    mm            -0095.0011                                          
+Y Location    mm            +0396.0933                                          
+2D Straightn  mm            +0000.0007                                          
+XY Angle      dd            -0000.0551                                          
+ 
+Step 139 - L5 stereo block 3, Z
+Z Location    mm            -0005.7513                                          
+ 
+Step 141 - L5 stereo block 3, XY
+X Location    mm            -0095.0436                                          
+Y Location    mm            +0203.9874                                          
+2D Straightn  mm            +0000.0014                                          
+XY Angle      dd            +0179.9264                                          
+ 
+Step 143 - L5 axial block 3, Z
+Z Location    mm            -0001.0503                                          
+ 
+Step 145 - L5 axial block 3, XY
+X Location    mm            -0095.0420                                          
+Y Location    mm            +0196.2499                                          
+2D Straightn  mm            +0000.0011                                          
+XY Angle      dd            -0000.1948                                          
+ 
+Step 147 - L4 stereo block 3, Z
+Z Location    mm            -0002.7066                                          
+Machine Serial Number: SVW5001902                                     Page:    9
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 149 - L4 stereo block 3, XY
+X Location    mm            -0095.0840                                          
+Y Location    mm            +0003.9111                                          
+2D Straightn  mm            +0000.0062                                          
+XY Angle      dd            -0179.9578                                          
+ 
+Step 151 - L4 axial block 3, Z
+Z Location    mm            +0001.9946                                          
+ 
+Step 153 - L4 axial block 3, XY
+X Location    mm            -0095.0941                                          
+Y Location    mm            -0003.7622                                          
+2D Straightn  mm            +0000.0012                                          
+XY Angle      dd            -0000.0753                                          
+ 
+Step 155 - L4 axial lever
+X Location    mm            +0049.9942                                          
+Y Location    mm            -0003.9391                                          
+Z Location    mm            +0002.0006                                          
+2D Straightn  mm            +0000.0096                                          
+XY Angle      dd            +0179.9670                                          
+Elevation     dd            +0000.0000                                          
+ 
+Step 156 - L4 axial block
+X Location    mm            -0050.0974                                          
+Y Location    mm            -0003.8195                                          
+Z Location    mm            +0001.9875                                          
+3D Straightn  mm            +0000.0297                                          
+XY Angle      dd            +0179.9146                                          
+Elevation     dd            +0000.0108                                          
+ 
+Step 157 - L4 stereo lever
+X Location    mm            +0050.0061                                          
+Y Location    mm            +0003.7619                                          
+Z Location    mm            +0004.5024                                          
+3D Straightn  mm            +0000.0497                                          
+XY Angle      dd            +0179.9379                                          
+Elevation     dd            -0002.8715                                          
+ 
+Step 158 - L4 stereo block
+X Location    mm            -0050.0954                                          
+Y Location    mm            +0003.8696                                          
+Z Location    mm            -0000.4717                                          
+3D Straightn  mm            +0000.0376                                          
+XY Angle      dd            +0179.9483                                          
+Elevation     dd            -0002.8427                                          
+Machine Serial Number: SVW5001902                                     Page:   10
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 159 - L5 axial lever
+X Location    mm            +0050.0273                                          
+Y Location    mm            +0195.9996                                          
+Z Location    mm            -0001.0577                                          
+3D Straightn  mm            +0000.0142                                          
+XY Angle      dd            -0179.9968                                          
+Elevation     dd            +0000.0140                                          
+ 
+Step 160 - L5 axial block
+X Location    mm            -0050.0377                                          
+Y Location    mm            +0196.1246                                          
+Z Location    mm            -0001.0593                                          
+3D Straightn  mm            +0000.0082                                          
+XY Angle      dd            +0179.8434                                          
+Elevation     dd            +0000.0127                                          
+ 
+Step 161 - L5 stereo lever
+X Location    mm            +0050.0406                                          
+Y Location    mm            +0203.7908                                          
+Z Location    mm            +0001.4669                                          
+3D Straightn  mm            +0000.0625                                          
+XY Angle      dd            +0179.9935                                          
+Elevation     dd            -0002.8417                                          
+ 
+Step 162 - L5 stereo block
+X Location    mm            -0050.0581                                          
+Y Location    mm            +0203.9083                                          
+Z Location    mm            -0003.5192                                          
+3D Straightn  mm            +0000.0391                                          
+XY Angle      dd            +0179.8968                                          
+Elevation     dd            -0002.8401                                          
+ 
+Step 163 - L6 axial lever
+X Location    mm            +0050.1087                                          
+Y Location    mm            +0396.1248                                          
+Z Location    mm            -0004.0157                                          
+3D Straightn  mm            +0000.0167                                          
+XY Angle      dd            -0179.9531                                          
+Elevation     dd            -0000.0041                                          
+ 
+Step 164 - L6 axial block
+X Location    mm            -0050.0458                                          
+Y Location    mm            +0396.0853                                          
+Z Location    mm            -0004.0373                                          
+3D Straightn  mm            +0000.0029                                          
+XY Angle      dd            +0179.9902                                          
+Elevation     dd            +0000.0012                                          
+Machine Serial Number: SVW5001902                                     Page:   11
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 165 - L6 stereo lever
+X Location    mm            +0050.0913                                          
+Y Location    mm            +0403.7883                                          
+Z Location    mm            -0001.5126                                          
+3D Straightn  mm            +0000.0462                                          
+XY Angle      dd            -0179.8372                                          
+Elevation     dd            -0002.8345                                          
+ 
+Step 166 - L6 stereo block
+X Location    mm            -0050.0431                                          
+Y Location    mm            +0403.7335                                          
+Z Location    mm            -0006.4865                                          
+3D Straightn  mm            +0000.0358                                          
+XY Angle      dd            +0179.9036                                          
+Elevation     dd            -0002.8285                                          
+ 
+Step 167 - L4 slot ball reference
+X Location    mm            +0172.3356                                          
+Y Location    mm            -0000.0186                                          
+Z Location    mm            -0000.0003                                          
+ 
+Step 168 - L4 hole ball reference
+X Location    mm            -0172.3356                                          
+Y Location    mm            +0000.0186                                          
+Z Location    mm            +0000.0003                                          
+ 
+Step 169 - L6 slot ball reference
+X Location    mm            +0172.3906                                          
+Y Location    mm            +0400.0551                                          
+Z Location    mm            +0000.0003                                          
+ 
+Step 170 - L6 hole ball reference
+X Location    mm            -0172.3906                                          
+Y Location    mm            +0400.1188                                          
+Z Location    mm            -0000.0003                                          
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L456_Uupper_modules.RTN                              3 Fri Nov 07 17:20:38 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - L6 slot ball
+Sphere Diame  mm +0006.0025 +0006.0019                     -0000.0006           
+X Location    mm +0344.6803 +0344.6857                     +0000.0054           
+Y Location    mm +0400.0681 +0400.0537                     -0000.0144           
+Z Location    mm -0000.2044 -0000.2115                     +0000.0071           
+Sphericity    mm            +0000.0010                     +0000.0010           
+ 
+Step 2 - L4 slot ball
+Sphere Diame  mm +0005.9979 +0006.0056                     +0000.0077           
+X Location    mm +0344.6831 +0344.6742                     -0000.0089           
+Y Location    mm -0000.0029 -0000.0172                     +0000.0143           
+Z Location    mm -0000.2747 -0000.3015                     +0000.0268           
+Sphericity    mm            +0000.0012                     +0000.0012           
+ 
+Step 3 - L4 hole ball
+Sphere Diame  mm +0006.0003 +0006.0015                     +0000.0012           
+X Location    mm +0000.0120 +0000.0083                     -0000.0037           
+Y Location    mm -0000.0202 -0000.0214                     +0000.0012           
+Z Location    mm -0000.2434 -0000.2787                     +0000.0353           
+Sphericity    mm            +0000.0009                     +0000.0009           
+ 
+Step 4 - L6 hole ball
+Sphere Diame  mm +0006.0004 +0005.9973                     -0000.0031           
+X Location    mm -0000.1037 -0000.0956                     -0000.0081           
+Y Location    mm +0400.0790 +0400.0787                     -0000.0003           
+Z Location    mm -0000.1576 -0000.1907                     +0000.0331           
+Sphericity    mm            +0000.0010                     +0000.0010           
+ 
+Step 5 - Ball plane
+X Location    mm            +0172.3182                                          
+Y Location    mm            +0200.0235                                          
+Z Location    mm            -0000.2456                                          
+Flatness      mm            +0000.0010                                          
+XY Angle      dd            +0105.8942                                          
+Elevation     dd            -0089.9867                                          
+ 
+Step 6 - L4 ball midpoint
+3-D Distance  mm            +0344.6660                                          
+X Location    mm            +0172.3413                                          
+Y Location    mm            -0000.0193                                          
+Z Location    mm            -0000.2901                                          
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 7 - L6 ball midpoint
+3-D Distance  mm            +0344.7814                                          
+X Location    mm            +0172.2951                                          
+Y Location    mm            +0400.0662                                          
+Z Location    mm            -0000.2011                                          
+ 
+Step 11 - L4 axial lever 1, Z
+Z Location    mm            +0001.9969                                          
+ 
+Step 13 - L4 axial lever 1, XY
+X Location    mm            +0094.9915                                          
+Y Location    mm            -0003.9625                                          
+2D Straightn  mm            +0000.0037                                          
+XY Angle      dd            +0000.0864                                          
+ 
+Step 15 - L4 stereo lever 1, Z
+Z Location    mm            +0006.7611                                          
+ 
+Step 17 - L4 stereo lever 1, XY
+X Location    mm            +0095.0017                                          
+Y Location    mm            +0003.7247                                          
+2D Straightn  mm            +0000.0015                                          
+XY Angle      dd            -0179.8686                                          
+ 
+Step 19 - L5 axial lever 1, Z
+Z Location    mm            -0001.0633                                          
+ 
+Step 21 - L5 axial lever 1, XY
+X Location    mm            +0095.0227                                          
+Y Location    mm            +0195.9985                                          
+2D Straightn  mm            +0000.0010                                          
+XY Angle      dd            -0000.0467                                          
+ 
+Step 23 - L5 stereo lever 1, Z
+Z Location    mm            +0003.7030                                          
+ 
+Step 25 - L5 stereo lever 1, XY
+X Location    mm            +0095.0430                                          
+Y Location    mm            +0203.8002                                          
+2D Straightn  mm            +0000.0017                                          
+XY Angle      dd            -0179.7831                                          
+ 
+Step 27 - L6 axial lever 1, Z
+Z Location    mm            -0004.0141                                          
+Machine Serial Number: SVW5001902                                     Page:    3
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 29 - L6 axial lever 1, XY
+X Location    mm            +0095.1076                                          
+Y Location    mm            +0396.1562                                          
+2D Straightn  mm            +0000.0046                                          
+XY Angle      dd            +0000.0483                                          
+ 
+Step 31 - L6 stereo lever 1, Z
+Z Location    mm            +0000.7134                                          
+ 
+Step 33 - L6 stereo lever 1, XY
+X Location    mm            +0095.0854                                          
+Y Location    mm            +0403.9221                                          
+2D Straightn  mm            +0000.0014                                          
+XY Angle      dd            -0179.7749                                          
+ 
+Step 35 - L6 stereo lever 2, Z
+Z Location    mm            -0001.5160                                          
+ 
+Step 37 - L6 stereo lever 2, XY
+X Location    mm            +0049.9814                                          
+Y Location    mm            +0403.7705                                          
+2D Straightn  mm            +0000.0020                                          
+XY Angle      dd            -0179.8477                                          
+ 
+Step 39 - L6 axial lever 2, Z
+Z Location    mm            -0004.0165                                          
+ 
+Step 41 - L6 axial lever 2, XY
+X Location    mm            +0049.9857                                          
+Y Location    mm            +0396.1326                                          
+2D Straightn  mm            +0000.0026                                          
+XY Angle      dd            +0000.1914                                          
+ 
+Step 43 - L5 stereo lever 2, Z
+Z Location    mm            +0001.4650                                          
+ 
+Step 45 - L5 stereo lever 2, XY
+X Location    mm            +0049.9683                                          
+Y Location    mm            +0203.7574                                          
+2D Straightn  mm            +0000.0023                                          
+XY Angle      dd            -0179.9387                                          
+ 
+Step 47 - L5 axial lever 2, Z
+Z Location    mm            -0001.0563                                          
+Machine Serial Number: SVW5001902                                     Page:    4
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 49 - L5 axial lever 2, XY
+X Location    mm            +0049.9874                                          
+Y Location    mm            +0196.0070                                          
+2D Straightn  mm            +0000.0024                                          
+XY Angle      dd            +0000.2733                                          
+ 
+Step 51 - L4 stereo lever 2, Z
+Z Location    mm            +0004.5011                                          
+ 
+Step 53 - L4 stereo lever 2, XY
+X Location    mm            +0049.9295                                          
+Y Location    mm            +0003.7427                                          
+2D Straightn  mm            +0000.0013                                          
+XY Angle      dd            +0179.9248                                          
+ 
+Step 55 - L4 axial lever 2, Z
+Z Location    mm            +0002.0011                                          
+ 
+Step 57 - L4 axial lever 2, XY
+X Location    mm            +0049.9126                                          
+Y Location    mm            -0003.9427                                          
+2D Straightn  mm            +0000.0021                                          
+XY Angle      dd            -0000.1415                                          
+ 
+Step 59 - L4 axial lever 3, Z
+Z Location    mm            +0002.0049                                          
+ 
+Step 61 - L4 axial lever 3, XY
+X Location    mm            +0004.9849                                          
+Y Location    mm            -0003.9105                                          
+2D Straightn  mm            +0000.0025                                          
+XY Angle      dd            -0000.0250                                          
+ 
+Step 63 - L4 stereo lever 3, Z
+Z Location    mm            +0002.2469                                          
+ 
+Step 65 - L4 stereo lever 3, XY
+X Location    mm            +0005.0082                                          
+Y Location    mm            +0003.8189                                          
+2D Straightn  mm            +0000.0018                                          
+XY Angle      dd            +0179.9296                                          
+ 
+Step 67 - L5 axial lever 3, Z
+Z Location    mm            -0001.0452                                          
+Machine Serial Number: SVW5001902                                     Page:    5
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 69 - L5 axial lever 3, XY
+X Location    mm            +0005.0459                                          
+Y Location    mm            +0195.9935                                          
+2D Straightn  mm            +0000.0015                                          
+XY Angle      dd            -0000.0653                                          
+ 
+Step 71 - L5 stereo lever 3, Z
+Z Location    mm            -0000.7674                                          
+ 
+Step 73 - L5 stereo lever 3, XY
+X Location    mm            +0005.0518                                          
+Y Location    mm            +0203.8090                                          
+2D Straightn  mm            +0000.0015                                          
+XY Angle      dd            +0179.9837                                          
+ 
+Step 75 - L6 axial lever 3, Z
+Z Location    mm            -0004.0198                                          
+ 
+Step 77 - L6 axial lever 3, XY
+X Location    mm            +0005.1076                                          
+Y Location    mm            +0396.0826                                          
+2D Straightn  mm            +0000.0022                                          
+XY Angle      dd            +0000.1928                                          
+ 
+Step 79 - L6 stereo lever 3, Z
+Z Location    mm            -0003.7429                                          
+ 
+Step 81 - L6 stereo lever 3, XY
+X Location    mm            +0005.1016                                          
+Y Location    mm            +0403.6626                                          
+2D Straightn  mm            +0000.0015                                          
+XY Angle      dd            -0179.8442                                          
+ 
+Step 83 - L6 stereo block 1, Z
+Z Location    mm            -0004.2624                                          
+ 
+Step 85 - L6 stereo block 1, XY
+X Location    mm            -0004.9596                                          
+Y Location    mm            +0403.6519                                          
+2D Straightn  mm            +0000.0057                                          
+XY Angle      dd            -0179.8199                                          
+ 
+Step 87 - L6 axial block 1, Z
+Z Location    mm            -0004.0401                                          
+Machine Serial Number: SVW5001902                                     Page:    6
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 89 - L6 axial block 1, XY
+X Location    mm            -0005.0287                                          
+Y Location    mm            +0396.0772                                          
+2D Straightn  mm            +0000.0030                                          
+XY Angle      dd            -0000.0334                                          
+ 
+Step 91 - L5 stereo block 1, Z
+Z Location    mm            -0001.2855                                          
+ 
+Step 93 - L5 stereo block 1, XY
+X Location    mm            -0005.0401                                          
+Y Location    mm            +0203.8233                                          
+2D Straightn  mm            +0000.0065                                          
+XY Angle      dd            -0179.8184                                          
+ 
+Step 95 - L5 axial block 1, Z
+Z Location    mm            -0001.0675                                          
+ 
+Step 97 - L5 axial block 1, XY
+X Location    mm            -0005.0516                                          
+Y Location    mm            +0196.0037                                          
+2D Straightn  mm            +0000.0009                                          
+XY Angle      dd            -0000.1390                                          
+ 
+Step 99 - L4 stereo block 1, Z
+Z Location    mm            +0001.7628                                          
+ 
+Step 101 - L4 stereo block 1, XY
+X Location    mm            -0005.0818                                          
+Y Location    mm            +0003.8302                                          
+2D Straightn  mm            +0000.0065                                          
+XY Angle      dd            -0179.7967                                          
+ 
+Step 103 - L4 axial block 1, Z
+Z Location    mm            +0001.9799                                          
+ 
+Step 105 - L4 axial block 1, XY
+X Location    mm            -0005.1040                                          
+Y Location    mm            -0003.8958                                          
+2D Straightn  mm            +0000.0020                                          
+XY Angle      dd            -0000.0761                                          
+ 
+Step 107 - L4 axial block 2, Z
+Z Location    mm            +0001.9898                                          
+Machine Serial Number: SVW5001902                                     Page:    7
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 109 - L4 axial block 2, XY
+X Location    mm            -0050.0172                                          
+Y Location    mm            -0003.8004                                          
+2D Straightn  mm            +0000.0022                                          
+XY Angle      dd            -0000.0820                                          
+ 
+Step 111 - L4 stereo block 2, Z
+Z Location    mm            -0000.4691                                          
+ 
+Step 113 - L4 stereo block 2, XY
+X Location    mm            -0049.9979                                          
+Y Location    mm            +0003.8670                                          
+2D Straightn  mm            +0000.0054                                          
+XY Angle      dd            +0179.9617                                          
+ 
+Step 115 - L5 axial block 2, Z
+Z Location    mm            -0001.0601                                          
+ 
+Step 117 - L5 axial block 2, XY
+X Location    mm            -0049.9653                                          
+Y Location    mm            +0196.1199                                          
+2D Straightn  mm            +0000.0015                                          
+XY Angle      dd            -0000.1826                                          
+ 
+Step 119 - L5 stereo block 2, Z
+Z Location    mm            -0003.5158                                          
+ 
+Step 121 - L5 stereo block 2, XY
+X Location    mm            -0049.9682                                          
+Y Location    mm            +0203.9121                                          
+2D Straightn  mm            +0000.0037                                          
+XY Angle      dd            +0179.7485                                          
+ 
+Step 123 - L6 axial block 2, Z
+Z Location    mm            -0004.0385                                          
+ 
+Step 125 - L6 axial block 2, XY
+X Location    mm            -0049.9334                                          
+Y Location    mm            +0396.0845                                          
+2D Straightn  mm            +0000.0012                                          
+XY Angle      dd            -0000.0295                                          
+ 
+Step 127 - L6 stereo block 2, Z
+Z Location    mm            -0006.4839                                          
+Machine Serial Number: SVW5001902                                     Page:    8
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 129 - L6 stereo block 2, XY
+X Location    mm            -0049.9643                                          
+Y Location    mm            +0403.7326                                          
+2D Straightn  mm            +0000.0038                                          
+XY Angle      dd            -0179.9115                                          
+ 
+Step 131 - L6 stereo block 3, Z
+Z Location    mm            -0008.7128                                          
+ 
+Step 133 - L6 stereo block 3, XY
+X Location    mm            -0095.0857                                          
+Y Location    mm            +0403.8072                                          
+2D Straightn  mm            +0000.0022                                          
+XY Angle      dd            +0179.9820                                          
+ 
+Step 135 - L6 axial block 3, Z
+Z Location    mm            -0004.0394                                          
+ 
+Step 137 - L6 axial block 3, XY
+X Location    mm            -0095.0009                                          
+Y Location    mm            +0396.0923                                          
+2D Straightn  mm            +0000.0007                                          
+XY Angle      dd            -0000.0653                                          
+ 
+Step 139 - L5 stereo block 3, Z
+Z Location    mm            -0005.7508                                          
+ 
+Step 141 - L5 stereo block 3, XY
+X Location    mm            -0095.0434                                          
+Y Location    mm            +0203.9866                                          
+2D Straightn  mm            +0000.0014                                          
+XY Angle      dd            +0179.9210                                          
+ 
+Step 143 - L5 axial block 3, Z
+Z Location    mm            -0001.0495                                          
+ 
+Step 145 - L5 axial block 3, XY
+X Location    mm            -0095.0427                                          
+Y Location    mm            +0196.2495                                          
+2D Straightn  mm            +0000.0008                                          
+XY Angle      dd            -0000.1919                                          
+ 
+Step 147 - L4 stereo block 3, Z
+Z Location    mm            -0002.7075                                          
+Machine Serial Number: SVW5001902                                     Page:    9
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 149 - L4 stereo block 3, XY
+X Location    mm            -0095.0848                                          
+Y Location    mm            +0003.9108                                          
+2D Straightn  mm            +0000.0063                                          
+XY Angle      dd            -0179.9710                                          
+ 
+Step 151 - L4 axial block 3, Z
+Z Location    mm            +0001.9957                                          
+ 
+Step 153 - L4 axial block 3, XY
+X Location    mm            -0095.0944                                          
+Y Location    mm            -0003.7620                                          
+2D Straightn  mm            +0000.0010                                          
+XY Angle      dd            -0000.0821                                          
+ 
+Step 155 - L4 axial lever
+X Location    mm            +0049.9948                                          
+Y Location    mm            -0003.9386                                          
+Z Location    mm            +0002.0023                                          
+2D Straightn  mm            +0000.0105                                          
+XY Angle      dd            +0179.9669                                          
+Elevation     dd            +0000.0000                                          
+ 
+Step 156 - L4 axial block
+X Location    mm            -0050.0974                                          
+Y Location    mm            -0003.8192                                          
+Z Location    mm            +0001.9895                                          
+3D Straightn  mm            +0000.0305                                          
+XY Angle      dd            +0179.9146                                          
+Elevation     dd            +0000.0104                                          
+ 
+Step 157 - L4 stereo lever
+X Location    mm            +0050.0053                                          
+Y Location    mm            +0003.7613                                          
+Z Location    mm            +0004.5055                                          
+3D Straightn  mm            +0000.0496                                          
+XY Angle      dd            +0179.9385                                          
+Elevation     dd            -0002.8717                                          
+ 
+Step 158 - L4 stereo block
+X Location    mm            -0050.0954                                          
+Y Location    mm            +0003.8693                                          
+Z Location    mm            -0000.4718                                          
+3D Straightn  mm            +0000.0380                                          
+XY Angle      dd            +0179.9486                                          
+Elevation     dd            -0002.8429                                          
+Machine Serial Number: SVW5001902                                     Page:   10
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 159 - L5 axial lever
+X Location    mm            +0050.0270                                          
+Y Location    mm            +0195.9994                                          
+Z Location    mm            -0001.0545                                          
+3D Straightn  mm            +0000.0137                                          
+XY Angle      dd            -0179.9969                                          
+Elevation     dd            +0000.0116                                          
+ 
+Step 160 - L5 axial block
+X Location    mm            -0050.0381                                          
+Y Location    mm            +0196.1245                                          
+Z Location    mm            -0001.0582                                          
+3D Straightn  mm            +0000.0078                                          
+XY Angle      dd            +0179.8435                                          
+Elevation     dd            +0000.0116                                          
+ 
+Step 161 - L5 stereo lever
+X Location    mm            +0050.0401                                          
+Y Location    mm            +0203.7889                                          
+Z Location    mm            +0001.4687                                          
+3D Straightn  mm            +0000.0627                                          
+XY Angle      dd            +0179.9944                                          
+Elevation     dd            -0002.8437                                          
+ 
+Step 162 - L5 stereo block
+X Location    mm            -0050.0577                                          
+Y Location    mm            +0203.9073                                          
+Z Location    mm            -0003.5192                                          
+3D Straightn  mm            +0000.0393                                          
+XY Angle      dd            +0179.8964                                          
+Elevation     dd            -0002.8403                                          
+ 
+Step 163 - L6 axial lever
+X Location    mm            +0050.1080                                          
+Y Location    mm            +0396.1242                                          
+Z Location    mm            -0004.0152                                          
+3D Straightn  mm            +0000.0169                                          
+XY Angle      dd            -0179.9535                                          
+Elevation     dd            -0000.0036                                          
+ 
+Step 164 - L6 axial block
+X Location    mm            -0050.0047                                          
+Y Location    mm            +0396.0846                                          
+Z Location    mm            -0004.0376                                          
+3D Straightn  mm            +0000.0029                                          
+XY Angle      dd            +0179.9904                                          
+Elevation     dd            +0000.0005                                          
+Machine Serial Number: SVW5001902                                     Page:   11
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 165 - L6 stereo lever
+X Location    mm            +0050.0910                                          
+Y Location    mm            +0403.7853                                          
+Z Location    mm            -0001.5123                                          
+3D Straightn  mm            +0000.0464                                          
+XY Angle      dd            -0179.8350                                          
+Elevation     dd            -0002.8355                                          
+ 
+Step 166 - L6 stereo block
+X Location    mm            -0050.0011                                          
+Y Location    mm            +0403.7308                                          
+Z Location    mm            -0006.4858                                          
+3D Straightn  mm            +0000.0358                                          
+XY Angle      dd            +0179.9015                                          
+Elevation     dd            -0002.8262                                          
+ 
+Step 167 - L4 slot ball reference
+X Location    mm            +0172.3330                                          
+Y Location    mm            -0000.0178                                          
+Z Location    mm            -0000.0005                                          
+ 
+Step 168 - L4 hole ball reference
+X Location    mm            -0172.3330                                          
+Y Location    mm            +0000.0178                                          
+Z Location    mm            +0000.0005                                          
+ 
+Step 169 - L6 slot ball reference
+X Location    mm            +0172.3907                                          
+Y Location    mm            +0400.0530                                          
+Z Location    mm            +0000.0005                                          
+ 
+Step 170 - L6 hole ball reference
+X Location    mm            -0172.3907                                          
+Y Location    mm            +0400.1179                                          
+Z Location    mm            -0000.0005                                          

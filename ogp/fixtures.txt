@@ -1,0 +1,69 @@
+All fixture measurements are made with touch probe.
+
+Fixture coordinates (used for ball positions below, and module survey output from Python scripts):
+	Datum (Z=0) plane is fixture surface.
+	Hole pin-datum plane intersection is datum origin, slot pin-datum plane intersection is datum axis (+X).
+
+When constructing a basis from ball positions: origin ball sets origin, (axis-origin) sets first basis vector, (diagonal-origin) sets second basis vector.
+
+Ball diameter tolerance is +/- 0.2 mils (5 um)
+
+Module survey coordinates (used for OGP output of module survey):
+	Module survey routine uses a datum set by optical measurement of cold block and touch measurements of origin and diagonal balls.
+	This is for convenience only; Python scripts rotate all measurements into the fixture coordinates using the three balls.
+	For convenience, axes are close to machine axes, so survey Y is fixture Z, survey Z is fixture +/-Y.
+	Cold block face sets XY plane and Z=0; set X and Y of origin ball and Y of axis ball.
+	Origin is (nominally) at triple corner of fixture surface and cold block's face and back edge.
+
+
+run	X		Y		Z		diam.		sphericity
+
+L123 fixture:
+
+Origin ball
+nom_in	9.95		0.875	2.087	0.25
+nom_mm	252.73		22.225	53.010	6.35
+1	252.8548	22.3116		53.4920		6.3519	0.0027
+2	252.8533	22.3112		53.4945		6.3518	0.0032
+3	252.8538	22.3093		53.4948		6.3507	0.0041
+avg.	252.8540	22.3107		53.4938
+
+Axis ball
+nom_in	-2.45	0.875	2.087	0.25
+nom_mm	-62.23	22.225	53.010	6.35
+1	-62.0928	22.4456		53.4155		6.3531	0.0029
+2	-62.0941	22.4460		53.4169		6.3536	0.0032
+3	-62.0941	22.4480		53.4171		6.3535	0.0030
+avg.	-62.0937	22.4465		53.4165
+
+Diagonal ball
+nom_in	9.95	-0.125	1.087	0.25
+nom_mm	252.73	-3.175	27.610	6.35
+1	252.8292	-2.8942		28.0900		6.3538	0.0044
+2	252.8273	-2.8947		28.0934		6.3528	0.0049
+3	252.8266	-2.8962		28.0930		6.3535	0.0054
+avg.	252.8277	-2.8950		28.0921
+
+
+
+
+
+L456 fixture:
+
+Origin ball
+1	360.6887	22.4465		49.2438		6.3490	0.0035
+2	360.6867	22.4464		49.2449		6.3490	0.0028
+3	360.6871	22.4480		49.2452		6.3494	0.0029
+avg.	360.6875	22.4470		49.2446
+
+Axis ball
+1	-62.1855	22.2934		49.3550		6.3523	0.0064
+2	-62.1868	22.2946		49.3543		6.3516	0.0067
+3	-62.1857	22.2936		49.3539		6.3523	0.0061
+avg.	-62.1860	22.2939		49.3544
+
+Diagonal ball
+1	360.7403	-2.8270		23.8589		6.3543	0.0032
+2	360.7378	-2.8269		23.8600		6.3551	0.0028
+3	360.7386	-2.8253		23.8602		6.3562	0.0024
+avg.	360.7389	-2.8264		23.8597

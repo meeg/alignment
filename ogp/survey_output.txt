@@ -1,0 +1,51 @@
+Residuals are mostly just for debug. Could use them to refine the pin basis.
+
+Basis is a 2-element array [origin, basis_vectors]. This defines the basis in the given survey frame.
+
+Example (L1S sensor basis in pin frame):
+[array([ 124.1617,   39.2506,  -13.8204]), array([[  9.9501e-01,   9.9742e-02, -9.3294e-04],
+       [  9.9743e-02,  -9.9501e-01,   1.0489e-03],
+       [ -8.2366e-04,  -1.1367e-03,  -1.0000e+00]])]
+In the pin frame, the sensor origin is [ 124.1617,   39.2506,  -13.8204].
+In the pin frame, the sensor X-axis (strip direction) is [  9.9501e-01, 9.9742e-02, -9.3294e-04].
+etc.
+
+Sensor basis: 
++Z is the normal to the strip side of the sensor.
++X is strip direction, pointing away from the hybrid.
++Y is measurement direction, pointing towards strip 638.
+Origin is the center of the sensor in XY, at the strip surface in Z.
+
+Pin basis:
+Pin positions are defined by intersection of pin axis with fixture (or U-channel pocket) surface.
++X is the vector pointing from the slot pin to the hole pin.
++Y is the normal to the fixture surface.
++Z points towards the axial sensor.
+Origin is the hole pin.
+For the bottom U-channels, pin basis directions should match U-channel and JLab basis directions. For the top U-channels, Y and Z should be inverted.
+
+U-channel basis:
+Ball positions are defined by the centers of 6mm balls held in the cone fiducials.
+``Upstream midpoint'' is the midpoint of L1/L4 hole and slot balls.
+``Downstream midpoint'' is the midpoint of L1/L4 hole and slot balls.
+``Hole-to-slot vector'' is the vector from hole ball to slot ball.
++Z is the vector pointing from the upstream midpoint to the downstream midpoint.
++X is the average of the upstream and downstream hole-to-slot vectors.
++Y points up in the JLab frame.
+Origin is the upstream midpoint.
+U-channel basis directions should match JLab basis directions, plus the 30
+mrad rotation.
+
+Box basis:
+Ball positions are defined by the centers of 1/2" balls held in the cone fiducials.
+``Upstream midpoint'' is the midpoint of the two upper balls on the upstream
+end.
+``Upstream center'' is the midpoint of the upstream midpoint and the lower
+ball on the upstream end.
+``Upstream vector'' is the vector from the beam-right upper ball to the
+beam-left upper ball on the upstream end.
++Z is the vector pointing from the upstream center to the downstream center.
++X is the upstream vector.
++Y points up in the JLab frame.
+Origin is the upstream center.
+Downstream vector is used to measure the box twist.

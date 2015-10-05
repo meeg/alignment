@@ -1,0 +1,408 @@
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+wire_upper_test.RTN                                  1 Tue Oct 21 18:05:40 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Diagonal wire 1, Z
+Z Location    mm            +0008.2734                                          
+ 
+Step 3 - Diagonal wire 1, XY
+X Location    mm            +0150.7042                                          
+Y Location    mm            -0000.5283                                          
+2D Straightn  mm            +0000.0003                                          
+XY Angle      dd            +0000.3759                                          
+ 
+Step 5 - Horizontal wire 1, Z
+Z Location    mm            +0010.9938                                          
+ 
+Step 7 - Horizontal wire 1, XY
+X Location    mm            +0150.7095                                          
+Y Location    mm            -0000.2639                                          
+2D Straightn  mm            +0000.0008                                          
+XY Angle      dd            -0000.0845                                          
+ 
+Step 9 - Horizontal wire 2, Z
+Z Location    mm            +0010.9767                                          
+ 
+Step 11 - Horizontal wire 2, XY
+X Location    mm            +0116.4200                                          
+Y Location    mm            -0000.2956                                          
+2D Straightn  mm            +0000.0003                                          
+XY Angle      dd            +0000.0548                                          
+ 
+Step 13 - Diagonal wire 2, Z
+Z Location    mm            +0013.6264                                          
+ 
+Step 15 - Diagonal wire 2, XY
+X Location    mm            +0116.4300                                          
+Y Location    mm            -0000.6729                                          
+2D Straightn  mm            +0000.0004                                          
+XY Angle      dd            +0000.4105                                          
+ 
+Step 17 - Horizontal wire
+X Location    mm            +0133.5648                                          
+Y Location    mm            -0000.2797                                          
+Z Location    mm            +0010.9862                                          
+XY Angle      dd            +0000.0529                                          
+Elevation     dd            +0000.0284                                          
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 18 - Diagonal wire
+X Location    mm            +0133.5671                                          
+Y Location    mm            -0000.6006                                          
+Z Location    mm            +0010.9509                                          
+XY Angle      dd            +0000.2417                                          
+Elevation     dd            -0008.8761                                          
+ 
+Step 19 - Closest approach
+X Location    mm            +0133.3851                                          
+Y Location    mm            -0000.4406                                          
+Z Location    mm            +0010.9827                                          
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+wire_upper_test.RTN                                  2 Tue Oct 21 18:06:20 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Diagonal wire 1, Z
+Z Location    mm            +0008.2724                                          
+ 
+Step 3 - Diagonal wire 1, XY
+X Location    mm            +0150.7042                                          
+Y Location    mm            -0000.5282                                          
+2D Straightn  mm            +0000.0003                                          
+XY Angle      dd            +0000.3799                                          
+ 
+Step 5 - Horizontal wire 1, Z
+Z Location    mm            +0010.9937                                          
+ 
+Step 7 - Horizontal wire 1, XY
+X Location    mm            +0150.7095                                          
+Y Location    mm            -0000.2639                                          
+2D Straightn  mm            +0000.0008                                          
+XY Angle      dd            -0000.0835                                          
+ 
+Step 9 - Horizontal wire 2, Z
+Z Location    mm            +0010.9785                                          
+ 
+Step 11 - Horizontal wire 2, XY
+X Location    mm            +0116.4190                                          
+Y Location    mm            -0000.2954                                          
+2D Straightn  mm            +0000.0004                                          
+XY Angle      dd            +0000.0537                                          
+ 
+Step 13 - Diagonal wire 2, Z
+Z Location    mm            +0013.6265                                          
+ 
+Step 15 - Diagonal wire 2, XY
+X Location    mm            +0116.4300                                          
+Y Location    mm            -0000.6729                                          
+2D Straightn  mm            +0000.0003                                          
+XY Angle      dd            +0000.4091                                          
+ 
+Step 17 - Horizontal wire
+X Location    mm            +0133.5643                                          
+Y Location    mm            -0000.2797                                          
+Z Location    mm            +0010.9872                                          
+XY Angle      dd            +0000.0526                                          
+Elevation     dd            +0000.0251                                          
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 18 - Diagonal wire
+X Location    mm            +0133.5671                                          
+Y Location    mm            -0000.6006                                          
+Z Location    mm            +0010.9507                                          
+XY Angle      dd            +0000.2419                                          
+Elevation     dd            -0008.8785                                          
+ 
+Step 19 - Closest approach
+X Location    mm            +0133.3772                                          
+Y Location    mm            -0000.4406                                          
+Z Location    mm            +0010.9837                                          
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+wire_upper_test.RTN                                  3 Tue Oct 21 18:09:31 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Diagonal wire 1, Z
+Z Location    mm            +0008.2723                                          
+ 
+Step 3 - Diagonal wire 1, XY
+X Location    mm            +0150.7042                                          
+Y Location    mm            -0000.5268                                          
+2D Straightn  mm            +0000.0003                                          
+XY Angle      dd            +0000.3764                                          
+ 
+Step 5 - Horizontal wire 1, Z
+Z Location    mm            +0010.9930                                          
+ 
+Step 7 - Horizontal wire 1, XY
+X Location    mm            +0150.7081                                          
+Y Location    mm            -0000.2624                                          
+2D Straightn  mm            +0000.0007                                          
+XY Angle      dd            -0000.0858                                          
+ 
+Step 9 - Horizontal wire 2, Z
+Z Location    mm            +0010.9783                                          
+ 
+Step 11 - Horizontal wire 2, XY
+X Location    mm            +0116.4200                                          
+Y Location    mm            -0000.2924                                          
+2D Straightn  mm            +0000.0004                                          
+XY Angle      dd            +0000.0532                                          
+ 
+Step 13 - Diagonal wire 2, Z
+Z Location    mm            +0013.6283                                          
+ 
+Step 15 - Diagonal wire 2, XY
+X Location    mm            +0116.4291                                          
+Y Location    mm            -0000.6699                                          
+2D Straightn  mm            +0000.0002                                          
+XY Angle      dd            +0000.4041                                          
+ 
+Step 17 - Horizontal wire
+X Location    mm            +0133.5641                                          
+Y Location    mm            -0000.2774                                          
+Z Location    mm            +0010.9864                                          
+XY Angle      dd            +0000.0502                                          
+Elevation     dd            +0000.0259                                          
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 18 - Diagonal wire
+X Location    mm            +0133.5667                                          
+Y Location    mm            -0000.5984                                          
+Z Location    mm            +0010.9512                                          
+XY Angle      dd            +0000.2391                                          
+Elevation     dd            -0008.8815                                          
+ 
+Step 19 - Closest approach
+X Location    mm            +0133.3848                                          
+Y Location    mm            -0000.4384                                          
+Z Location    mm            +0010.9829                                          
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+wire_upper_test.RTN                                  4 Tue Oct 21 18:11:52 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Diagonal wire 1, Z
+Z Location    mm            +0008.2711                                          
+ 
+Step 3 - Diagonal wire 1, XY
+X Location    mm            +0150.7052                                          
+Y Location    mm            -0000.5041                                          
+2D Straightn  mm            +0000.0003                                          
+XY Angle      dd            +0000.3731                                          
+ 
+Step 5 - Horizontal wire 1, Z
+Z Location    mm            +0010.9895                                          
+ 
+Step 7 - Horizontal wire 1, XY
+X Location    mm            +0150.7090                                          
+Y Location    mm            -0000.2386                                          
+2D Straightn  mm            +0000.0007                                          
+XY Angle      dd            -0000.0856                                          
+ 
+Step 9 - Horizontal wire 2, Z
+Z Location    mm            +0010.9753                                          
+ 
+Step 11 - Horizontal wire 2, XY
+X Location    mm            +0116.4201                                          
+Y Location    mm            -0000.2690                                          
+2D Straightn  mm            +0000.0004                                          
+XY Angle      dd            +0000.0475                                          
+ 
+Step 13 - Diagonal wire 2, Z
+Z Location    mm            +0013.6262                                          
+ 
+Step 15 - Diagonal wire 2, XY
+X Location    mm            +0116.4300                                          
+Y Location    mm            -0000.6447                                          
+2D Straightn  mm            +0000.0003                                          
+XY Angle      dd            +0000.4062                                          
+ 
+Step 17 - Horizontal wire
+X Location    mm            +0133.5646                                          
+Y Location    mm            -0000.2538                                          
+Z Location    mm            +0010.9832                                          
+XY Angle      dd            +0000.0508                                          
+Elevation     dd            +0000.0251                                          
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 18 - Diagonal wire
+X Location    mm            +0133.5676                                          
+Y Location    mm            -0000.5744                                          
+Z Location    mm            +0010.9497                                          
+XY Angle      dd            +0000.2349                                          
+Elevation     dd            -0008.8799                                          
+ 
+Step 19 - Closest approach
+X Location    mm            +0133.3957                                          
+Y Location    mm            -0000.4145                                          
+Z Location    mm            +0010.9798                                          
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+wire_upper_test.RTN                                  7 Tue Oct 21 18:20:31 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Diagonal wire 1, Z
+Z Location    mm            +0008.2682                                          
+ 
+Step 3 - Diagonal wire 1, XY
+X Location    mm            +0150.7010                                          
+Y Location    mm            -0000.4962                                          
+2D Straightn  mm            +0000.0003                                          
+XY Angle      dd            +0000.3769                                          
+ 
+Step 5 - Horizontal wire 1, Z
+Z Location    mm            +0010.9912                                          
+ 
+Step 7 - Horizontal wire 1, XY
+X Location    mm            +0150.7091                                          
+Y Location    mm            -0000.2296                                          
+2D Straightn  mm            +0000.0007                                          
+XY Angle      dd            -0000.0884                                          
+ 
+Step 9 - Horizontal wire 2, Z
+Z Location    mm            +0010.9769                                          
+ 
+Step 11 - Horizontal wire 2, XY
+X Location    mm            +0116.4204                                          
+Y Location    mm            -0000.2593                                          
+2D Straightn  mm            +0000.0002                                          
+XY Angle      dd            +0000.0523                                          
+ 
+Step 13 - Diagonal wire 2, Z
+Z Location    mm            +0013.6287                                          
+ 
+Step 15 - Diagonal wire 2, XY
+X Location    mm            +0116.4291                                          
+Y Location    mm            -0000.6344                                          
+2D Straightn  mm            +0000.0004                                          
+XY Angle      dd            +0000.4053                                          
+ 
+Step 17 - Horizontal wire
+X Location    mm            +0133.5648                                          
+Y Location    mm            -0000.2444                                          
+Z Location    mm            +0010.9849                                          
+XY Angle      dd            +0000.0496                                          
+Elevation     dd            +0000.0242                                          
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 18 - Diagonal wire
+X Location    mm            +0133.5651                                          
+Y Location    mm            -0000.5653                                          
+Z Location    mm            +0010.9494                                          
+XY Angle      dd            +0000.2310                                          
+Elevation     dd            -0008.8897                                          
+ 
+Step 19 - Closest approach
+X Location    mm            +0133.3800                                          
+Y Location    mm            -0000.4053                                          
+Z Location    mm            +0010.9816                                          
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+wire_upper_test.RTN                                  8 Tue Oct 21 18:24:47 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Diagonal wire 1, Z
+Z Location    mm            +0008.2771                                          
+ 
+Step 3 - Diagonal wire 1, XY
+X Location    mm            +0150.7015                                          
+Y Location    mm            -0000.4877                                          
+2D Straightn  mm            +0000.0003                                          
+XY Angle      dd            +0000.3702                                          
+ 
+Step 5 - Horizontal wire 1, Z
+Z Location    mm            +0010.9966                                          
+ 
+Step 7 - Horizontal wire 1, XY
+X Location    mm            +0150.7092                                          
+Y Location    mm            -0000.2211                                          
+2D Straightn  mm            +0000.0007                                          
+XY Angle      dd            -0000.0878                                          
+ 
+Step 9 - Horizontal wire 2, Z
+Z Location    mm            +0010.9803                                          
+ 
+Step 11 - Horizontal wire 2, XY
+X Location    mm            +0116.4204                                          
+Y Location    mm            -0000.2490                                          
+2D Straightn  mm            +0000.0002                                          
+XY Angle      dd            +0000.0421                                          
+ 
+Step 13 - Diagonal wire 2, Z
+Z Location    mm            +0013.6319                                          
+ 
+Step 15 - Diagonal wire 2, XY
+X Location    mm            +0116.4300                                          
+Y Location    mm            -0000.6239                                          
+2D Straightn  mm            +0000.0002                                          
+XY Angle      dd            +0000.3964                                          
+ 
+Step 17 - Horizontal wire
+X Location    mm            +0133.5648                                          
+Y Location    mm            -0000.2350                                          
+Z Location    mm            +0010.9892                                          
+XY Angle      dd            +0000.0467                                          
+Elevation     dd            +0000.0267                                          
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 18 - Diagonal wire
+X Location    mm            +0133.5658                                          
+Y Location    mm            -0000.5558                                          
+Z Location    mm            +0010.9557                                          
+XY Angle      dd            +0000.2277                                          
+Elevation     dd            -0008.8792                                          
+ 
+Step 19 - Closest approach
+X Location    mm            +0133.3932                                          
+Y Location    mm            -0000.3958                                          
+Z Location    mm            +0010.9858                                          

@@ -1,0 +1,137 @@
+top
+global tweak parameters from external constraints (omega,lambda,phi,d0,z0):
+[  4.00000000e-06   5.00000000e-04   1.50000000e-03   8.00000000e-01
+  -1.50000000e-01]
+<constant name="dOmega_top" value="4e-06" />
+<constant name="dLambda_top" value="0.0005" />
+<constant name="dPhi_top" value="0.0015" />
+<constant name="dD0_top" value="0.8" />
+<constant name="dZ0_top" value="-0.15" />
+millepede constants after external constraints:
+[ 0.042557   -0.10064299  0.07941    -0.12351204  0.111141   -0.15509776
+  0.099091   -0.15154026 -0.090034    0.14231026  0.183826   -0.23001014
+ -0.201454    0.24369914  0.308125   -0.33960335 -0.351231    0.38748935]
+0.211016459704
+global tweak parameters from survey constraints (omega,lambda,phi,d0,z0):
+[  1.55975126e-05   1.60753424e-04   6.86751967e-03  -7.22860951e-01
+  -1.29871403e-01]
+[  1.55975126e-05   1.60753424e-04   6.86751967e-03  -7.22860951e-01
+  -1.29871403e-01]
+<constant name="dOmega_top" value="1.5597512621e-05" />
+<constant name="dLambda_top" value="0.000160753424472" />
+<constant name="dPhi_top" value="0.00686751967413" />
+<constant name="dD0_top" value="-0.722860951393" />
+<constant name="dZ0_top" value="-0.129871403351" />
+millepede constants after survey constraints:
+[ 0.02876094  0.01745807  0.03168928 -0.00753449  0.02949562 -0.02966551
+ -0.05040369  0.01257499  0.05946069 -0.02180499 -0.03351801  0.01794258
+  0.01589001 -0.00425358  0.02293168  0.01537219 -0.06603768  0.03251381]
+0.0321013586482
+global tweak parameters from mixed (external omega + survey) constraints (omega,lambda,phi,d0,z0):
+[  4.00000000e-06   1.48085965e-04   1.43995399e-03   6.42068240e-02
+  -1.22386785e-01]
+<constant name="dOmega_top" value="4e-06" />
+<constant name="dLambda_top" value="0.000148085964879" />
+<constant name="dPhi_top" value="0.00143995399341" />
+<constant name="dD0_top" value="0.0642068239927" />
+<constant name="dZ0_top" value="-0.122386785345" />
+millepede constants after mixed constraints:
+[ 0.03497881 -0.01897054  0.03664041 -0.00587204  0.03318    -0.0014902
+ -0.0492528   0.03526402  0.0583098  -0.04449402 -0.03490061  0.02786523
+  0.01727261 -0.01417623  0.01901558 -0.01065689 -0.06212158  0.05854289]
+0.0360308735256
+global tweak parameters from mixed (external omega, d0, z0 + survey) constraints (omega,lambda,phi,d0,z0):
+[  4.00000000e-06   1.93581245e-04   8.85610836e-05   8.00000000e-01
+  -1.50000000e-01]
+<constant name="dOmega_top" value="4e-06" />
+<constant name="dLambda_top" value="0.000193581245218" />
+<constant name="dPhi_top" value="8.85610835618e-05" />
+<constant name="dD0_top" value="0.8" />
+<constant name="dZ0_top" value="-0.15" />
+millepede constants after mixed constraints:
+[  1.19151245e-02  -5.57563829e-02   1.81262490e-02  -3.37388335e-02
+   1.92153736e-02  -2.04379475e-02  -5.41183774e-02   3.71321030e-02
+   6.31753774e-02  -4.63621030e-02  -3.06671283e-02   3.41311675e-02
+   1.30391283e-02  -2.04421675e-02   3.23481207e-02   6.89918472e-06
+  -7.54541207e-02   4.78791008e-02]
+0.0392132087048
+
+bottom
+global tweak parameters from external constraints (omega,lambda,phi,d0,z0):
+[  2.50000000e-05   1.50000000e-03   1.70000000e-02  -5.70000000e+00
+   1.50000000e-01]
+<constant name="dOmega_bot" value="2.5e-05" />
+<constant name="dLambda_bot" value="0.0015" />
+<constant name="dPhi_bot" value="0.017" />
+<constant name="dD0_bot" value="-5.7" />
+<constant name="dZ0_bot" value="0.15" />
+millepede constants after external constraints:
+[ 0.18322312 -0.264386    0.35040098 -0.429435    0.49755219 -0.576025
+  0.9112334  -0.892679   -0.9117004   0.900505    1.19243213 -1.190873
+ -1.18333813  1.183176    1.54356202 -1.522457   -1.56479302  1.536675  ]
+1.03842914569
+global tweak parameters from survey constraints (omega,lambda,phi,d0,z0):
+[  2.32182955e-05  -6.29092543e-05   1.79192829e-02  -6.70638631e+00
+   3.77935276e-02]
+<constant name="dOmega_bot" value="2.32182955355e-05" />
+<constant name="dLambda_bot" value="-6.29092543155e-05" />
+<constant name="dPhi_bot" value="0.0179192829107" />
+<constant name="dD0_bot" value="-6.70638630517" />
+<constant name="dZ0_bot" value="0.0377935275552" />
+millepede constants after survey constraints:
+[ 0.00378172  0.0041114   0.00203831 -0.00464668 -0.02151048  0.00505425
+  0.0326489   0.0009821  -0.0331159   0.0068439  -0.01900013  0.01536995
+  0.02809413 -0.02306695 -0.00427992 -0.0036322  -0.01695108  0.0178502 ]
+0.0171783115296
+global tweak parameters from mixed (external omega + survey) constraints (omega,lambda,phi,d0,z0):
+[  2.50000000e-05  -6.48553391e-05   1.87531097e-02  -6.82730204e+00
+   3.89433788e-02]
+<constant name="dOmega_bot" value="2.5e-05" />
+<constant name="dLambda_bot" value="-6.48553390856e-05" />
+<constant name="dPhi_bot" value="0.0187531097289" />
+<constant name="dD0_bot" value="-6.82730203762" />
+<constant name="dZ0_bot" value="0.0389433788428" />
+millepede constants after mixed constraints:
+[ 0.00937818  0.00315616  0.00178291 -0.00540731 -0.025839    0.00448822
+  0.02916323  0.00080529 -0.02963023  0.00702071 -0.02052453  0.01558236
+  0.02961853 -0.02327936 -0.00028112 -0.00303057 -0.02094988  0.01724857]
+0.0173612548011
+global tweak parameters from mixed (external omega, d0, z0 + survey) constraints (omega,lambda,phi,d0,z0):
+[  2.50000000e-05  -2.28987352e-04   1.69686153e-02  -5.70000000e+00
+   1.50000000e-01]
+<constant name="dOmega_bot" value="2.5e-05" />
+<constant name="dLambda_bot" value="-0.000228987352378" />
+<constant name="dPhi_bot" value="0.0169686152912" />
+<constant name="dD0_bot" value="-5.7" />
+<constant name="dZ0_bot" value="0.15" />
+millepede constants after mixed constraints:
+[ 0.0097696  -0.09148726  0.00349394 -0.08363753 -0.02280837 -0.05732879
+  0.04644227 -0.02818532 -0.04690927  0.03601132 -0.01827545  0.01941815
+  0.02736945 -0.02711515 -0.01306201  0.03363162 -0.00816899 -0.01941362]
+0.0405989266965
+
+global tweak parameters and millepede constants from mixed2 (external omega + d0, z0 constraint + survey) constraints (omega,lambda,phi,d0,z0):
+top:
+[  4.00000000e-06   2.37368375e-04   5.81084829e-04   6.22163644e-01
+  -1.83211762e-01]
+<constant name="dOmega_top" value="4e-06" />
+<constant name="dLambda_top" value="0.000237368375145" />
+<constant name="dPhi_top" value="0.000581084829307" />
+<constant name="dD0_top" value="0.622163643926" />
+<constant name="dZ0_top" value="-0.183211761644" />
+[-0.01691792 -0.01394159 -0.00632809 -0.00124177 -0.00086025  0.00274139
+ -0.06543657  0.04504461  0.07449357 -0.05427461 -0.0332279   0.02835211
+  0.0155999  -0.01466311  0.03854478 -0.01946373 -0.08165078  0.06734973]
+0.0413454855528
+bottom:
+[  2.50000000e-05  -1.81541708e-04   1.71848563e-02  -5.87783636e+00
+   1.16788238e-01]
+<constant name="dOmega_bot" value="2.5e-05" />
+<constant name="dLambda_bot" value="-0.000181541707685" />
+<constant name="dPhi_bot" value="0.0171848562935" />
+<constant name="dD0_bot" value="-5.87783635607" />
+<constant name="dZ0_bot" value="0.116788238356" />
+[-0.00324533 -0.06302007 -0.00691141 -0.0599149  -0.03060414 -0.03835073
+  0.0404258  -0.01869638 -0.0408928   0.02652238 -0.01695243  0.01941796
+  0.02604643 -0.02711496 -0.0043995   0.0241423  -0.0168315  -0.0099243 ]
+0.0311346093446

@@ -1,0 +1,1352 @@
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L123_fixture.RTN                                     4 Wed Oct 01 17:29:15 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Datum plane, focus
+X Location    mm            +00023.608                                          
+Y Location    mm            -00141.309                                          
+Z Location    mm            -00059.094                                          
+Flatness      mm            +00000.005                                          
+XY Angle      dd            -00163.679                                          
+Elevation     dd            -00089.966                                          
+ 
+Step 3 - Hole pin, Z
+X Location    mm            +00009.640                                          
+Y Location    mm            -00057.063                                          
+Z Location    mm            +00001.744                                          
+ 
+Step 4 - Slot pin, Z
+X Location    mm            +00009.678                                          
+Y Location    mm            -00247.528                                          
+Z Location    mm            +00001.552                                          
+ 
+Step 5 - Datum plane, hole side, touch
+X Location    mm +00020.262 +00020.264                     +00000.002           
+Y Location    mm -00113.895 -00113.903                     +00000.009           
+Z Location    mm -00000.012 -00000.015                     +00000.003           
+Flatness      mm            +00000.005                     +00000.005           
+XY Angle      dd -00041.817 -00007.655                     +00034.163           
+Elevation     dd -00089.994 -00089.994                     -00000.001           
+ 
+Step 6 - Datum plane, slot side, touch
+X Location    mm +00019.186 +00019.187                     +00000.001           
+Y Location    mm -00189.794 -00189.803                     +00000.009           
+Z Location    mm -00000.014 -00000.017                     +00000.003           
+Flatness      mm            +00000.007                     +00000.007           
+XY Angle      dd -00141.740 -00137.783                     +00003.958           
+Elevation     dd +00089.992 +00089.993                     +00000.001           
+ 
+Step 7 - Hole pin, touch
+Diameter      mm +00003.182 +00003.177                     -00000.004           
+X Location    mm +00009.644 +00009.643                     -00000.001           
+Y Location    mm -00057.014 -00057.016                     +00000.002           
+Z Location    mm +00000.851 +00000.851                     -00000.000           
+Cylindricity  mm            +00000.002                     +00000.002           
+XY Angle      dd +00087.386 +00080.834                     -00006.552           
+Elevation     dd +00089.823 +00089.628                     -00000.194           
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 8 - Slot pin, touch
+Diameter      mm +00003.180 +00003.176                     -00000.004           
+X Location    mm +00009.709 +00009.707                     -00000.003           
+Y Location    mm -00247.578 -00247.575                     -00000.002           
+Z Location    mm +00000.849 +00000.849                     -00000.000           
+Cylindricity  mm            +00000.002                     +00000.002           
+XY Angle      dd -00095.135 +00150.210                     +00245.345           
+Elevation     dd +00089.602 +00089.064                     -00000.538           
+ 
+Step 9 - Datum plane, touch
+X Location    mm            +00019.726                                          
+Y Location    mm            -00151.853                                          
+Z Location    mm            -00000.016                                          
+Flatness      mm            +00000.007                                          
+XY Angle      dd            +00016.210                                          
+Elevation     dd            -00089.995                                          
+ 
+Step 10 - Hole pin intersection
+X Location    mm            +00009.642                                          
+Y Location    mm            -00057.021                                          
+Z Location    mm            -00000.015                                          
+ 
+Step 11 - Slot pin intersection
+X Location    mm            +00009.719                                          
+Y Location    mm            -00247.582                                          
+Z Location    mm            -00000.020                                          
+ 
+Step 15 - Origin ball, touch
+Sphere Diame  mm +00006.357 +00006.355                     -00000.002           
+X Location    mm +00252.857 +00252.850                     -00000.006           
+Y Location    mm +00022.306 +00022.303                     -00000.003           
+Z Location    mm +00053.492 +00053.494                     +00000.003           
+Sphericity    mm            +00000.002                     +00000.002           
+ 
+Step 16 - Diagonal ball, touch
+Sphere Diame  mm +00006.353 +00006.343                     -00000.010           
+X Location    mm +00252.829 +00252.856                     +00000.027           
+Y Location    mm -00002.901 -00002.902                     +00000.002           
+Z Location    mm +00028.094 +00028.101                     +00000.007           
+Sphericity    mm            +00000.044                     +00000.044           
+ 
+Step 17 - Axis ball, touch
+Sphere Diame  mm +00006.352 +00006.353                     +00000.001           
+X Location    mm -00062.087 -00062.095                     +00000.008           
+Y Location    mm +00022.450 +00022.453                     +00000.003           
+Z Location    mm +00053.418 +00053.419                     +00000.000           
+Sphericity    mm            +00000.000                     +00000.000           
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L123_fixture.RTN                                     1 Wed Oct 01 19:21:21 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Datum plane, focus
+X Location    mm            +00023.607                                          
+Y Location    mm            -00141.309                                          
+Z Location    mm            -00059.245                                          
+Flatness      mm            +00000.005                                          
+XY Angle      dd            +00175.193                                          
+Elevation     dd            -00089.974                                          
+ 
+Step 3 - Hole pin, Z
+X Location    mm            +00009.642                                          
+Y Location    mm            -00057.063                                          
+Z Location    mm            +00001.742                                          
+ 
+Step 4 - Slot pin, Z
+X Location    mm            +00009.679                                          
+Y Location    mm            -00247.528                                          
+Z Location    mm            +00001.552                                          
+ 
+Step 5 - Datum plane, hole side, touch
+X Location    mm +00020.262 +00020.264                     +00000.002           
+Y Location    mm -00113.895 -00113.903                     +00000.009           
+Z Location    mm -00000.012 -00000.015                     +00000.003           
+Flatness      mm            +00000.005                     +00000.005           
+XY Angle      dd -00041.817 -00020.207                     +00021.611           
+Elevation     dd -00089.994 -00089.995                     -00000.002           
+ 
+Step 6 - Datum plane, slot side, touch
+X Location    mm +00019.186 +00019.187                     +00000.001           
+Y Location    mm -00189.794 -00189.804                     +00000.010           
+Z Location    mm -00000.014 -00000.017                     +00000.003           
+Flatness      mm            +00000.006                     +00000.006           
+XY Angle      dd -00141.740 -00147.179                     -00005.439           
+Elevation     dd +00089.992 +00089.990                     -00000.001           
+ 
+Step 7 - Hole pin, touch
+Diameter      mm +00003.182 +00003.177                     -00000.005           
+X Location    mm +00009.644 +00009.647                     +00000.004           
+Y Location    mm -00057.014 -00057.017                     +00000.004           
+Z Location    mm +00000.851 +00000.852                     +00000.000           
+Cylindricity  mm            +00000.001                     +00000.001           
+XY Angle      dd +00087.386 +00086.019                     -00001.367           
+Elevation     dd +00089.823 +00089.673                     -00000.150           
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 8 - Slot pin, touch
+Diameter      mm +00003.180 +00003.175                     -00000.005           
+X Location    mm +00009.709 +00009.722                     +00000.012           
+Y Location    mm -00247.578 -00247.578                     +00000.000           
+Z Location    mm +00000.849 +00000.849                     +00000.000           
+Cylindricity  mm            +00000.003                     +00000.003           
+XY Angle      dd -00095.135 +00111.282                     +00206.417           
+Elevation     dd +00089.602 +00089.574                     -00000.028           
+ 
+Step 9 - Datum plane, touch
+X Location    mm            +00019.726                                          
+Y Location    mm            -00151.854                                          
+Z Location    mm            -00000.016                                          
+Flatness      mm            +00000.008                                          
+XY Angle      dd            +00014.386                                          
+Elevation     dd            -00089.994                                          
+ 
+Step 10 - Hole pin intersection
+X Location    mm            +00009.647                                          
+Y Location    mm            -00057.022                                          
+Z Location    mm            -00000.014                                          
+ 
+Step 11 - Slot pin intersection
+X Location    mm            +00009.724                                          
+Y Location    mm            -00247.584                                          
+Z Location    mm            -00000.019                                          
+ 
+Step 15 - Origin ball, touch
+Sphere Diame  mm +00006.357 +00006.352                     -00000.005           
+X Location    mm +00252.857 +00252.852                     -00000.005           
+Y Location    mm +00022.306 +00022.316                     +00000.010           
+Z Location    mm +00053.492 +00053.497                     +00000.005           
+Sphericity    mm            +00000.001                     +00000.001           
+ 
+Step 16 - Diagonal ball, touch
+Sphere Diame  mm +00006.353 +00006.353                     +00000.000           
+X Location    mm +00252.829 +00252.828                     -00000.001           
+Y Location    mm -00002.901 -00002.891                     -00000.010           
+Z Location    mm +00028.094 +00028.095                     +00000.001           
+Sphericity    mm            +00000.004                     +00000.004           
+ 
+Step 17 - Axis ball, touch
+Sphere Diame  mm +00006.352 +00006.353                     +00000.001           
+X Location    mm -00062.087 -00062.096                     +00000.009           
+Y Location    mm +00022.450 +00022.450                     -00000.000           
+Z Location    mm +00053.418 +00053.418                     -00000.001           
+Sphericity    mm            +00000.001                     +00000.001           
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L123_fixture.RTN                                     2 Wed Oct 01 19:26:46 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Datum plane, focus
+X Location    mm            +00023.607                                          
+Y Location    mm            -00141.309                                          
+Z Location    mm            -00059.245                                          
+Flatness      mm            +00000.005                                          
+XY Angle      dd            +00174.487                                          
+Elevation     dd            -00089.975                                          
+ 
+Step 3 - Hole pin, Z
+X Location    mm            +00009.641                                          
+Y Location    mm            -00057.063                                          
+Z Location    mm            +00001.742                                          
+ 
+Step 4 - Slot pin, Z
+X Location    mm            +00009.678                                          
+Y Location    mm            -00247.528                                          
+Z Location    mm            +00001.554                                          
+ 
+Step 5 - Datum plane, hole side, touch
+X Location    mm +00020.262 +00020.264                     +00000.002           
+Y Location    mm -00113.895 -00113.903                     +00000.009           
+Z Location    mm -00000.012 -00000.015                     +00000.003           
+Flatness      mm            +00000.005                     +00000.005           
+XY Angle      dd -00041.817 -00032.949                     +00008.868           
+Elevation     dd -00089.994 -00089.996                     -00000.003           
+ 
+Step 6 - Datum plane, slot side, touch
+X Location    mm +00019.186 +00019.187                     +00000.001           
+Y Location    mm -00189.794 -00189.803                     +00000.009           
+Z Location    mm -00000.014 -00000.018                     +00000.004           
+Flatness      mm            +00000.006                     +00000.006           
+XY Angle      dd -00141.740 -00143.284                     -00001.543           
+Elevation     dd +00089.992 +00089.991                     -00000.001           
+ 
+Step 7 - Hole pin, touch
+Diameter      mm +00003.182 +00003.177                     -00000.004           
+X Location    mm +00009.644 +00009.647                     +00000.003           
+Y Location    mm -00057.014 -00057.018                     +00000.004           
+Z Location    mm +00000.851 +00000.850                     -00000.001           
+Cylindricity  mm            +00000.001                     +00000.001           
+XY Angle      dd +00087.386 +00108.872                     +00021.486           
+Elevation     dd +00089.823 +00089.654                     -00000.168           
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 8 - Slot pin, touch
+Diameter      mm +00003.180 +00003.175                     -00000.005           
+X Location    mm +00009.709 +00009.722                     +00000.013           
+Y Location    mm -00247.578 -00247.578                     +00000.000           
+Z Location    mm +00000.849 +00000.849                     -00000.000           
+Cylindricity  mm            +00000.004                     +00000.004           
+XY Angle      dd -00095.135 +00129.034                     +00224.169           
+Elevation     dd +00089.602 +00089.407                     -00000.195           
+ 
+Step 9 - Datum plane, touch
+X Location    mm            +00019.726                                          
+Y Location    mm            -00151.853                                          
+Z Location    mm            -00000.016                                          
+Flatness      mm            +00000.008                                          
+XY Angle      dd            +00018.900                                          
+Elevation     dd            -00089.995                                          
+ 
+Step 10 - Hole pin intersection
+X Location    mm            +00009.648                                          
+Y Location    mm            -00057.023                                          
+Z Location    mm            -00000.015                                          
+ 
+Step 11 - Slot pin intersection
+X Location    mm            +00009.727                                          
+Y Location    mm            -00247.585                                          
+Z Location    mm            -00000.020                                          
+ 
+Step 15 - Origin ball, touch
+Sphere Diame  mm +00006.357 +00006.352                     -00000.005           
+X Location    mm +00252.857 +00252.852                     -00000.005           
+Y Location    mm +00022.306 +00022.312                     +00000.006           
+Z Location    mm +00053.492 +00053.499                     +00000.007           
+Sphericity    mm            +00000.003                     +00000.003           
+ 
+Step 16 - Diagonal ball, touch
+Sphere Diame  mm +00006.353 +00006.353                     +00000.000           
+X Location    mm +00252.829 +00252.827                     -00000.002           
+Y Location    mm -00002.901 -00002.895                     -00000.006           
+Z Location    mm +00028.094 +00028.098                     +00000.004           
+Sphericity    mm            +00000.005                     +00000.005           
+ 
+Step 17 - Axis ball, touch
+Sphere Diame  mm +00006.352 +00006.353                     +00000.001           
+X Location    mm -00062.087 -00062.097                     +00000.010           
+Y Location    mm +00022.450 +00022.448                     -00000.002           
+Z Location    mm +00053.418 +00053.418                     -00000.001           
+Sphericity    mm            +00000.002                     +00000.002           
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L123_fixture.RTN                                     1 Mon Dec 31 23:31:18 2001
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Datum plane, focus
+X Location    mm            +0023.6070                                          
+Y Location    mm            -0141.3091                                          
+Z Location    mm            -0059.0862                                          
+Flatness      mm            +0000.0053                                          
+XY Angle      dd            +0177.1323                                          
+Elevation     dd            -0089.9883                                          
+ 
+Step 3 - Hole pin, Z
+X Location    mm            +0009.6412                                          
+Y Location    mm            -0057.0628                                          
+Z Location    mm            +0001.7433                                          
+ 
+Step 4 - Slot pin, Z
+X Location    mm            +0009.6779                                          
+Y Location    mm            -0247.5277                                          
+Z Location    mm            +0001.5547                                          
+ 
+Step 5 - Datum plane, hole side, touch
+X Location    mm +0020.2624 +0020.2632                     +0000.0009           
+Y Location    mm -0113.8947 -0113.9029                     +0000.0083           
+Z Location    mm -0000.0119 -0000.0182                     +0000.0064           
+Flatness      mm            +0000.0049                     +0000.0049           
+XY Angle      dd -0041.8173 -0025.6684                     +0016.1488           
+Elevation     dd -0089.9935 -0089.9940                     -0000.0005           
+ 
+Step 6 - Datum plane, slot side, touch
+X Location    mm +0019.1857 +0019.1860                     +0000.0003           
+Y Location    mm -0189.7940 -0189.8037                     +0000.0097           
+Z Location    mm -0000.0141 -0000.0196                     +0000.0056           
+Flatness      mm            +0000.0054                     +0000.0054           
+XY Angle      dd -0141.7404 -0152.1236                     -0010.3832           
+Elevation     dd +0089.9917 +0089.9901                     -0000.0016           
+ 
+Step 7 - Hole pin, touch
+Diameter      mm +0003.1817 +0003.1770                     -0000.0047           
+X Location    mm +0009.6438 +0009.6522                     +0000.0084           
+Y Location    mm -0057.0139 -0057.0139                     -0000.0000           
+Z Location    mm +0000.8514 +0000.8512                     -0000.0002           
+Cylindricity  mm            +0000.0009                     +0000.0009           
+XY Angle      dd +0087.3861 +0100.9092                     +0013.5232           
+Elevation     dd +0089.8226 +0089.7197                     -0000.1029           
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 8 - Slot pin, touch
+Diameter      mm +0003.1798 +0003.1746                     -0000.0052           
+X Location    mm +0009.7091 +0009.7393                     +0000.0301           
+Y Location    mm -0247.5778 -0247.5757                     -0000.0021           
+Z Location    mm +0000.8492 +0000.8497                     +0000.0005           
+Cylindricity  mm            +0000.0035                     +0000.0035           
+XY Angle      dd -0095.1353 +0146.8424                     +0241.9777           
+Elevation     dd +0089.6018 +0089.3551                     -0000.2467           
+ 
+Step 9 - Datum plane, touch
+X Location    mm            +0019.7251                                          
+Y Location    mm            -0151.8533                                          
+Z Location    mm            -0000.0189                                          
+Flatness      mm            +0000.0069                                          
+XY Angle      dd            +0008.0108                                          
+Elevation     dd            -0089.9931                                          
+ 
+Step 10 - Hole pin intersection
+X Location    mm            +0009.6530                                          
+Y Location    mm            -0057.0180                                          
+Z Location    mm            -0000.0185                                          
+ 
+Step 11 - Slot pin intersection
+X Location    mm            +0009.7475                                          
+Y Location    mm            -0247.5810                                          
+Z Location    mm            -0000.0217                                          
+ 
+Step 15 - Origin ball, touch
+Sphere Diame  mm +0006.3568 +0006.3521                     -0000.0047           
+X Location    mm +0252.8566 +0252.8550                     -0000.0016           
+Y Location    mm +0022.3059 +0022.3089                     +0000.0030           
+Z Location    mm +0053.4918 +0053.4945                     +0000.0027           
+Sphericity    mm            +0000.0018                     +0000.0018           
+ 
+Step 16 - Diagonal ball, touch
+Sphere Diame  mm +0006.3526 +0006.3527                     +0000.0001           
+X Location    mm +0252.8290 +0252.8295                     +0000.0005           
+Y Location    mm -0002.9009 -0002.8983                     -0000.0026           
+Z Location    mm +0028.0940 +0028.0947                     +0000.0007           
+Sphericity    mm            +0000.0039                     +0000.0039           
+ 
+Step 17 - Axis ball, touch
+Sphere Diame  mm +0006.3524 +0006.3534                     +0000.0010           
+X Location    mm -0062.0868 -0062.0945                     +0000.0078           
+Y Location    mm +0022.4498 +0022.4513                     +0000.0015           
+Z Location    mm +0053.4182 +0053.4178                     -0000.0004           
+Sphericity    mm            +0000.0002                     +0000.0002           
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L123_fixture.RTN                                     2 Mon Oct 06 17:51:12 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Datum plane, focus
+X Location    mm            +0023.6071                                          
+Y Location    mm            -0141.3090                                          
+Z Location    mm            -0059.0852                                          
+Flatness      mm            +0000.0045                                          
+XY Angle      dd            +0178.1822                                          
+Elevation     dd            -0089.9872                                          
+ 
+Step 3 - Hole pin, Z
+X Location    mm            +0009.6409                                          
+Y Location    mm            -0057.0627                                          
+Z Location    mm            +0001.7440                                          
+ 
+Step 4 - Slot pin, Z
+X Location    mm            +0009.6787                                          
+Y Location    mm            -0247.5275                                          
+Z Location    mm            +0001.5547                                          
+ 
+Step 5 - Datum plane, hole side, touch
+X Location    mm +0020.2624 +0020.2636                     +0000.0012           
+Y Location    mm -0113.8947 -0113.9029                     +0000.0082           
+Z Location    mm -0000.0119 -0000.0202                     +0000.0083           
+Flatness      mm            +0000.0046                     +0000.0046           
+XY Angle      dd -0041.8173 -0025.7735                     +0016.0438           
+Elevation     dd -0089.9935 -0089.9948                     -0000.0013           
+ 
+Step 6 - Datum plane, slot side, touch
+X Location    mm +0019.1857 +0019.1862                     +0000.0005           
+Y Location    mm -0189.7940 -0189.8032                     +0000.0092           
+Z Location    mm -0000.0141 -0000.0219                     +0000.0078           
+Flatness      mm            +0000.0050                     +0000.0050           
+XY Angle      dd -0141.7404 -0150.1368                     -0008.3963           
+Elevation     dd +0089.9917 +0089.9893                     -0000.0024           
+ 
+Step 7 - Hole pin, touch
+Diameter      mm +0003.1817 +0003.1774                     -0000.0043           
+X Location    mm +0009.6438 +0009.6542                     +0000.0104           
+Y Location    mm -0057.0139 -0057.0136                     -0000.0003           
+Z Location    mm +0000.8514 +0000.8516                     +0000.0002           
+Cylindricity  mm            +0000.0009                     +0000.0009           
+XY Angle      dd +0087.3861 +0099.5423                     +0012.1562           
+Elevation     dd +0089.8226 +0089.6743                     -0000.1483           
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 8 - Slot pin, touch
+Diameter      mm +0003.1798 +0003.1737                     -0000.0062           
+X Location    mm +0009.7091 +0009.7408                     +0000.0317           
+Y Location    mm -0247.5778 -0247.5747                     -0000.0031           
+Z Location    mm +0000.8492 +0000.8496                     +0000.0004           
+Cylindricity  mm            +0000.0034                     +0000.0034           
+XY Angle      dd -0095.1353 +0140.4627                     +0235.5979           
+Elevation     dd +0089.6018 +0089.2628                     -0000.3390           
+ 
+Step 9 - Datum plane, touch
+X Location    mm            +0019.7254                                          
+Y Location    mm            -0151.8529                                          
+Z Location    mm            -0000.0210                                          
+Flatness      mm            +0000.0067                                          
+XY Angle      dd            +0010.7881                                          
+Elevation     dd            -0089.9932                                          
+ 
+Step 10 - Hole pin intersection
+X Location    mm            +0009.6550                                          
+Y Location    mm            -0057.0184                                          
+Z Location    mm            -0000.0201                                          
+ 
+Step 11 - Slot pin intersection
+X Location    mm            +0009.7495                                          
+Y Location    mm            -0247.5819                                          
+Z Location    mm            -0000.0243                                          
+ 
+Step 15 - Origin ball, touch
+Sphere Diame  mm +0006.3568 +0006.3520                     -0000.0048           
+X Location    mm +0252.8566 +0252.8536                     -0000.0030           
+Y Location    mm +0022.3059 +0022.3078                     +0000.0019           
+Z Location    mm +0053.4918 +0053.4967                     +0000.0049           
+Sphericity    mm            +0000.0022                     +0000.0022           
+ 
+Step 16 - Diagonal ball, touch
+Sphere Diame  mm +0006.3526 +0006.3531                     +0000.0004           
+X Location    mm +0252.8290 +0252.8283                     -0000.0007           
+Y Location    mm -0002.9009 -0002.8989                     -0000.0021           
+Z Location    mm +0028.0940 +0028.0961                     +0000.0020           
+Sphericity    mm            +0000.0048                     +0000.0048           
+ 
+Step 17 - Axis ball, touch
+Sphere Diame  mm +0006.3524 +0006.3541                     +0000.0017           
+X Location    mm -0062.0868 -0062.0948                     +0000.0081           
+Y Location    mm +0022.4498 +0022.4505                     +0000.0007           
+Z Location    mm +0053.4182 +0053.4184                     +0000.0002           
+Sphericity    mm            +0000.0007                     +0000.0007           
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L123_fixture.RTN                                     3 Mon Oct 06 17:56:34 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Datum plane, focus
+X Location    mm            +0023.6070                                          
+Y Location    mm            -0141.3089                                          
+Z Location    mm            -0059.0839                                          
+Flatness      mm            +0000.0044                                          
+XY Angle      dd            +0178.5414                                          
+Elevation     dd            -0089.9861                                          
+ 
+Step 3 - Hole pin, Z
+X Location    mm            +0009.6420                                          
+Y Location    mm            -0057.0626                                          
+Z Location    mm            +0001.7428                                          
+ 
+Step 4 - Slot pin, Z
+X Location    mm            +0009.6792                                          
+Y Location    mm            -0247.5280                                          
+Z Location    mm            +0001.5550                                          
+ 
+Step 5 - Datum plane, hole side, touch
+X Location    mm +0020.2624 +0020.2635                     +0000.0011           
+Y Location    mm -0113.8947 -0113.9028                     +0000.0082           
+Z Location    mm -0000.0119 -0000.0212                     +0000.0093           
+Flatness      mm            +0000.0044                     +0000.0044           
+XY Angle      dd -0041.8173 -0018.1197                     +0023.6975           
+Elevation     dd -0089.9935 -0089.9929                     +0000.0006           
+ 
+Step 6 - Datum plane, slot side, touch
+X Location    mm +0019.1857 +0019.1862                     +0000.0005           
+Y Location    mm -0189.7940 -0189.8035                     +0000.0095           
+Z Location    mm -0000.0141 -0000.0226                     +0000.0086           
+Flatness      mm            +0000.0052                     +0000.0052           
+XY Angle      dd -0141.7404 -0149.5289                     -0007.7885           
+Elevation     dd +0089.9917 +0089.9895                     -0000.0022           
+ 
+Step 7 - Hole pin, touch
+Diameter      mm +0003.1817 +0003.1770                     -0000.0047           
+X Location    mm +0009.6438 +0009.6557                     +0000.0118           
+Y Location    mm -0057.0139 -0057.0135                     -0000.0003           
+Z Location    mm +0000.8514 +0000.8510                     -0000.0005           
+Cylindricity  mm            +0000.0012                     +0000.0012           
+XY Angle      dd +0087.3861 +0091.5569                     +0004.1708           
+Elevation     dd +0089.8226 +0089.6787                     -0000.1439           
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 8 - Slot pin, touch
+Diameter      mm +0003.1798 +0003.1737                     -0000.0061           
+X Location    mm +0009.7091 +0009.7422                     +0000.0331           
+Y Location    mm -0247.5778 -0247.5747                     -0000.0031           
+Z Location    mm +0000.8492 +0000.8491                     -0000.0001           
+Cylindricity  mm            +0000.0043                     +0000.0043           
+XY Angle      dd -0095.1353 +0131.3303                     +0226.4655           
+Elevation     dd +0089.6018 +0089.3928                     -0000.2090           
+ 
+Step 9 - Datum plane, touch
+X Location    mm            +0019.7254                                          
+Y Location    mm            -0151.8530                                          
+Z Location    mm            -0000.0219                                          
+Flatness      mm            +0000.0069                                          
+XY Angle      dd            +0008.5365                                          
+Elevation     dd            -0089.9923                                          
+ 
+Step 10 - Hole pin intersection
+X Location    mm            +0009.6558                                          
+Y Location    mm            -0057.0184                                          
+Z Location    mm            -0000.0213                                          
+ 
+Step 11 - Slot pin intersection
+X Location    mm            +0009.7483                                          
+Y Location    mm            -0247.5817                                          
+Z Location    mm            -0000.0251                                          
+ 
+Step 15 - Origin ball, touch
+Sphere Diame  mm +0006.3568 +0006.3521                     -0000.0046           
+X Location    mm +0252.8566 +0252.8533                     -0000.0033           
+Y Location    mm +0022.3059 +0022.3107                     +0000.0048           
+Z Location    mm +0053.4918 +0053.4951                     +0000.0034           
+Sphericity    mm            +0000.0017                     +0000.0017           
+ 
+Step 16 - Diagonal ball, touch
+Sphere Diame  mm +0006.3526 +0006.3528                     +0000.0002           
+X Location    mm +0252.8290 +0252.8281                     -0000.0009           
+Y Location    mm -0002.9009 -0002.8958                     -0000.0051           
+Z Location    mm +0028.0940 +0028.0952                     +0000.0012           
+Sphericity    mm            +0000.0038                     +0000.0038           
+ 
+Step 17 - Axis ball, touch
+Sphere Diame  mm +0006.3524 +0006.3524                     +0000.0000           
+X Location    mm -0062.0868 -0062.0958                     +0000.0090           
+Y Location    mm +0022.4498 +0022.4503                     +0000.0005           
+Z Location    mm +0053.4182 +0053.4187                     +0000.0005           
+Sphericity    mm            +0000.0003                     +0000.0003           
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L123_fixture.RTN                                     4 Mon Oct 06 18:01:38 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Datum plane, focus
+X Location    mm            +0023.6072                                          
+Y Location    mm            -0141.3090                                          
+Z Location    mm            -0059.0828                                          
+Flatness      mm            +0000.0040                                          
+XY Angle      dd            +0178.2626                                          
+Elevation     dd            -0089.9883                                          
+ 
+Step 3 - Hole pin, Z
+X Location    mm            +0009.6413                                          
+Y Location    mm            -0057.0626                                          
+Z Location    mm            +0001.7436                                          
+ 
+Step 4 - Slot pin, Z
+X Location    mm            +0009.6785                                          
+Y Location    mm            -0247.5280                                          
+Z Location    mm            +0001.5551                                          
+ 
+Step 5 - Datum plane, hole side, touch
+X Location    mm +0020.2624 +0020.2633                     +0000.0009           
+Y Location    mm -0113.8947 -0113.9028                     +0000.0082           
+Z Location    mm -0000.0119 -0000.0220                     +0000.0101           
+Flatness      mm            +0000.0044                     +0000.0044           
+XY Angle      dd -0041.8173 -0037.3401                     +0004.4771           
+Elevation     dd -0089.9935 -0089.9955                     -0000.0020           
+ 
+Step 6 - Datum plane, slot side, touch
+X Location    mm +0019.1857 +0019.1859                     +0000.0002           
+Y Location    mm -0189.7940 -0189.8035                     +0000.0095           
+Z Location    mm -0000.0141 -0000.0236                     +0000.0096           
+Flatness      mm            +0000.0051                     +0000.0051           
+XY Angle      dd -0141.7404 -0146.3319                     -0004.5914           
+Elevation     dd +0089.9917 +0089.9910                     -0000.0007           
+ 
+Step 7 - Hole pin, touch
+Diameter      mm +0003.1817 +0003.1771                     -0000.0046           
+X Location    mm +0009.6438 +0009.6529                     +0000.0091           
+Y Location    mm -0057.0139 -0057.0134                     -0000.0005           
+Z Location    mm +0000.8514 +0000.8519                     +0000.0004           
+Cylindricity  mm            +0000.0012                     +0000.0012           
+XY Angle      dd +0087.3861 +0091.4017                     +0004.0156           
+Elevation     dd +0089.8226 +0089.7274                     -0000.0952           
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 8 - Slot pin, touch
+Diameter      mm +0003.1798 +0003.1737                     -0000.0061           
+X Location    mm +0009.7091 +0009.7395                     +0000.0303           
+Y Location    mm -0247.5778 -0247.5742                     -0000.0036           
+Z Location    mm +0000.8492 +0000.8490                     -0000.0002           
+Cylindricity  mm            +0000.0038                     +0000.0038           
+XY Angle      dd -0095.1353 +0124.5888                     +0219.7240           
+Elevation     dd +0089.6018 +0089.4508                     -0000.1510           
+ 
+Step 9 - Datum plane, touch
+X Location    mm            +0019.7250                                          
+Y Location    mm            -0151.8531                                          
+Z Location    mm            -0000.0228                                          
+Flatness      mm            +0000.0069                                          
+XY Angle      dd            +0012.6023                                          
+Elevation     dd            -0089.9946                                          
+ 
+Step 10 - Hole pin intersection
+X Location    mm            +0009.6530                                          
+Y Location    mm            -0057.0175                                          
+Z Location    mm            -0000.0218                                          
+ 
+Step 11 - Slot pin intersection
+X Location    mm            +0009.7442                                          
+Y Location    mm            -0247.5811                                          
+Z Location    mm            -0000.0257                                          
+ 
+Step 15 - Origin ball, touch
+Sphere Diame  mm +0006.3568 +0006.3515                     -0000.0053           
+X Location    mm +0252.8566 +0252.8534                     -0000.0032           
+Y Location    mm +0022.3059 +0022.3130                     +0000.0071           
+Z Location    mm +0053.4918 +0053.4965                     +0000.0048           
+Sphericity    mm            +0000.0023                     +0000.0023           
+ 
+Step 16 - Diagonal ball, touch
+Sphere Diame  mm +0006.3526 +0006.3521                     -0000.0006           
+X Location    mm +0252.8290 +0252.8288                     -0000.0002           
+Y Location    mm -0002.9009 -0002.8940                     -0000.0069           
+Z Location    mm +0028.0940 +0028.0960                     +0000.0020           
+Sphericity    mm            +0000.0045                     +0000.0045           
+ 
+Step 17 - Axis ball, touch
+Sphere Diame  mm +0006.3524 +0006.3529                     +0000.0005           
+X Location    mm -0062.0868 -0062.0948                     +0000.0081           
+Y Location    mm +0022.4498 +0022.4504                     +0000.0006           
+Z Location    mm +0053.4182 +0053.4188                     +0000.0006           
+Sphericity    mm            +0000.0005                     +0000.0005           
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L123_fixture.RTN                                     2 Tue Oct 07 17:44:46 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Datum plane, focus
+X Location    mm            +0023.6068                                          
+Y Location    mm            -0141.3088                                          
+Z Location    mm            -0059.1757                                          
+Flatness      mm            +0000.0123                                          
+XY Angle      dd            -0130.7690                                          
+Elevation     dd            -0089.9892                                          
+ 
+Step 3 - Hole pin, Z
+X Location    mm            +0009.6408                                          
+Y Location    mm            -0057.0626                                          
+Z Location    mm            +0001.7485                                          
+ 
+Step 4 - Slot pin, Z
+X Location    mm            +0009.6818                                          
+Y Location    mm            -0247.5276                                          
+Z Location    mm            +0001.5431                                          
+ 
+Step 5 - Datum plane, hole side, touch
+X Location    mm +0020.2624 +0020.2638                     +0000.0015           
+Y Location    mm -0113.8947 -0113.9033                     +0000.0086           
+Z Location    mm -0000.0119 -0000.0282                     +0000.0164           
+Flatness      mm            +0000.0046                     +0000.0046           
+XY Angle      dd -0041.8173 +0148.8160                     +0190.6333           
+Elevation     dd -0089.9935 -0089.9926                     +0000.0009           
+ 
+Step 6 - Datum plane, slot side, touch
+X Location    mm +0019.1857 +0019.1867                     +0000.0010           
+Y Location    mm -0189.7940 -0189.8036                     +0000.0096           
+Z Location    mm -0000.0141 -0000.0372                     +0000.0232           
+Flatness      mm            +0000.0071                     +0000.0071           
+XY Angle      dd -0141.7404 -0064.7321                     +0077.0083           
+Elevation     dd +0089.9917 +0089.9892                     -0000.0026           
+ 
+Step 7 - Hole pin, touch
+Diameter      mm +0003.1817 +0003.1770                     -0000.0047           
+X Location    mm +0009.6438 +0009.6356                     -0000.0082           
+Y Location    mm -0057.0139 -0057.0088                     -0000.0050           
+Z Location    mm +0000.8514 +0000.8519                     +0000.0004           
+Cylindricity  mm            +0000.0009                     +0000.0009           
+XY Angle      dd +0087.3861 +0063.5470                     -0023.8391           
+Elevation     dd +0089.8226 +0089.5925                     -0000.2301           
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 8 - Slot pin, touch
+Diameter      mm +0003.1798 +0003.1716                     -0000.0082           
+X Location    mm +0009.7091 +0009.7301                     +0000.0209           
+Y Location    mm -0247.5778 -0247.5694                     -0000.0084           
+Z Location    mm +0000.8492 +0000.8494                     +0000.0002           
+Cylindricity  mm            +0000.0059                     +0000.0059           
+XY Angle      dd -0095.1353 +0136.7753                     +0231.9106           
+Elevation     dd +0089.6018 +0089.1133                     -0000.4885           
+ 
+Step 9 - Datum plane, touch
+X Location    mm            +0019.7248                                          
+Y Location    mm            -0151.8529                                          
+Z Location    mm            -0000.0327                                          
+Flatness      mm            +0000.0079                                          
+XY Angle      dd            +0129.4295                                          
+Elevation     dd            -0089.9911                                          
+ 
+Step 10 - Hole pin intersection
+X Location    mm            +0009.6329                                          
+Y Location    mm            -0057.0144                                          
+Z Location    mm            -0000.0204                                          
+ 
+Step 11 - Slot pin intersection
+X Location    mm            +0009.7401                                          
+Y Location    mm            -0247.5788                                          
+Z Location    mm            -0000.0432                                          
+ 
+Step 15 - Origin ball, touch
+Sphere Diame  mm +0006.3500 +0006.3518                     +0000.0018           
+X Location    mm +0252.8532 +0252.8529                     -0000.0003           
+Y Location    mm +0022.3181 +0022.3055                     -0000.0126           
+Z Location    mm +0053.4010 +0053.4948                     +0000.0938           
+Sphericity    mm            +0000.0032                     +0000.0032           
+ 
+Step 16 - Diagonal ball, touch
+Sphere Diame  mm +0006.3500 +0006.3536                     +0000.0036           
+X Location    mm +0252.8283 +0252.8250                     -0000.0033           
+Y Location    mm -0002.8935 -0002.9012                     +0000.0077           
+Z Location    mm +0028.0024 +0028.0946                     +0000.0922           
+Sphericity    mm            +0000.0048                     +0000.0048           
+ 
+Step 17 - Axis ball, touch
+Sphere Diame  mm +0006.3500 +0006.3526                     +0000.0026           
+X Location    mm -0062.0955 -0062.0958                     +0000.0003           
+Y Location    mm +0022.4394 +0022.4550                     +0000.0156           
+Z Location    mm +0053.3062 +0053.4160                     +0000.1098           
+Sphericity    mm            +0000.0032                     +0000.0032           
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L123_fixture.RTN                                     3 Tue Oct 07 17:51:01 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Datum plane, focus
+X Location    mm            +0023.6071                                          
+Y Location    mm            -0141.3088                                          
+Z Location    mm            -0059.1795                                          
+Flatness      mm            +0000.0046                                          
+XY Angle      dd            -0172.2178                                          
+Elevation     dd            -0089.9805                                          
+ 
+Step 3 - Hole pin, Z
+X Location    mm            +0009.6411                                          
+Y Location    mm            -0057.0626                                          
+Z Location    mm            +0001.7421                                          
+ 
+Step 4 - Slot pin, Z
+X Location    mm            +0009.6834                                          
+Y Location    mm            -0247.5280                                          
+Z Location    mm            +0001.5547                                          
+ 
+Step 5 - Datum plane, hole side, touch
+X Location    mm +0020.2624 +0020.2636                     +0000.0012           
+Y Location    mm -0113.8947 -0113.9029                     +0000.0082           
+Z Location    mm -0000.0119 -0000.0282                     +0000.0163           
+Flatness      mm            +0000.0041                     +0000.0041           
+XY Angle      dd -0041.8173 -0024.6102                     +0017.2071           
+Elevation     dd -0089.9935 -0089.9942                     -0000.0007           
+ 
+Step 6 - Datum plane, slot side, touch
+X Location    mm +0019.1857 +0019.1863                     +0000.0006           
+Y Location    mm -0189.7940 -0189.8033                     +0000.0092           
+Z Location    mm -0000.0141 -0000.0298                     +0000.0158           
+Flatness      mm            +0000.0060                     +0000.0060           
+XY Angle      dd -0141.7404 -0150.8131                     -0009.0727           
+Elevation     dd +0089.9917 +0089.9902                     -0000.0015           
+ 
+Step 7 - Hole pin, touch
+Diameter      mm +0003.1817 +0003.1777                     -0000.0040           
+X Location    mm +0009.6438 +0009.6487                     +0000.0049           
+Y Location    mm -0057.0139 -0057.0150                     +0000.0012           
+Z Location    mm +0000.8514 +0000.8503                     -0000.0011           
+Cylindricity  mm            +0000.0008                     +0000.0008           
+XY Angle      dd +0087.3861 +0100.9086                     +0013.5225           
+Elevation     dd +0089.8226 +0089.6703                     -0000.1523           
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 8 - Slot pin, touch
+Diameter      mm +0003.1798 +0003.1728                     -0000.0070           
+X Location    mm +0009.7091 +0009.7432                     +0000.0340           
+Y Location    mm -0247.5778 -0247.5753                     -0000.0025           
+Z Location    mm +0000.8492 +0000.8499                     +0000.0007           
+Cylindricity  mm            +0000.0052                     +0000.0052           
+XY Angle      dd -0095.1353 +0133.6581                     +0228.7934           
+Elevation     dd +0089.6018 +0089.2340                     -0000.3678           
+ 
+Step 9 - Datum plane, touch
+X Location    mm            +0019.7254                                          
+Y Location    mm            -0151.8530                                          
+Z Location    mm            -0000.0290                                          
+Flatness      mm            +0000.0074                                          
+XY Angle      dd            +0009.7187                                          
+Elevation     dd            -0089.9932                                          
+ 
+Step 10 - Hole pin intersection
+X Location    mm            +0009.6497                                          
+Y Location    mm            -0057.0200                                          
+Z Location    mm            -0000.0283                                          
+ 
+Step 11 - Slot pin intersection
+X Location    mm            +0009.7513                                          
+Y Location    mm            -0247.5839                                          
+Z Location    mm            -0000.0321                                          
+ 
+Step 15 - Origin ball, touch
+Sphere Diame  mm +0006.3500 +0006.3520                     +0000.0020           
+X Location    mm +0252.8532 +0252.8520                     -0000.0012           
+Y Location    mm +0022.3181 +0022.3083                     -0000.0098           
+Z Location    mm +0053.4010 +0053.4944                     +0000.0934           
+Sphericity    mm            +0000.0023                     +0000.0023           
+ 
+Step 16 - Diagonal ball, touch
+Sphere Diame  mm +0006.3500 +0006.3526                     +0000.0026           
+X Location    mm +0252.8283 +0252.8259                     -0000.0024           
+Y Location    mm -0002.8935 -0002.8978                     +0000.0043           
+Z Location    mm +0028.0024 +0028.0945                     +0000.0921           
+Sphericity    mm            +0000.0044                     +0000.0044           
+ 
+Step 17 - Axis ball, touch
+Sphere Diame  mm +0006.3500 +0006.3535                     +0000.0035           
+X Location    mm -0062.0955 -0062.0950                     -0000.0005           
+Y Location    mm +0022.4394 +0022.4493                     +0000.0099           
+Z Location    mm +0053.3062 +0053.4163                     +0000.1101           
+Sphericity    mm            +0000.0027                     +0000.0027           
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L123_fixture.RTN                                     4 Tue Oct 07 17:57:38 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Datum plane, focus
+X Location    mm            +0023.6067                                          
+Y Location    mm            -0141.3088                                          
+Z Location    mm            -0059.1772                                          
+Flatness      mm            +0000.0110                                          
+XY Angle      dd            -0099.2685                                          
+Elevation     dd            -0089.9961                                          
+ 
+Step 3 - Hole pin, Z
+X Location    mm            +0009.6414                                          
+Y Location    mm            -0057.0629                                          
+Z Location    mm            +0001.7463                                          
+ 
+Step 4 - Slot pin, Z
+X Location    mm            +0009.6835                                          
+Y Location    mm            -0247.5278                                          
+Z Location    mm            +0001.5596                                          
+ 
+Step 5 - Datum plane, hole side, touch
+X Location    mm +0020.2624 +0020.2640                     +0000.0016           
+Y Location    mm -0113.8947 -0113.9030                     +0000.0084           
+Z Location    mm -0000.0119 -0000.0293                     +0000.0175           
+Flatness      mm            +0000.0040                     +0000.0040           
+XY Angle      dd -0041.8173 -0179.9501                     -0138.1328           
+Elevation     dd -0089.9935 -0089.9873                     +0000.0062           
+ 
+Step 6 - Datum plane, slot side, touch
+X Location    mm +0019.1857 +0019.1870                     +0000.0013           
+Y Location    mm -0189.7940 -0189.8033                     +0000.0093           
+Z Location    mm -0000.0141 -0000.0319                     +0000.0179           
+Flatness      mm            +0000.0073                     +0000.0073           
+XY Angle      dd -0141.7404 -0024.0906                     +0117.6498           
+Elevation     dd +0089.9917 +0089.9875                     -0000.0042           
+ 
+Step 7 - Hole pin, touch
+Diameter      mm +0003.1817 +0003.1771                     -0000.0046           
+X Location    mm +0009.6438 +0009.6297                     -0000.0141           
+Y Location    mm -0057.0139 -0057.0138                     -0000.0001           
+Z Location    mm +0000.8514 +0000.8506                     -0000.0008           
+Cylindricity  mm            +0000.0008                     +0000.0008           
+XY Angle      dd +0087.3861 +0109.6006                     +0022.2145           
+Elevation     dd +0089.8226 +0089.6035                     -0000.2191           
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 8 - Slot pin, touch
+Diameter      mm +0003.1798 +0003.1724                     -0000.0074           
+X Location    mm +0009.7091 +0009.7238                     +0000.0146           
+Y Location    mm -0247.5778 -0247.5745                     -0000.0033           
+Z Location    mm +0000.8492 +0000.8500                     +0000.0008           
+Cylindricity  mm            +0000.0054                     +0000.0054           
+XY Angle      dd -0095.1353 +0129.5800                     +0224.7152           
+Elevation     dd +0089.6018 +0089.1307                     -0000.4711           
+ 
+Step 9 - Datum plane, touch
+X Location    mm            +0019.7244                                          
+Y Location    mm            -0151.8530                                          
+Z Location    mm            -0000.0306                                          
+Flatness      mm            +0000.0080                                          
+XY Angle      dd            +0169.5757                                          
+Elevation     dd            -0089.9876                                          
+ 
+Step 10 - Hole pin intersection
+X Location    mm            +0009.6318                                          
+Y Location    mm            -0057.0195                                          
+Z Location    mm            -0000.0248                                          
+ 
+Step 11 - Slot pin intersection
+X Location    mm            +0009.7323                                          
+Y Location    mm            -0247.5848                                          
+Z Location    mm            -0000.0323                                          
+ 
+Step 15 - Origin ball, touch
+Sphere Diame  mm +0006.3500 +0006.3521                     +0000.0021           
+X Location    mm +0252.8532 +0252.8510                     -0000.0022           
+Y Location    mm +0022.3181 +0022.3079                     -0000.0102           
+Z Location    mm +0053.4010 +0053.4943                     +0000.0933           
+Sphericity    mm            +0000.0027                     +0000.0027           
+ 
+Step 16 - Diagonal ball, touch
+Sphere Diame  mm +0006.3500 +0006.3539                     +0000.0039           
+X Location    mm +0252.8283 +0252.8243                     -0000.0040           
+Y Location    mm -0002.8935 -0002.8982                     +0000.0047           
+Z Location    mm +0028.0024 +0028.0938                     +0000.0914           
+Sphericity    mm            +0000.0044                     +0000.0044           
+ 
+Step 17 - Axis ball, touch
+Sphere Diame  mm +0006.3500 +0006.3534                     +0000.0034           
+X Location    mm -0062.0955 -0062.0963                     +0000.0008           
+Y Location    mm +0022.4394 +0022.4475                     +0000.0081           
+Z Location    mm +0053.3062 +0053.4162                     +0000.1100           
+Sphericity    mm            +0000.0033                     +0000.0033           
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L123_fixture.RTN                                     2 Wed Oct 08 19:03:25 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Datum plane, focus
+X Location    mm            +0023.6071                                          
+Y Location    mm            -0141.3088                                          
+Z Location    mm            -0059.1765                                          
+Flatness      mm            +0000.0059                                          
+XY Angle      dd            +0179.6577                                          
+Elevation     dd            -0089.9749                                          
+ 
+Step 3 - Hole pin, Z
+X Location    mm            +0009.6408                                          
+Y Location    mm            -0057.0629                                          
+Z Location    mm            +0001.7441                                          
+ 
+Step 4 - Slot pin, Z
+X Location    mm            +0009.6841                                          
+Y Location    mm            -0247.5277                                          
+Z Location    mm            +0001.5589                                          
+ 
+Step 5 - Datum plane, hole side, touch
+X Location    mm +0020.2624 +0020.2642                     +0000.0018           
+Y Location    mm -0113.8947 -0113.9026                     +0000.0080           
+Z Location    mm -0000.0119 -0000.0260                     +0000.0142           
+Flatness      mm            +0000.0060                     +0000.0060           
+XY Angle      dd -0041.8173 -0064.2588                     -0022.4415           
+Elevation     dd -0089.9935 -0089.9949                     -0000.0013           
+ 
+Step 6 - Datum plane, slot side, touch
+X Location    mm +0019.1857 +0019.1868                     +0000.0011           
+Y Location    mm -0189.7940 -0189.8036                     +0000.0096           
+Z Location    mm -0000.0141 -0000.0272                     +0000.0131           
+Flatness      mm            +0000.0041                     +0000.0041           
+XY Angle      dd -0141.7404 -0132.3172                     +0009.4232           
+Elevation     dd +0089.9917 +0089.9916                     -0000.0001           
+ 
+Step 7 - Hole pin, touch
+Diameter      mm +0003.1817 +0003.1768                     -0000.0049           
+X Location    mm +0009.6438 +0009.6669                     +0000.0231           
+Y Location    mm -0057.0139 -0057.0125                     -0000.0014           
+Z Location    mm +0000.8514 +0000.8516                     +0000.0002           
+Cylindricity  mm            +0000.0061                     +0000.0061           
+XY Angle      dd +0087.3861 +0131.6913                     +0044.3052           
+Elevation     dd +0089.8226 +0089.6632                     -0000.1593           
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 8 - Slot pin, touch
+Diameter      mm +0003.1798 +0003.1733                     -0000.0065           
+X Location    mm +0009.7091 +0009.8176                     +0000.1085           
+Y Location    mm -0247.5778 -0247.5754                     -0000.0024           
+Z Location    mm +0000.8492 +0000.8525                     +0000.0033           
+Cylindricity  mm            +0000.0082                     +0000.0082           
+XY Angle      dd -0095.1353 +0133.8549                     +0228.9902           
+Elevation     dd +0089.6018 +0089.3559                     -0000.2459           
+ 
+Step 9 - Datum plane, touch
+X Location    mm            +0019.7256                                          
+Y Location    mm            -0151.8530                                          
+Z Location    mm            -0000.0266                                          
+Flatness      mm            +0000.0089                                          
+XY Angle      dd            +0012.6528                                          
+Elevation     dd            -0089.9963                                          
+ 
+Step 10 - Hole pin intersection
+X Location    mm            +0009.6703                                          
+Y Location    mm            -0057.0163                                          
+Z Location    mm            -0000.0259                                          
+ 
+Step 11 - Slot pin intersection
+X Location    mm            +0009.8245                                          
+Y Location    mm            -0247.5826                                          
+Z Location    mm            -0000.0286                                          
+ 
+Step 15 - Origin ball, touch
+Sphere Diame  mm +0006.3500 +0006.3519                     +0000.0019           
+X Location    mm +0252.8532 +0252.8548                     +0000.0016           
+Y Location    mm +0022.3181 +0022.3116                     -0000.0065           
+Z Location    mm +0053.4010 +0053.4920                     +0000.0910           
+Sphericity    mm            +0000.0027                     +0000.0027           
+ 
+Step 16 - Diagonal ball, touch
+Sphere Diame  mm +0006.3500 +0006.3538                     +0000.0038           
+X Location    mm +0252.8283 +0252.8292                     +0000.0009           
+Y Location    mm -0002.8935 -0002.8942                     +0000.0007           
+Z Location    mm +0028.0024 +0028.0900                     +0000.0876           
+Sphericity    mm            +0000.0044                     +0000.0044           
+ 
+Step 17 - Axis ball, touch
+Sphere Diame  mm +0006.3500 +0006.3531                     +0000.0031           
+X Location    mm -0062.0955 -0062.0928                     -0000.0027           
+Y Location    mm +0022.4394 +0022.4456                     +0000.0062           
+Z Location    mm +0053.3062 +0053.4155                     +0000.1093           
+Sphericity    mm            +0000.0029                     +0000.0029           
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L123_fixture.RTN                                     3 Wed Oct 08 19:09:41 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Datum plane, focus
+X Location    mm            +0023.6070                                          
+Y Location    mm            -0141.3089                                          
+Z Location    mm            -0059.1761                                          
+Flatness      mm            +0000.0048                                          
+XY Angle      dd            +0179.5295                                          
+Elevation     dd            -0089.9715                                          
+ 
+Step 3 - Hole pin, Z
+X Location    mm            +0009.6412                                          
+Y Location    mm            -0057.0625                                          
+Z Location    mm            +0001.7432                                          
+ 
+Step 4 - Slot pin, Z
+X Location    mm            +0009.6845                                          
+Y Location    mm            -0247.5278                                          
+Z Location    mm            +0001.5587                                          
+ 
+Step 5 - Datum plane, hole side, touch
+X Location    mm +0020.2624 +0020.2637                     +0000.0014           
+Y Location    mm -0113.8947 -0113.9027                     +0000.0081           
+Z Location    mm -0000.0119 -0000.0287                     +0000.0168           
+Flatness      mm            +0000.0045                     +0000.0045           
+XY Angle      dd -0041.8173 -0040.4143                     +0001.4030           
+Elevation     dd -0089.9935 -0089.9930                     +0000.0005           
+ 
+Step 6 - Datum plane, slot side, touch
+X Location    mm +0019.1857 +0019.1865                     +0000.0008           
+Y Location    mm -0189.7940 -0189.8037                     +0000.0097           
+Z Location    mm -0000.0141 -0000.0302                     +0000.0161           
+Flatness      mm            +0000.0031                     +0000.0031           
+XY Angle      dd -0141.7404 -0146.7011                     -0004.9607           
+Elevation     dd +0089.9917 +0089.9891                     -0000.0026           
+ 
+Step 7 - Hole pin, touch
+Diameter      mm +0003.1817 +0003.1765                     -0000.0052           
+X Location    mm +0009.6438 +0009.6712                     +0000.0274           
+Y Location    mm -0057.0139 -0057.0126                     -0000.0012           
+Z Location    mm +0000.8514 +0000.8507                     -0000.0007           
+Cylindricity  mm            +0000.0045                     +0000.0045           
+XY Angle      dd +0087.3861 +0115.2775                     +0027.8914           
+Elevation     dd +0089.8226 +0089.6250                     -0000.1976           
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 8 - Slot pin, touch
+Diameter      mm +0003.1798 +0003.1723                     -0000.0075           
+X Location    mm +0009.7091 +0009.8207                     +0000.1116           
+Y Location    mm -0247.5778 -0247.5751                     -0000.0027           
+Z Location    mm +0000.8492 +0000.8501                     +0000.0009           
+Cylindricity  mm            +0000.0077                     +0000.0077           
+XY Angle      dd -0095.1353 +0138.1360                     +0233.2712           
+Elevation     dd +0089.6018 +0089.3885                     -0000.2134           
+ 
+Step 9 - Datum plane, touch
+X Location    mm            +0019.7255                                          
+Y Location    mm            -0151.8531                                          
+Z Location    mm            -0000.0294                                          
+Flatness      mm            +0000.0086                                          
+XY Angle      dd            +0007.5629                                          
+Elevation     dd            -0089.9930                                          
+ 
+Step 10 - Hole pin intersection
+X Location    mm            +0009.6737                                          
+Y Location    mm            -0057.0178                                          
+Z Location    mm            -0000.0291                                          
+ 
+Step 11 - Slot pin intersection
+X Location    mm            +0009.8277                                          
+Y Location    mm            -0247.5814                                          
+Z Location    mm            -0000.0322                                          
+ 
+Step 15 - Origin ball, touch
+Sphere Diame  mm +0006.3500 +0006.3518                     +0000.0018           
+X Location    mm +0252.8532 +0252.8533                     +0000.0001           
+Y Location    mm +0022.3181 +0022.3112                     -0000.0069           
+Z Location    mm +0053.4010 +0053.4945                     +0000.0935           
+Sphericity    mm            +0000.0032                     +0000.0032           
+ 
+Step 16 - Diagonal ball, touch
+Sphere Diame  mm +0006.3500 +0006.3528                     +0000.0028           
+X Location    mm +0252.8283 +0252.8273                     -0000.0010           
+Y Location    mm -0002.8935 -0002.8947                     +0000.0012           
+Z Location    mm +0028.0024 +0028.0934                     +0000.0910           
+Sphericity    mm            +0000.0049                     +0000.0049           
+ 
+Step 17 - Axis ball, touch
+Sphere Diame  mm +0006.3500 +0006.3536                     +0000.0036           
+X Location    mm -0062.0955 -0062.0941                     -0000.0014           
+Y Location    mm +0022.4394 +0022.4460                     +0000.0066           
+Z Location    mm +0053.3062 +0053.4169                     +0000.1107           
+Sphericity    mm            +0000.0032                     +0000.0032           
+Machine Serial Number: SVW5001902                                     Page:    1
+================================================================================
+Routine Name                                     Run #       Date & Time        
+================================================================================
+L123_fixture.RTN                                     4 Wed Oct 08 19:15:38 2014
+================================================================================
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 1 - Datum plane, focus
+X Location    mm            +0023.6066                                          
+Y Location    mm            -0141.3089                                          
+Z Location    mm            -0059.1764                                          
+Flatness      mm            +0000.0057                                          
+XY Angle      dd            +0179.6087                                          
+Elevation     dd            -0089.9744                                          
+ 
+Step 3 - Hole pin, Z
+X Location    mm            +0009.6413                                          
+Y Location    mm            -0057.0629                                          
+Z Location    mm            +0001.7434                                          
+ 
+Step 4 - Slot pin, Z
+X Location    mm            +0009.6837                                          
+Y Location    mm            -0247.5277                                          
+Z Location    mm            +0001.5649                                          
+ 
+Step 5 - Datum plane, hole side, touch
+X Location    mm +0020.2624 +0020.2637                     +0000.0014           
+Y Location    mm -0113.8947 -0113.9028                     +0000.0082           
+Z Location    mm -0000.0119 -0000.0286                     +0000.0167           
+Flatness      mm            +0000.0052                     +0000.0052           
+XY Angle      dd -0041.8173 -0054.6793                     -0012.8620           
+Elevation     dd -0089.9935 -0089.9947                     -0000.0012           
+ 
+Step 6 - Datum plane, slot side, touch
+X Location    mm +0019.1857 +0019.1868                     +0000.0011           
+Y Location    mm -0189.7940 -0189.8035                     +0000.0095           
+Z Location    mm -0000.0141 -0000.0299                     +0000.0158           
+Flatness      mm            +0000.0035                     +0000.0035           
+XY Angle      dd -0141.7404 -0137.1850                     +0004.5554           
+Elevation     dd +0089.9917 +0089.9911                     -0000.0006           
+ 
+Step 7 - Hole pin, touch
+Diameter      mm +0003.1817 +0003.1766                     -0000.0051           
+X Location    mm +0009.6438 +0009.6685                     +0000.0247           
+Y Location    mm -0057.0139 -0057.0130                     -0000.0009           
+Z Location    mm +0000.8514 +0000.8504                     -0000.0010           
+Cylindricity  mm            +0000.0041                     +0000.0041           
+XY Angle      dd +0087.3861 +0104.9380                     +0017.5519           
+Elevation     dd +0089.8226 +0089.6472                     -0000.1753           
+Machine Serial Number: SVW5001902                                     Page:    2
+================================================================================
+Feature      Unit   Nominal     Actual      Tolerances      Deviation   Exceeded
+================================================================================
+ 
+Step 8 - Slot pin, touch
+Diameter      mm +0003.1798 +0003.1723                     -0000.0075           
+X Location    mm +0009.7091 +0009.8176                     +0000.1084           
+Y Location    mm -0247.5778 -0247.5747                     -0000.0032           
+Z Location    mm +0000.8492 +0000.8505                     +0000.0013           
+Cylindricity  mm            +0000.0076                     +0000.0076           
+XY Angle      dd -0095.1353 +0148.9331                     +0244.0684           
+Elevation     dd +0089.6018 +0089.3670                     -0000.2348           
+ 
+Step 9 - Datum plane, touch
+X Location    mm            +0019.7255                                          
+Y Location    mm            -0151.8531                                          
+Z Location    mm            -0000.0293                                          
+Flatness      mm            +0000.0087                                          
+XY Angle      dd            +0011.3840                                          
+Elevation     dd            -0089.9954                                          
+ 
+Step 10 - Hole pin intersection
+X Location    mm            +0009.6699                                          
+Y Location    mm            -0057.0182                                          
+Z Location    mm            -0000.0286                                          
+ 
+Step 11 - Slot pin intersection
+X Location    mm            +0009.8259                                          
+Y Location    mm            -0247.5797                                          
+Z Location    mm            -0000.0316                                          
+ 
+Step 15 - Origin ball, touch
+Sphere Diame  mm +0006.3500 +0006.3507                     +0000.0007           
+X Location    mm +0252.8532 +0252.8538                     +0000.0006           
+Y Location    mm +0022.3181 +0022.3093                     -0000.0088           
+Z Location    mm +0053.4010 +0053.4948                     +0000.0938           
+Sphericity    mm            +0000.0041                     +0000.0041           
+ 
+Step 16 - Diagonal ball, touch
+Sphere Diame  mm +0006.3500 +0006.3535                     +0000.0035           
+X Location    mm +0252.8283 +0252.8266                     -0000.0017           
+Y Location    mm -0002.8935 -0002.8962                     +0000.0027           
+Z Location    mm +0028.0024 +0028.0930                     +0000.0906           
+Sphericity    mm            +0000.0054                     +0000.0054           
+ 
+Step 17 - Axis ball, touch
+Sphere Diame  mm +0006.3500 +0006.3535                     +0000.0035           
+X Location    mm -0062.0955 -0062.0941                     -0000.0014           
+Y Location    mm +0022.4394 +0022.4480                     +0000.0086           
+Z Location    mm +0053.3062 +0053.4171                     +0000.1109           
+Sphericity    mm            +0000.0030                     +0000.0030           
